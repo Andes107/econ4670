@@ -108,8 +108,7 @@ write.csv(fullOECD,
           row.names = FALSE)
 #the OECD is a successful merger and acquisition
 #To conclude, one should attach ISO using M49, that's it
-unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv",
-               fileEncoding="UTF-8-BOM")
+unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv")
 imf=read.csv("unmerged_unraw_csv/IMF_tax_to_gdp_1995_2019.csv",
              fileEncoding="UTF-8-BOM")
 diff=setdiff(imf$countries, unm49$countries)
@@ -128,4 +127,30 @@ imfRightISO=subset(imfRight,(!is.na(imfRight$iso3)))
 #write it back
 write.csv(imfRightISO,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/IMF_tax_gdp.csv", 
+          row.names = FALSE)
+#now i am on world bank
+bank=read.csv("unmerged_unraw_csv/World_Bank_ALL_1995_2019.csv",
+                   fileEncoding="UTF-8-BOM")
+unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv")
+nameCode=subset(unm49,select=c(countries,iso3))
+colnames(nameCode)=c("countries","countries_code")
+rightBank=merge(x=nameCode,y=bank,by="countries_code",all.y=TRUE)
+rightBank=subset(rightBank,!is.na(rightBank$countries.x))
+setdiff=subset(rightBank,rightBank$countries.x!=rightBank$countries.y)
+setdiff=subset(setdiff,select=c(countries_code,countries.x,countries.y))
+setdiff=unique(setdiff)
+setdiff[index,]
+index=index+1
+#the country code is right already in world bank data
+#therefore, the last step will be cleansing those rows
+bank[bank$countries=="",]
+bank=subset(bank,bank$countries!="")
+bank[bank$countries=="Data from database: World Development Indicators",]
+bank=subset(bank,bank$countries!="Data from database: World Development Indicators")
+#filled the '..' with NA instead
+for(s in 5:9)
+  bank[bank[,s]=="..",][,s]=rep(NA,NROW(bank[bank[,s]=="..",][,s]))
+#write world bank data back
+write.csv(bank,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/World_Bank.csv", 
           row.names = FALSE)
