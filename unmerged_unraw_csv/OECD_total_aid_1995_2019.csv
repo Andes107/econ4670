@@ -1,0 +1,4729 @@
+﻿countries,year,total_aid
+Albania,1995,220.75
+Albania,1996,279.84
+Albania,1997,176.71
+Albania,1998,255.26
+Albania,1999,512.31
+Albania,2000,231.12
+Albania,2001,343.81
+Albania,2002,320.37
+Albania,2003,380.18
+Albania,2004,526.36
+Albania,2005,477.79
+Albania,2006,506.12
+Albania,2007,674.99
+Albania,2008,866.36
+Albania,2009,836.26
+Albania,2010,969.07
+Albania,2011,939.72
+Albania,2012,718.27
+Albania,2013,146.2
+Albania,2014,491.68
+Albania,2015,661.44
+Albania,2016,149.99
+Albania,2017,461.13
+Albania,2018,755.83
+Albania,2019,329.07
+Belarus,2005,141.02
+Belarus,2006,365.7
+Belarus,2007,634.12
+Belarus,2008,1260.22
+Belarus,2009,559.87
+Belarus,2010,786.54
+Belarus,2011,446.49
+Belarus,2012,922.23
+Belarus,2013,594.54
+Belarus,2014,1094.58
+Belarus,2015,484.09
+Belarus,2016,-431.62
+Belarus,2017,336.95
+Belarus,2018,843.58
+Belarus,2019,521.63
+Bosnia and Herzegovina,1995,931.77
+Bosnia and Herzegovina,1996,830.93
+Bosnia and Herzegovina,1997,884.73
+Bosnia and Herzegovina,1998,907.66
+Bosnia and Herzegovina,1999,1350.47
+Bosnia and Herzegovina,2000,946.25
+Bosnia and Herzegovina,2001,713.85
+Bosnia and Herzegovina,2002,709.46
+Bosnia and Herzegovina,2003,644.87
+Bosnia and Herzegovina,2004,956.03
+Bosnia and Herzegovina,2005,731.17
+Bosnia and Herzegovina,2006,1195.74
+Bosnia and Herzegovina,2007,1280.62
+Bosnia and Herzegovina,2008,1294.88
+Bosnia and Herzegovina,2009,579.8
+Bosnia and Herzegovina,2010,935.87
+Bosnia and Herzegovina,2011,668.26
+Bosnia and Herzegovina,2012,1090.99
+Bosnia and Herzegovina,2013,985.56
+Bosnia and Herzegovina,2014,551.41
+Bosnia and Herzegovina,2015,945.58
+Bosnia and Herzegovina,2016,655.57
+Bosnia and Herzegovina,2017,1007.58
+Bosnia and Herzegovina,2018,1014.16
+Bosnia and Herzegovina,2019,707.12
+Croatia,1995,208.11
+Croatia,1996,516.14
+Croatia,1997,1160.78
+Croatia,1998,912.27
+Croatia,1999,1684.67
+Croatia,2000,1298.38
+Croatia,2001,1258.95
+Croatia,2002,1543.31
+Croatia,2003,2174.26
+Croatia,2004,1228.43
+Croatia,2005,847.16
+Croatia,2006,2713.69
+Croatia,2007,9352.88
+Croatia,2008,2312.66
+Croatia,2009,3486.51
+Croatia,2010,1294.04
+Cyprus,1995,368.36
+Cyprus,1996,257.96
+North Macedonia,1995,93.35
+North Macedonia,1996,127.97
+North Macedonia,1997,324.25
+North Macedonia,1998,68.63
+North Macedonia,1999,263.66
+North Macedonia,2000,262.86
+North Macedonia,2001,247.78
+North Macedonia,2002,236.84
+North Macedonia,2003,93.27
+North Macedonia,2004,340.37
+North Macedonia,2005,381.56
+North Macedonia,2006,548.87
+North Macedonia,2007,229.37
+North Macedonia,2008,570.58
+North Macedonia,2009,332.58
+North Macedonia,2010,551.7
+North Macedonia,2011,517.67
+North Macedonia,2012,337.94
+North Macedonia,2013,450.65
+North Macedonia,2014,358.88
+North Macedonia,2015,254.2
+North Macedonia,2016,482.83
+North Macedonia,2017,320.86
+North Macedonia,2018,434.97
+North Macedonia,2019,476.19
+Gibraltar,1995,8.55
+Gibraltar,1996,3.49
+Gibraltar,1997,324.14
+Gibraltar,1998,-124.58
+Gibraltar,1999,291.47
+Kosovo,2009,584.12
+Kosovo,2010,559.44
+Kosovo,2011,575.58
+Kosovo,2012,541.86
+Kosovo,2013,558.25
+Kosovo,2014,733.15
+Kosovo,2015,610.4
+Kosovo,2016,504.94
+Kosovo,2017,702.4
+Kosovo,2018,701.83
+Kosovo,2019,485.31
+Malta,1995,92.89
+Malta,1996,375.31
+Malta,1997,661.34
+Malta,1998,572.08
+Malta,1999,733.97
+Malta,2000,875.36
+Malta,2001,206.27
+Malta,2002,-210.32
+Moldova,1997,117.69
+Moldova,1998,89.83
+Moldova,1999,304.11
+Moldova,2000,141.09
+Moldova,2001,95.12
+Moldova,2002,149.98
+Moldova,2003,115.48
+Moldova,2004,116.91
+Moldova,2005,157.8
+Moldova,2006,371.33
+Moldova,2007,436.51
+Moldova,2008,463.47
+Moldova,2009,249.75
+Moldova,2010,665.98
+Moldova,2011,414.01
+Moldova,2012,538.55
+Moldova,2013,883.93
+Moldova,2014,526.62
+Moldova,2015,272.74
+Moldova,2016,391.4
+Moldova,2017,224.07
+Moldova,2018,298.29
+Moldova,2019,463.04
+Montenegro,2003,8.14
+Montenegro,2004,20.13
+Montenegro,2005,1.36
+Montenegro,2006,141.86
+Montenegro,2007,173.24
+Montenegro,2008,586.55
+Montenegro,2009,388.72
+Montenegro,2010,185.09
+Montenegro,2011,14.88
+Montenegro,2012,322.31
+Montenegro,2013,292.22
+Montenegro,2014,220.33
+Montenegro,2015,362.25
+Montenegro,2016,302.66
+Montenegro,2017,429.67
+Montenegro,2018,273.1
+Montenegro,2019,217.71
+Serbia,1995,62.6
+Serbia,1996,-149.53
+Serbia,1997,341.9
+Serbia,1998,-230.59
+Serbia,1999,1162.97
+Serbia,2000,1123.96
+Serbia,2001,1261.56
+Serbia,2002,2708.3
+Serbia,2003,2489.9
+Serbia,2004,2270.91
+Serbia,2005,2458.2
+Serbia,2006,3396.9
+Serbia,2007,3957.87
+Serbia,2008,3388.34
+Serbia,2009,1999.37
+Serbia,2010,1937.86
+Serbia,2011,3368.73
+Serbia,2012,1092.74
+Serbia,2013,1915.83
+Serbia,2014,-3614.58
+Serbia,2015,-2609.48
+Serbia,2016,1410.19
+Serbia,2017,2818.12
+Serbia,2018,1176.21
+Serbia,2019,1990.16
+Slovenia,1995,246.48
+Slovenia,1996,335.13
+Slovenia,1997,593.86
+Slovenia,1998,790.54
+Slovenia,1999,425.62
+Slovenia,2000,819.39
+Slovenia,2001,1039.99
+Slovenia,2002,2071.65
+States Ex-Yugoslavia unspecified,1995,474.93
+States Ex-Yugoslavia unspecified,1996,181.09
+States Ex-Yugoslavia unspecified,1997,482.95
+States Ex-Yugoslavia unspecified,1998,80.87
+States Ex-Yugoslavia unspecified,1999,315.98
+States Ex-Yugoslavia unspecified,2000,291.11
+States Ex-Yugoslavia unspecified,2001,73.23
+States Ex-Yugoslavia unspecified,2002,805.36
+States Ex-Yugoslavia unspecified,2003,183.62
+States Ex-Yugoslavia unspecified,2004,353.45
+States Ex-Yugoslavia unspecified,2005,34.25
+States Ex-Yugoslavia unspecified,2006,106.28
+States Ex-Yugoslavia unspecified,2007,95.95
+States Ex-Yugoslavia unspecified,2008,53.39
+States Ex-Yugoslavia unspecified,2009,1082.49
+States Ex-Yugoslavia unspecified,2010,17.51
+States Ex-Yugoslavia unspecified,2011,18.83
+States Ex-Yugoslavia unspecified,2012,107.64
+States Ex-Yugoslavia unspecified,2013,4.18
+States Ex-Yugoslavia unspecified,2014,32.37
+States Ex-Yugoslavia unspecified,2015,1.67
+States Ex-Yugoslavia unspecified,2016,6.01
+States Ex-Yugoslavia unspecified,2017,6.74
+States Ex-Yugoslavia unspecified,2018,6.17
+States Ex-Yugoslavia unspecified,2019,9.11
+Turkey,1995,130.79
+Turkey,1996,4333.75
+Turkey,1997,4657.09
+Turkey,1998,3779.95
+Turkey,1999,3367.33
+Turkey,2000,8724.2
+Turkey,2001,1360.11
+Turkey,2002,-1328.56
+Turkey,2003,2818.1
+Turkey,2004,3551.66
+Turkey,2005,11689.1
+Turkey,2006,17676.46
+Turkey,2007,30510.82
+Turkey,2008,14940.09
+Turkey,2009,6071.08
+Turkey,2010,13085.44
+Turkey,2011,28167.68
+Turkey,2012,17093.84
+Turkey,2013,18122.37
+Turkey,2014,14849.26
+Turkey,2015,13791.06
+Turkey,2016,15338.72
+Turkey,2017,12267.09
+Turkey,2018,7773
+Turkey,2019,140.35
+Ukraine,2005,10517.26
+Ukraine,2006,5968.69
+Ukraine,2007,11875.48
+Ukraine,2008,11189.94
+Ukraine,2009,2551.01
+Ukraine,2010,414.54
+Ukraine,2011,445.48
+Ukraine,2012,1109.15
+Ukraine,2013,1986.05
+Ukraine,2014,2316.78
+Ukraine,2015,2528.46
+Ukraine,2016,855.29
+Ukraine,2017,2579.42
+Ukraine,2018,2579.68
+Ukraine,2019,3358.17
+"Europe, regional",1995,337.65
+"Europe, regional",1996,459.66
+"Europe, regional",1997,1292.63
+"Europe, regional",1998,581.92
+"Europe, regional",1999,1623.1
+"Europe, regional",2000,378.74
+"Europe, regional",2001,140.28
+"Europe, regional",2002,454.59
+"Europe, regional",2003,559.94
+"Europe, regional",2004,269.99
+"Europe, regional",2005,6139.17
+"Europe, regional",2006,12305.83
+"Europe, regional",2007,3028.89
+"Europe, regional",2008,-1794.68
+"Europe, regional",2009,-845.63
+"Europe, regional",2010,2288.77
+"Europe, regional",2011,794.91
+"Europe, regional",2012,6117.62
+"Europe, regional",2013,402.65
+"Europe, regional",2014,1342.21
+"Europe, regional",2015,-3829.21
+"Europe, regional",2016,-6856.22
+"Europe, regional",2017,3926.49
+"Europe, regional",2018,-5054.77
+"Europe, regional",2019,-2918.45
+Algeria,1995,530.06
+Algeria,1996,1877.98
+Algeria,1997,-392.92
+Algeria,1998,229.02
+Algeria,1999,-885.06
+Algeria,2000,-401.31
+Algeria,2001,67.19
+Algeria,2002,-412.75
+Algeria,2003,2345.62
+Algeria,2004,-1360.84
+Algeria,2005,-1390.14
+Algeria,2006,-3694.17
+Algeria,2007,2121.75
+Algeria,2008,337.46
+Algeria,2009,3013.66
+Algeria,2010,1301.37
+Algeria,2011,1634.87
+Algeria,2012,-2543.58
+Algeria,2013,1107.85
+Algeria,2014,1302.64
+Algeria,2015,2774.29
+Algeria,2016,2380.41
+Algeria,2017,2184.62
+Algeria,2018,1275.17
+Algeria,2019,-17.69
+Egypt,1995,2464.75
+Egypt,1996,2731.27
+Egypt,1997,2939.79
+Egypt,1998,4137.93
+Egypt,1999,1812
+Egypt,2000,3266.15
+Egypt,2001,3230.33
+Egypt,2002,2028.75
+Egypt,2003,2276.07
+Egypt,2004,4231.07
+Egypt,2005,4755.69
+Egypt,2006,5400.75
+Egypt,2007,8148.91
+Egypt,2008,17273.04
+Egypt,2009,5967.71
+Egypt,2010,6697.99
+Egypt,2011,4102.85
+Egypt,2012,5716.19
+Egypt,2013,8361.55
+Egypt,2014,7550.96
+Egypt,2015,10498.88
+Egypt,2016,9678.39
+Egypt,2017,5076.08
+Egypt,2018,8677.97
+Egypt,2019,5349.45
+Libya,1995,89.41
+Libya,1996,110.65
+Libya,1997,48.62
+Libya,1998,62.53
+Libya,1999,-274.59
+Libya,2005,523.61
+Libya,2006,-372.45
+Libya,2007,1899.2
+Libya,2008,1984.18
+Libya,2009,1195.86
+Libya,2010,-310.29
+Libya,2011,914.51
+Libya,2012,-339.11
+Libya,2013,-170.31
+Libya,2014,1174.44
+Libya,2015,418.22
+Libya,2016,-671.27
+Libya,2017,411.31
+Libya,2018,503.89
+Libya,2019,800.6
+Morocco,1995,634.58
+Morocco,1996,811.81
+Morocco,1997,556.43
+Morocco,1998,895.92
+Morocco,1999,591.42
+Morocco,2000,629.31
+Morocco,2001,270.91
+Morocco,2002,130.17
+Morocco,2003,1695.25
+Morocco,2004,1069.05
+Morocco,2005,2223.61
+Morocco,2006,1605.2
+Morocco,2007,2987.75
+Morocco,2008,3588.14
+Morocco,2009,2599.72
+Morocco,2010,3567.69
+Morocco,2011,5214.2
+Morocco,2012,4384.63
+Morocco,2013,8034.37
+Morocco,2014,6109.63
+Morocco,2015,2500.31
+Morocco,2016,3754.24
+Morocco,2017,2654.55
+Morocco,2018,1390.98
+Morocco,2019,2876.58
+Tunisia,1995,1517.08
+Tunisia,1996,653.32
+Tunisia,1997,524.3
+Tunisia,1998,500.22
+Tunisia,1999,622.85
+Tunisia,2000,660.63
+Tunisia,2001,1008.27
+Tunisia,2002,565.38
+Tunisia,2003,566.96
+Tunisia,2004,878.13
+Tunisia,2005,517.84
+Tunisia,2006,34.75
+Tunisia,2007,1471.38
+Tunisia,2008,1755.97
+Tunisia,2009,1144.23
+Tunisia,2010,694.92
+Tunisia,2011,884.66
+Tunisia,2012,2475.15
+Tunisia,2013,1333.64
+Tunisia,2014,1978.26
+Tunisia,2015,1474.08
+Tunisia,2016,1002.79
+Tunisia,2017,2494.25
+Tunisia,2018,1860.85
+Tunisia,2019,1629.64
+"North of Sahara, regional",1995,132.44
+"North of Sahara, regional",1996,91.99
+"North of Sahara, regional",1997,-544.97
+"North of Sahara, regional",1998,88.26
+"North of Sahara, regional",1999,-441.27
+"North of Sahara, regional",2000,-210.73
+"North of Sahara, regional",2001,482.78
+"North of Sahara, regional",2002,279.15
+"North of Sahara, regional",2003,236.16
+"North of Sahara, regional",2004,306.32
+"North of Sahara, regional",2005,401.25
+"North of Sahara, regional",2006,540.87
+"North of Sahara, regional",2007,660.52
+"North of Sahara, regional",2008,687.69
+"North of Sahara, regional",2009,425.66
+"North of Sahara, regional",2010,478.63
+"North of Sahara, regional",2011,901.05
+"North of Sahara, regional",2012,216.14
+"North of Sahara, regional",2013,242.84
+"North of Sahara, regional",2014,723.13
+"North of Sahara, regional",2015,283.93
+"North of Sahara, regional",2016,282.8
+"North of Sahara, regional",2017,195.68
+"North of Sahara, regional",2018,442.19
+"North of Sahara, regional",2019,95.91
+Angola,1995,492.07
+Angola,1996,364.93
+Angola,1997,882.25
+Angola,1998,1180.35
+Angola,1999,1408.88
+Angola,2000,117.51
+Angola,2001,848.4
+Angola,2002,-344.44
+Angola,2003,443.05
+Angola,2004,1084.91
+Angola,2005,1667.99
+Angola,2006,777.04
+Angola,2007,-290.45
+Angola,2008,2983.32
+Angola,2009,3582.54
+Angola,2010,909.96
+Angola,2011,3177.54
+Angola,2012,257.87
+Angola,2013,5642.42
+Angola,2014,5360.45
+Angola,2015,-1391.65
+Angola,2016,4614.28
+Angola,2017,476.17
+Angola,2018,-655.08
+Angola,2019,111.12
+Benin,1995,281.36
+Benin,1996,292.16
+Benin,1997,270.78
+Benin,1998,167.3
+Benin,1999,226.17
+Benin,2000,232.87
+Benin,2001,297.79
+Benin,2002,240
+Benin,2003,295.19
+Benin,2004,387.02
+Benin,2005,379.85
+Benin,2006,414.19
+Benin,2007,497.45
+Benin,2008,647.11
+Benin,2009,643.14
+Benin,2010,689.24
+Benin,2011,702.59
+Benin,2012,587.66
+Benin,2013,698.1
+Benin,2014,669.79
+Benin,2015,392.79
+Benin,2016,494.58
+Benin,2017,752.59
+Benin,2018,1261.28
+Benin,2019,360.59
+Botswana,1995,46.47
+Botswana,1996,86.16
+Botswana,1997,162.4
+Botswana,1998,110.69
+Botswana,1999,109.13
+Botswana,2000,83.32
+Botswana,2001,45.48
+Botswana,2002,57.93
+Botswana,2003,-20.54
+Botswana,2004,42.08
+Botswana,2005,81.8
+Botswana,2006,93.68
+Botswana,2007,125.4
+Botswana,2008,642.61
+Botswana,2009,1340.89
+Botswana,2010,231.13
+Botswana,2011,788.31
+Botswana,2012,155.41
+Botswana,2013,42.7
+Botswana,2014,70.86
+Botswana,2015,-73.48
+Botswana,2016,-7.19
+Botswana,2017,1.23
+Botswana,2018,-83.9
+Botswana,2019,-73.57
+Burkina Faso,1995,486.91
+Burkina Faso,1996,413.41
+Burkina Faso,1997,388.65
+Burkina Faso,1998,391.72
+Burkina Faso,1999,435.94
+Burkina Faso,2000,187.27
+Burkina Faso,2001,387.23
+Burkina Faso,2002,454.92
+Burkina Faso,2003,555.68
+Burkina Faso,2004,680.59
+Burkina Faso,2005,726.4
+Burkina Faso,2006,1000.36
+Burkina Faso,2007,891.21
+Burkina Faso,2008,1034.72
+Burkina Faso,2009,1075.75
+Burkina Faso,2010,1072.55
+Burkina Faso,2011,1031.93
+Burkina Faso,2012,1189.33
+Burkina Faso,2013,1027.6
+Burkina Faso,2014,1206.59
+Burkina Faso,2015,1017.75
+Burkina Faso,2016,1405.81
+Burkina Faso,2017,927.29
+Burkina Faso,2018,1198.53
+Burkina Faso,2019,1219.73
+Burundi,1995,279.28
+Burundi,1996,105.73
+Burundi,1997,52.43
+Burundi,1998,78.58
+Burundi,1999,64.64
+Burundi,2000,79.03
+Burundi,2001,150.41
+Burundi,2002,186.16
+Burundi,2003,226.41
+Burundi,2004,349.87
+Burundi,2005,372.87
+Burundi,2006,424.96
+Burundi,2007,509.98
+Burundi,2008,482.67
+Burundi,2009,548.84
+Burundi,2010,691.11
+Burundi,2011,566.12
+Burundi,2012,531.78
+Burundi,2013,588.96
+Burundi,2014,538.9
+Burundi,2015,260.47
+Burundi,2016,734.19
+Burundi,2017,552.77
+Burundi,2018,417.78
+Burundi,2019,702.12
+Cabo Verde,1995,162.01
+Cabo Verde,1996,123.55
+Cabo Verde,1997,143.82
+Cabo Verde,1998,161.52
+Cabo Verde,1999,178.99
+Cabo Verde,2000,119.75
+Cabo Verde,2001,130.78
+Cabo Verde,2002,161.05
+Cabo Verde,2003,187.9
+Cabo Verde,2004,209.94
+Cabo Verde,2005,261.09
+Cabo Verde,2006,193.13
+Cabo Verde,2007,111.7
+Cabo Verde,2008,218.9
+Cabo Verde,2009,194.81
+Cabo Verde,2010,260.81
+Cabo Verde,2011,291.52
+Cabo Verde,2012,-99.18
+Cabo Verde,2013,329.45
+Cabo Verde,2014,241.44
+Cabo Verde,2015,221.63
+Cabo Verde,2016,109.85
+Cabo Verde,2017,161.34
+Cabo Verde,2018,182.86
+Cabo Verde,2019,183.71
+Cameroon,1995,437.34
+Cameroon,1996,481.41
+Cameroon,1997,432.6
+Cameroon,1998,375.79
+Cameroon,1999,577.84
+Cameroon,2000,218.39
+Cameroon,2001,265.53
+Cameroon,2002,1095.87
+Cameroon,2003,613.78
+Cameroon,2004,621.49
+Cameroon,2005,242.71
+Cameroon,2006,835.27
+Cameroon,2007,642.68
+Cameroon,2008,583.53
+Cameroon,2009,750.79
+Cameroon,2010,235.18
+Cameroon,2011,654.15
+Cameroon,2012,578.77
+Cameroon,2013,356.31
+Cameroon,2014,986.1
+Cameroon,2015,1332.28
+Cameroon,2016,371.11
+Cameroon,2017,1706.37
+Cameroon,2018,2142.36
+Cameroon,2019,1613.65
+Central African Republic,1995,167.81
+Central African Republic,1996,162.17
+Central African Republic,1997,99.47
+Central African Republic,1998,118.33
+Central African Republic,1999,159.34
+Central African Republic,2000,50.83
+Central African Republic,2001,75.5
+Central African Republic,2002,54.53
+Central African Republic,2003,51.83
+Central African Republic,2004,111.43
+Central African Republic,2005,90.07
+Central African Republic,2006,137.32
+Central African Republic,2007,191
+Central African Republic,2008,237.41
+Central African Republic,2009,245.8
+Central African Republic,2010,229.39
+Central African Republic,2011,289.19
+Central African Republic,2012,229.67
+Central African Republic,2013,229.76
+Central African Republic,2014,642.54
+Central African Republic,2015,465.57
+Central African Republic,2016,473.83
+Central African Republic,2017,519.5
+Central African Republic,2018,656.84
+Central African Republic,2019,672.12
+Chad,1995,284.06
+Chad,1996,344.12
+Chad,1997,264.99
+Chad,1998,241.85
+Chad,1999,206.82
+Chad,2000,-224.81
+Chad,2001,202.4
+Chad,2002,247.48
+Chad,2003,303.76
+Chad,2004,337.7
+Chad,2005,389.79
+Chad,2006,304.72
+Chad,2007,422.96
+Chad,2008,458.86
+Chad,2009,571.45
+Chad,2010,502.43
+Chad,2011,473.58
+Chad,2012,497.53
+Chad,2013,598.63
+Chad,2014,702.08
+Chad,2015,614.32
+Chad,2016,592.36
+Chad,2017,911.23
+Chad,2018,872.36
+Chad,2019,720.96
+Comoros,1995,40.49
+Comoros,1996,39.59
+Comoros,1997,29.46
+Comoros,1998,104.93
+Comoros,1999,139.59
+Comoros,2000,-1.36
+Comoros,2001,15.71
+Comoros,2002,-110.26
+Comoros,2003,25.63
+Comoros,2004,25.14
+Comoros,2005,41.39
+Comoros,2006,32.22
+Comoros,2007,-40.86
+Comoros,2008,43.47
+Comoros,2009,44.14
+Comoros,2010,72.87
+Comoros,2011,56.07
+Comoros,2012,158.23
+Comoros,2013,72.07
+Comoros,2014,119.93
+Comoros,2015,54.29
+Comoros,2016,30.17
+Comoros,2017,68.66
+Comoros,2018,87.41
+Comoros,2019,78.25
+Congo,1995,609.05
+Congo,1996,205.04
+Congo,1997,89.31
+Congo,1998,201.21
+Congo,1999,233.33
+Congo,2000,87.25
+Congo,2001,-221.02
+Congo,2002,-124.97
+Congo,2003,516.18
+Congo,2004,231.25
+Congo,2005,1301.4
+Congo,2006,608.9
+Congo,2007,800.87
+Congo,2008,387.99
+Congo,2009,314.66
+Congo,2010,561.37
+Congo,2011,-859.46
+Congo,2012,530.96
+Congo,2013,785.93
+Congo,2014,464.1
+Congo,2015,2456.02
+Congo,2016,3249.11
+Congo,2017,904.47
+Congo,2018,433.51
+Congo,2019,-432.05
+Côte d'Ivoire,1995,1128.32
+Côte d'Ivoire,1996,681.43
+Côte d'Ivoire,1997,412.94
+Côte d'Ivoire,1998,-193.85
+Côte d'Ivoire,1999,550.32
+Côte d'Ivoire,2000,715.6
+Côte d'Ivoire,2001,-79.55
+Côte d'Ivoire,2002,881.11
+Côte d'Ivoire,2003,255.11
+Côte d'Ivoire,2004,-19.03
+Côte d'Ivoire,2005,190.84
+Côte d'Ivoire,2006,562.8
+Côte d'Ivoire,2007,189.33
+Côte d'Ivoire,2008,201.1
+Côte d'Ivoire,2009,-197.02
+Côte d'Ivoire,2010,697.3
+Côte d'Ivoire,2011,1972.33
+Côte d'Ivoire,2012,1381.14
+Côte d'Ivoire,2013,2.73
+Côte d'Ivoire,2014,1107.82
+Côte d'Ivoire,2015,1815.29
+Côte d'Ivoire,2016,823.16
+Côte d'Ivoire,2017,1945.03
+Côte d'Ivoire,2018,1559.14
+Côte d'Ivoire,2019,1782.22
+Democratic Republic of the Congo,1995,240.33
+Democratic Republic of the Congo,1996,228.25
+Democratic Republic of the Congo,1997,163.57
+Democratic Republic of the Congo,1998,577.72
+Democratic Republic of the Congo,1999,-333.05
+Democratic Republic of the Congo,2000,193.09
+Democratic Republic of the Congo,2001,271.63
+Democratic Republic of the Congo,2002,1013.12
+Democratic Republic of the Congo,2003,4703.61
+Democratic Republic of the Congo,2004,1787.55
+Democratic Republic of the Congo,2005,1655.91
+Democratic Republic of the Congo,2006,1234.6
+Democratic Republic of the Congo,2007,1154.3
+Democratic Republic of the Congo,2008,1616.67
+Democratic Republic of the Congo,2009,2169.74
+Democratic Republic of the Congo,2010,2980.25
+Democratic Republic of the Congo,2011,3378.95
+Democratic Republic of the Congo,2012,4269.82
+Democratic Republic of the Congo,2013,206.33
+Democratic Republic of the Congo,2014,2047.79
+Democratic Republic of the Congo,2015,2790.55
+Democratic Republic of the Congo,2016,1849.35
+Democratic Republic of the Congo,2017,2188.24
+Democratic Republic of the Congo,2018,838.65
+Democratic Republic of the Congo,2019,3471.86
+Djibouti,1995,104.52
+Djibouti,1996,112.34
+Djibouti,1997,108.85
+Djibouti,1998,100.49
+Djibouti,1999,271.61
+Djibouti,2000,92.27
+Djibouti,2001,72.46
+Djibouti,2002,90.72
+Djibouti,2003,99.67
+Djibouti,2004,74.15
+Djibouti,2005,95.86
+Djibouti,2006,182.7
+Djibouti,2007,131.43
+Djibouti,2008,172.66
+Djibouti,2009,328.28
+Djibouti,2010,110.28
+Djibouti,2011,187.57
+Djibouti,2012,112.51
+Djibouti,2013,120.56
+Djibouti,2014,161.78
+Djibouti,2015,80.12
+Djibouti,2016,164.42
+Djibouti,2017,87.44
+Djibouti,2018,171.61
+Djibouti,2019,313.52
+Equatorial Guinea,1995,34.13
+Equatorial Guinea,1996,32.95
+Equatorial Guinea,1997,25.62
+Equatorial Guinea,1998,30.78
+Equatorial Guinea,1999,9
+Equatorial Guinea,2000,21.89
+Equatorial Guinea,2001,25
+Equatorial Guinea,2002,-414.61
+Equatorial Guinea,2003,844.71
+Equatorial Guinea,2004,847.15
+Equatorial Guinea,2005,471.26
+Equatorial Guinea,2006,1131.15
+Equatorial Guinea,2007,-207.22
+Equatorial Guinea,2008,-983.94
+Equatorial Guinea,2009,428.6
+Equatorial Guinea,2010,91.1
+Equatorial Guinea,2011,-76.26
+Equatorial Guinea,2012,22.17
+Equatorial Guinea,2013,184.1
+Equatorial Guinea,2014,180.38
+Equatorial Guinea,2015,-109.22
+Equatorial Guinea,2016,-133.95
+Equatorial Guinea,2017,166.88
+Equatorial Guinea,2018,237.38
+Equatorial Guinea,2019,56.55
+Eritrea,1995,148.21
+Eritrea,1996,157.24
+Eritrea,1997,116.76
+Eritrea,1998,168.02
+Eritrea,1999,150.48
+Eritrea,2000,185.62
+Eritrea,2001,285.11
+Eritrea,2002,212.72
+Eritrea,2003,303.08
+Eritrea,2004,255.89
+Eritrea,2005,348.67
+Eritrea,2006,133.1
+Eritrea,2007,160.38
+Eritrea,2008,139.15
+Eritrea,2009,146.61
+Eritrea,2010,160.89
+Eritrea,2011,129.2
+Eritrea,2012,138.29
+Eritrea,2013,81.25
+Eritrea,2014,89.79
+Eritrea,2015,87.21
+Eritrea,2016,71.6
+Eritrea,2017,80.17
+Eritrea,2018,82.9
+Eritrea,2019,275.62
+Ethiopia,1995,860.59
+Ethiopia,1996,843.69
+Ethiopia,1997,639.81
+Ethiopia,1998,791.22
+Ethiopia,1999,656.39
+Ethiopia,2000,681.71
+Ethiopia,2001,1048.57
+Ethiopia,2002,1089.33
+Ethiopia,2003,1642.01
+Ethiopia,2004,1674.04
+Ethiopia,2005,1920.23
+Ethiopia,2006,2017.91
+Ethiopia,2007,2519.77
+Ethiopia,2008,3178.79
+Ethiopia,2009,4069.68
+Ethiopia,2010,3709.96
+Ethiopia,2011,3512.69
+Ethiopia,2012,3324.86
+Ethiopia,2013,3864.4
+Ethiopia,2014,3874.42
+Ethiopia,2015,4121.15
+Ethiopia,2016,4945.34
+Ethiopia,2017,5262.07
+Ethiopia,2018,5407.04
+Ethiopia,2019,4924.47
+Gabon,1995,528.18
+Gabon,1996,367.49
+Gabon,1997,220.35
+Gabon,1998,149.83
+Gabon,1999,227.87
+Gabon,2000,76.53
+Gabon,2001,45.9
+Gabon,2002,-165.5
+Gabon,2003,158.71
+Gabon,2004,398.84
+Gabon,2005,-78.36
+Gabon,2006,168.58
+Gabon,2007,582.55
+Gabon,2008,-364.69
+Gabon,2009,-283.26
+Gabon,2010,503.64
+Gabon,2011,525.74
+Gabon,2012,381.05
+Gabon,2013,1312.74
+Gabon,2014,675.14
+Gabon,2015,-721.45
+Gabon,2016,-201.94
+Gabon,2017,59.82
+Gabon,2018,47.5
+Gabon,2019,314.38
+Gambia,1995,42.61
+Gambia,1996,43.05
+Gambia,1997,38.94
+Gambia,1998,37.6
+Gambia,1999,34.12
+Gambia,2000,45.3
+Gambia,2001,44.36
+Gambia,2002,50.57
+Gambia,2003,68.58
+Gambia,2004,65.83
+Gambia,2005,67.38
+Gambia,2006,82.99
+Gambia,2007,113.12
+Gambia,2008,95.91
+Gambia,2009,145.43
+Gambia,2010,125.4
+Gambia,2011,147.4
+Gambia,2012,113.14
+Gambia,2013,146.55
+Gambia,2014,110.02
+Gambia,2015,122.36
+Gambia,2016,85.74
+Gambia,2017,335.17
+Gambia,2018,240.97
+Gambia,2019,284.1
+Ghana,1995,755.46
+Ghana,1996,1164.45
+Ghana,1997,739.33
+Ghana,1998,708.35
+Ghana,1999,650.41
+Ghana,2000,520.93
+Ghana,2001,604.77
+Ghana,2002,642.86
+Ghana,2003,1273.81
+Ghana,2004,2053.41
+Ghana,2005,2092.53
+Ghana,2006,1815.61
+Ghana,2007,1808.52
+Ghana,2008,1659.46
+Ghana,2009,2278.5
+Ghana,2010,2487.22
+Ghana,2011,2705.15
+Ghana,2012,2491.25
+Ghana,2013,3357.77
+Ghana,2014,2968.95
+Ghana,2015,3064.67
+Ghana,2016,2935.55
+Ghana,2017,1833.94
+Ghana,2018,1441.64
+Ghana,2019,1157.72
+Guinea,1995,432.93
+Guinea,1996,211.25
+Guinea,1997,424.54
+Guinea,1998,316.99
+Guinea,1999,235.66
+Guinea,2000,329.85
+Guinea,2001,228.7
+Guinea,2002,227.87
+Guinea,2003,232.44
+Guinea,2004,225.76
+Guinea,2005,155.56
+Guinea,2006,180.73
+Guinea,2007,265.48
+Guinea,2008,249.33
+Guinea,2009,190.72
+Guinea,2010,205.92
+Guinea,2011,178.27
+Guinea,2012,648.58
+Guinea,2013,385.86
+Guinea,2014,605.26
+Guinea,2015,580.48
+Guinea,2016,519.92
+Guinea,2017,580.16
+Guinea,2018,733.54
+Guinea,2019,900.46
+Guinea-Bissau,1995,115.6
+Guinea-Bissau,1996,205.11
+Guinea-Bissau,1997,134.05
+Guinea-Bissau,1998,96.48
+Guinea-Bissau,1999,53.39
+Guinea-Bissau,2000,84.94
+Guinea-Bissau,2001,58.96
+Guinea-Bissau,2002,60.31
+Guinea-Bissau,2003,92.79
+Guinea-Bissau,2004,76.68
+Guinea-Bissau,2005,65.03
+Guinea-Bissau,2006,81.43
+Guinea-Bissau,2007,105.31
+Guinea-Bissau,2008,120.18
+Guinea-Bissau,2009,137.78
+Guinea-Bissau,2010,135.17
+Guinea-Bissau,2011,111.48
+Guinea-Bissau,2012,51.5
+Guinea-Bissau,2013,102.99
+Guinea-Bissau,2014,108.5
+Guinea-Bissau,2015,99.84
+Guinea-Bissau,2016,114.62
+Guinea-Bissau,2017,121.12
+Guinea-Bissau,2018,145.07
+Guinea-Bissau,2019,170.54
+Kenya,1995,554.18
+Kenya,1996,186.79
+Kenya,1997,372.95
+Kenya,1998,461.32
+Kenya,1999,337.61
+Kenya,2000,863.35
+Kenya,2001,575.33
+Kenya,2002,382.64
+Kenya,2003,568.69
+Kenya,2004,717.62
+Kenya,2005,1070.43
+Kenya,2006,796.75
+Kenya,2007,2408.84
+Kenya,2008,1378.72
+Kenya,2009,2481.68
+Kenya,2010,1504.21
+Kenya,2011,3000.84
+Kenya,2012,2749.85
+Kenya,2013,4476.29
+Kenya,2014,3280.03
+Kenya,2015,2529.06
+Kenya,2016,2682.9
+Kenya,2017,3298.78
+Kenya,2018,3518.5
+Kenya,2019,3244.77
+Lesotho,1995,209.12
+Lesotho,1996,184.54
+Lesotho,1997,136.17
+Lesotho,1998,9.33
+Lesotho,1999,18.88
+Lesotho,2000,11.01
+Lesotho,2001,-41.47
+Lesotho,2002,-43.3
+Lesotho,2003,-48.57
+Lesotho,2004,88.96
+Lesotho,2005,50.7
+Lesotho,2006,60.5
+Lesotho,2007,112.01
+Lesotho,2008,135.34
+Lesotho,2009,116.77
+Lesotho,2010,240.34
+Lesotho,2011,283.38
+Lesotho,2012,294.08
+Lesotho,2013,335.18
+Lesotho,2014,116.73
+Lesotho,2015,83.14
+Lesotho,2016,120.81
+Lesotho,2017,132.35
+Lesotho,2018,149.06
+Lesotho,2019,128.33
+Liberia,1995,-54.15
+Liberia,1996,682.06
+Liberia,1997,-17.59
+Liberia,1998,526.74
+Liberia,1999,681.73
+Liberia,2000,631.63
+Liberia,2001,1035.53
+Liberia,2002,-283.91
+Liberia,2003,4521.83
+Liberia,2004,1256.23
+Liberia,2005,-2327.69
+Liberia,2006,722.67
+Liberia,2007,2306.71
+Liberia,2008,1638.46
+Liberia,2009,1451.53
+Liberia,2010,2423.29
+Liberia,2011,617.78
+Liberia,2012,2086.48
+Liberia,2013,-1839.74
+Liberia,2014,845.65
+Liberia,2015,1857.69
+Liberia,2016,159.29
+Liberia,2017,378.94
+Liberia,2018,-664.49
+Liberia,2019,819.14
+Madagascar,1995,251.26
+Madagascar,1996,307.63
+Madagascar,1997,1191.99
+Madagascar,1998,397.6
+Madagascar,1999,359.55
+Madagascar,2000,320.94
+Madagascar,2001,369.09
+Madagascar,2002,365.39
+Madagascar,2003,555.55
+Madagascar,2004,1233.88
+Madagascar,2005,723.28
+Madagascar,2006,917.77
+Madagascar,2007,1187.35
+Madagascar,2008,2239.42
+Madagascar,2009,1450.4
+Madagascar,2010,999.08
+Madagascar,2011,951.95
+Madagascar,2012,658.94
+Madagascar,2013,525.03
+Madagascar,2014,565.33
+Madagascar,2015,640.98
+Madagascar,2016,636.43
+Madagascar,2017,851.2
+Madagascar,2018,788.62
+Madagascar,2019,1200.18
+Malawi,1995,439
+Malawi,1996,507.06
+Malawi,1997,368
+Malawi,1998,460.21
+Malawi,1999,437.47
+Malawi,2000,433.09
+Malawi,2001,460.52
+Malawi,2002,392.05
+Malawi,2003,515.94
+Malawi,2004,511
+Malawi,2005,572.38
+Malawi,2006,730.93
+Malawi,2007,746.33
+Malawi,2008,924.67
+Malawi,2009,812.36
+Malawi,2010,1049.42
+Malawi,2011,726.2
+Malawi,2012,1149.09
+Malawi,2013,1577.63
+Malawi,2014,965.7
+Malawi,2015,1070.21
+Malawi,2016,1179.71
+Malawi,2017,1608.36
+Malawi,2018,1762.4
+Malawi,2019,1194.24
+Mali,1995,587.13
+Mali,1996,533.15
+Mali,1997,439.84
+Mali,1998,407.75
+Mali,1999,470.3
+Mali,2000,313.62
+Mali,2001,330.31
+Mali,2002,283.11
+Mali,2003,572.06
+Mali,2004,551.24
+Mali,2005,770.66
+Mali,2006,877.15
+Mali,2007,927.79
+Mali,2008,942.81
+Mali,2009,970.56
+Mali,2010,1121.92
+Mali,2011,1262.71
+Mali,2012,965.52
+Mali,2013,1369.7
+Mali,2014,1136.47
+Mali,2015,1272.63
+Mali,2016,1315.63
+Mali,2017,1616.58
+Mali,2018,1521.45
+Mali,2019,1895.57
+Mauritania,1995,214.86
+Mauritania,1996,277.37
+Mauritania,1997,250.51
+Mauritania,1998,119.98
+Mauritania,1999,267.42
+Mauritania,2000,222.78
+Mauritania,2001,268.89
+Mauritania,2002,318.12
+Mauritania,2003,244.91
+Mauritania,2004,226.01
+Mauritania,2005,190.63
+Mauritania,2006,194.75
+Mauritania,2007,318.82
+Mauritania,2008,444.6
+Mauritania,2009,404.11
+Mauritania,2010,373.24
+Mauritania,2011,489.72
+Mauritania,2012,964.25
+Mauritania,2013,455.88
+Mauritania,2014,300.73
+Mauritania,2015,363.63
+Mauritania,2016,223.17
+Mauritania,2017,285.67
+Mauritania,2018,452.63
+Mauritania,2019,-326.65
+Mauritius,1995,57.05
+Mauritius,1996,196.33
+Mauritius,1997,307.16
+Mauritius,1998,143.69
+Mauritius,1999,388.72
+Mauritius,2000,410.33
+Mauritius,2001,321.49
+Mauritius,2002,-60.64
+Mauritius,2003,340.78
+Mauritius,2004,2879.27
+Mauritius,2005,147.03
+Mauritius,2006,749.17
+Mauritius,2007,12572.84
+Mauritius,2008,985.33
+Mauritius,2009,1873.7
+Mauritius,2010,4390.45
+Mauritius,2011,-1486
+Mauritius,2012,1770.69
+Mauritius,2013,-1873.94
+Mauritius,2014,-157.53
+Mauritius,2015,-657.91
+Mauritius,2016,-77.72
+Mauritius,2017,3963.12
+Mauritius,2018,-1357.05
+Mauritius,2019,5650.89
+Mayotte,1995,107.75
+Mayotte,1996,129.63
+Mayotte,1997,104.2
+Mayotte,1998,104.22
+Mayotte,1999,111.56
+Mayotte,2000,103.18
+Mayotte,2001,127.45
+Mayotte,2002,122.13
+Mayotte,2003,160.2
+Mayotte,2004,197.61
+Mayotte,2005,195.2
+Mayotte,2006,338.45
+Mayotte,2007,395.12
+Mayotte,2008,465.34
+Mayotte,2009,534.82
+Mayotte,2010,605.42
+Mozambique,1995,1092.74
+Mozambique,1996,1020.19
+Mozambique,1997,1065.36
+Mozambique,1998,1279.89
+Mozambique,1999,1163.93
+Mozambique,2000,1177.06
+Mozambique,2001,1085.9
+Mozambique,2002,2105.66
+Mozambique,2003,874.71
+Mozambique,2004,1397.2
+Mozambique,2005,1281.53
+Mozambique,2006,1655.86
+Mozambique,2007,1814.85
+Mozambique,2008,1883.61
+Mozambique,2009,2049.51
+Mozambique,2010,2873.5
+Mozambique,2011,2651.93
+Mozambique,2012,2149.87
+Mozambique,2013,3106.93
+Mozambique,2014,2779.96
+Mozambique,2015,2313.61
+Mozambique,2016,1614.65
+Mozambique,2017,1711.27
+Mozambique,2018,3730.71
+Mozambique,2019,2226.86
+Namibia,1995,225.16
+Namibia,1996,244.93
+Namibia,1997,214.58
+Namibia,1998,239.64
+Namibia,1999,254.45
+Namibia,2000,127.43
+Namibia,2001,130.5
+Namibia,2002,62.74
+Namibia,2003,173.17
+Namibia,2004,65
+Namibia,2005,157.72
+Namibia,2006,495.1
+Namibia,2007,237.74
+Namibia,2008,519.52
+Namibia,2009,654.45
+Namibia,2010,33.59
+Namibia,2011,708.08
+Namibia,2012,-769.22
+Namibia,2013,280.23
+Namibia,2014,-776.94
+Namibia,2015,394.19
+Namibia,2016,407.22
+Namibia,2017,597.08
+Namibia,2018,347.24
+Namibia,2019,154.74
+Niger,1995,199.5
+Niger,1996,205.73
+Niger,1997,304.33
+Niger,1998,245.97
+Niger,1999,189.38
+Niger,2000,183.77
+Niger,2001,231.09
+Niger,2002,191.66
+Niger,2003,510.14
+Niger,2004,465.26
+Niger,2005,397.35
+Niger,2006,-391.65
+Niger,2007,361.14
+Niger,2008,582.53
+Niger,2009,471.14
+Niger,2010,674.27
+Niger,2011,595.71
+Niger,2012,935.67
+Niger,2013,749.83
+Niger,2014,1013.13
+Niger,2015,924.39
+Niger,2016,1112.04
+Niger,2017,1296.92
+Niger,2018,1176.59
+Niger,2019,1497.55
+Nigeria,1995,-486.59
+Nigeria,1996,-324.43
+Nigeria,1997,620.42
+Nigeria,1998,332.79
+Nigeria,1999,-888.24
+Nigeria,2000,-1993.75
+Nigeria,2001,1082.61
+Nigeria,2002,4707.21
+Nigeria,2003,2196.03
+Nigeria,2004,1321.78
+Nigeria,2005,7581.76
+Nigeria,2006,-2961.07
+Nigeria,2007,1397.31
+Nigeria,2008,2561.64
+Nigeria,2009,3956.9
+Nigeria,2010,1266.18
+Nigeria,2011,4104.96
+Nigeria,2012,6365.98
+Nigeria,2013,4713.73
+Nigeria,2014,6761.8
+Nigeria,2015,22424.75
+Nigeria,2016,-9363.48
+Nigeria,2017,8337.61
+Nigeria,2018,3915.62
+Nigeria,2019,6607.67
+Rwanda,1995,641.35
+Rwanda,1996,466.23
+Rwanda,1997,229
+Rwanda,1998,352.09
+Rwanda,1999,375.58
+Rwanda,2000,318.21
+Rwanda,2001,301.73
+Rwanda,2002,364.82
+Rwanda,2003,343.22
+Rwanda,2004,494.63
+Rwanda,2005,560.74
+Rwanda,2006,578.61
+Rwanda,2007,792.9
+Rwanda,2008,951.74
+Rwanda,2009,995.04
+Rwanda,2010,1050.89
+Rwanda,2011,1257.84
+Rwanda,2012,945.36
+Rwanda,2013,1201.48
+Rwanda,2014,833.82
+Rwanda,2015,1122.23
+Rwanda,2016,1086.08
+Rwanda,2017,1214.81
+Rwanda,2018,1217.94
+Rwanda,2019,1332.35
+Saint Helena,1995,12.36
+Saint Helena,1996,16.87
+Saint Helena,1997,14.24
+Saint Helena,1998,15.68
+Saint Helena,1999,-3.93
+Saint Helena,2000,13.83
+Saint Helena,2001,14.73
+Saint Helena,2002,13.2
+Saint Helena,2003,17.98
+Saint Helena,2004,25.6
+Saint Helena,2005,23.19
+Saint Helena,2006,28.2
+Saint Helena,2007,58
+Saint Helena,2008,60.42
+Saint Helena,2009,34.91
+Saint Helena,2010,61.63
+Saint Helena,2011,79.33
+Saint Helena,2012,78.7
+Saint Helena,2013,107.41
+Saint Helena,2014,130.78
+Saint Helena,2015,95.26
+Saint Helena,2016,106.49
+Saint Helena,2017,65.72
+Saint Helena,2018,67
+Saint Helena,2019,50.1
+Sao Tome and Principe,1995,57.89
+Sao Tome and Principe,1996,49.39
+Sao Tome and Principe,1997,34.43
+Sao Tome and Principe,1998,27.24
+Sao Tome and Principe,1999,28.22
+Sao Tome and Principe,2000,36.26
+Sao Tome and Principe,2001,40.43
+Sao Tome and Principe,2002,27.9
+Sao Tome and Principe,2003,45.51
+Sao Tome and Principe,2004,32.12
+Sao Tome and Principe,2005,32.11
+Sao Tome and Principe,2006,26.7
+Sao Tome and Principe,2007,27.69
+Sao Tome and Principe,2008,41.6
+Sao Tome and Principe,2009,31.53
+Sao Tome and Principe,2010,46.25
+Sao Tome and Principe,2011,62.45
+Sao Tome and Principe,2012,39.56
+Sao Tome and Principe,2013,84.77
+Sao Tome and Principe,2014,70.3
+Sao Tome and Principe,2015,22.81
+Sao Tome and Principe,2016,20.95
+Sao Tome and Principe,2017,59.06
+Sao Tome and Principe,2018,61.84
+Sao Tome and Principe,2019,50.51
+Senegal,1995,635.5
+Senegal,1996,535.3
+Senegal,1997,567.56
+Senegal,1998,556.24
+Senegal,1999,657.5
+Senegal,2000,482.76
+Senegal,2001,460.17
+Senegal,2002,533.89
+Senegal,2003,533.8
+Senegal,2004,997
+Senegal,2005,699.58
+Senegal,2006,868.05
+Senegal,2007,973.57
+Senegal,2008,1351.62
+Senegal,2009,1388.89
+Senegal,2010,926.4
+Senegal,2011,1256.54
+Senegal,2012,1132.99
+Senegal,2013,219.77
+Senegal,2014,1131.85
+Senegal,2015,1088.14
+Senegal,2016,727.98
+Senegal,2017,1210.64
+Senegal,2018,2263.56
+Senegal,2019,1999.87
+Seychelles,1995,8.02
+Seychelles,1996,62.14
+Seychelles,1997,50.79
+Seychelles,1998,24.1
+Seychelles,1999,58.78
+Seychelles,2000,72.7
+Seychelles,2001,14.88
+Seychelles,2002,152.63
+Seychelles,2003,1.07
+Seychelles,2004,8.93
+Seychelles,2005,23.86
+Seychelles,2006,-31.98
+Seychelles,2007,131.16
+Seychelles,2008,40.23
+Seychelles,2009,60.59
+Seychelles,2010,209.77
+Seychelles,2011,45.6
+Seychelles,2012,121.72
+Seychelles,2013,-294.75
+Seychelles,2014,-437.83
+Seychelles,2015,-109.22
+Seychelles,2016,45.38
+Seychelles,2017,141.63
+Sierra Leone,1995,217.85
+Sierra Leone,1996,191.32
+Sierra Leone,1997,129.47
+Sierra Leone,1998,70.19
+Sierra Leone,1999,76.19
+Sierra Leone,2000,185.09
+Sierra Leone,2001,332.61
+Sierra Leone,2002,382.71
+Sierra Leone,2003,329.47
+Sierra Leone,2004,377.57
+Sierra Leone,2005,339.11
+Sierra Leone,2006,471.5
+Sierra Leone,2007,421.28
+Sierra Leone,2008,389.14
+Sierra Leone,2009,457.93
+Sierra Leone,2010,444.89
+Sierra Leone,2011,438.18
+Sierra Leone,2012,508.6
+Sierra Leone,2013,554.72
+Sierra Leone,2014,1138.31
+Sierra Leone,2015,870.13
+Sierra Leone,2016,799.37
+Sierra Leone,2017,731.18
+Sierra Leone,2018,520.74
+Sierra Leone,2019,759.59
+Somalia,1995,188.45
+Somalia,1996,170.71
+Somalia,1997,81.06
+Somalia,1998,85.42
+Somalia,1999,120.63
+Somalia,2000,101.35
+Somalia,2001,152.78
+Somalia,2002,156
+Somalia,2003,179.57
+Somalia,2004,195.78
+Somalia,2005,240.17
+Somalia,2006,404.19
+Somalia,2007,401.05
+Somalia,2008,773.53
+Somalia,2009,667.77
+Somalia,2010,490.02
+Somalia,2011,1105.15
+Somalia,2012,998.73
+Somalia,2013,1059.89
+Somalia,2014,1114.1
+Somalia,2015,1267.62
+Somalia,2016,1178.75
+Somalia,2017,1761.61
+Somalia,2018,1581.08
+Somalia,2019,1864.53
+South Africa,1995,3157.45
+South Africa,1996,2536.3
+South Africa,1997,5154.02
+South Africa,1998,1665.49
+South Africa,1999,3695.17
+South Africa,2000,-490.58
+South Africa,2001,152.45
+South Africa,2002,3002.5
+South Africa,2003,5427.89
+South Africa,2004,10239.53
+South Africa,2005,14784.03
+South Africa,2006,8442.19
+South Africa,2007,13542.1
+South Africa,2008,6484.06
+South Africa,2009,3929.91
+South Africa,2010,4884.51
+South Africa,2011,7823.18
+South Africa,2012,5338.53
+South Africa,2013,-472.81
+South Africa,2014,5974.28
+South Africa,2015,6329.94
+South Africa,2016,4703.34
+South Africa,2017,4598.57
+South Africa,2018,4121.12
+South Africa,2019,5244.62
+South Sudan,2011,436.83
+South Sudan,2012,1187.04
+South Sudan,2013,1404.6
+South Sudan,2014,1974.85
+South Sudan,2015,1651.35
+South Sudan,2016,1584.47
+South Sudan,2017,2176.27
+South Sudan,2018,1569.95
+South Sudan,2019,1893.48
+Sudan,1995,295.15
+Sudan,1996,206.14
+Sudan,1997,88.16
+Sudan,1998,213.07
+Sudan,1999,233.78
+Sudan,2000,320.34
+Sudan,2001,179.84
+Sudan,2002,376.66
+Sudan,2003,613.47
+Sudan,2004,1016.39
+Sudan,2005,1850.27
+Sudan,2006,2119.47
+Sudan,2007,2156.75
+Sudan,2008,2587.13
+Sudan,2009,2396.49
+Sudan,2010,2139.73
+Sudan,2011,1834.43
+Sudan,2012,1174.94
+Sudan,2013,1564.29
+Sudan,2014,845.43
+Sudan,2015,948.82
+Sudan,2016,1282.53
+Sudan,2017,881.79
+Sudan,2018,968.47
+Sudan,2019,1594.63
+Eswatini,1995,83.26
+Eswatini,1996,263.29
+Eswatini,1997,47.85
+Eswatini,1998,-9.36
+Eswatini,1999,-46.41
+Eswatini,2000,35.45
+Eswatini,2001,35.34
+Eswatini,2002,26.87
+Eswatini,2003,41.88
+Eswatini,2004,55.18
+Eswatini,2005,50.97
+Eswatini,2006,37.86
+Eswatini,2007,54.59
+Eswatini,2008,51.35
+Eswatini,2009,37.45
+Eswatini,2010,64.36
+Eswatini,2011,96.05
+Eswatini,2012,83.43
+Eswatini,2013,125.51
+Eswatini,2014,69.77
+Eswatini,2015,126.39
+Eswatini,2016,157.49
+Eswatini,2017,158.63
+Eswatini,2018,123.56
+Eswatini,2019,107.1
+Tanzania,1995,874.39
+Tanzania,1996,965.23
+Tanzania,1997,975.78
+Tanzania,1998,996.55
+Tanzania,1999,905.85
+Tanzania,2000,1229.31
+Tanzania,2001,1301.62
+Tanzania,2002,1045.02
+Tanzania,2003,1643.3
+Tanzania,2004,1787.73
+Tanzania,2005,1669.02
+Tanzania,2006,2042.4
+Tanzania,2007,2382.99
+Tanzania,2008,2519.15
+Tanzania,2009,3333.28
+Tanzania,2010,3030.81
+Tanzania,2011,2438.84
+Tanzania,2012,2851.53
+Tanzania,2013,3647.26
+Tanzania,2014,3251.07
+Tanzania,2015,2777.82
+Tanzania,2016,2880.85
+Tanzania,2017,3153.69
+Tanzania,2018,2442.91
+Tanzania,2019,1971.86
+Togo,1995,187.48
+Togo,1996,145.81
+Togo,1997,115.83
+Togo,1998,268.12
+Togo,1999,-31.17
+Togo,2000,60.33
+Togo,2001,45.79
+Togo,2002,60.15
+Togo,2003,68.3
+Togo,2004,108.84
+Togo,2005,91.9
+Togo,2006,155.99
+Togo,2007,195.48
+Togo,2008,322.97
+Togo,2009,550.19
+Togo,2010,283.8
+Togo,2011,413.41
+Togo,2012,350.07
+Togo,2013,452.09
+Togo,2014,458.79
+Togo,2015,543.24
+Togo,2016,152.14
+Togo,2017,382.86
+Togo,2018,388.8
+Togo,2019,345.14
+Uganda,1995,853.62
+Uganda,1996,745.83
+Uganda,1997,763.69
+Uganda,1998,710.13
+Uganda,1999,608.86
+Uganda,2000,830.62
+Uganda,2001,791.42
+Uganda,2002,722.47
+Uganda,2003,1017.13
+Uganda,2004,1208.5
+Uganda,2005,1257.96
+Uganda,2006,1603.18
+Uganda,2007,1834.4
+Uganda,2008,1893.33
+Uganda,2009,2016.33
+Uganda,2010,1857.51
+Uganda,2011,1648.64
+Uganda,2012,1782.05
+Uganda,2013,1836.89
+Uganda,2014,3984.31
+Uganda,2015,2993.2
+Uganda,2016,2158.36
+Uganda,2017,2137.02
+Uganda,2018,2704.02
+Uganda,2019,2445.2
+Zambia,1995,2010.79
+Zambia,1996,605.87
+Zambia,1997,567.99
+Zambia,1998,328.17
+Zambia,1999,608.77
+Zambia,2000,700.92
+Zambia,2001,583.6
+Zambia,2002,692.33
+Zambia,2003,649.51
+Zambia,2004,976.2
+Zambia,2005,1559.58
+Zambia,2006,863.51
+Zambia,2007,1314.22
+Zambia,2008,1570.69
+Zambia,2009,1114.4
+Zambia,2010,790.37
+Zambia,2011,884.44
+Zambia,2012,1145.14
+Zambia,2013,1408.03
+Zambia,2014,1173.58
+Zambia,2015,1294.15
+Zambia,2016,1381.07
+Zambia,2017,1232.48
+Zambia,2018,1101.49
+Zambia,2019,986.97
+Zimbabwe,1995,320.62
+Zimbabwe,1996,580.55
+Zimbabwe,1997,389.41
+Zimbabwe,1998,189.84
+Zimbabwe,1999,399.82
+Zimbabwe,2000,212.78
+Zimbabwe,2001,187.67
+Zimbabwe,2002,214.67
+Zimbabwe,2003,279.28
+Zimbabwe,2004,339.33
+Zimbabwe,2005,398.96
+Zimbabwe,2006,62.94
+Zimbabwe,2007,483.79
+Zimbabwe,2008,622.49
+Zimbabwe,2009,637.01
+Zimbabwe,2010,743.27
+Zimbabwe,2011,729.62
+Zimbabwe,2012,1048.63
+Zimbabwe,2013,867.82
+Zimbabwe,2014,772.14
+Zimbabwe,2015,829.64
+Zimbabwe,2016,502.73
+Zimbabwe,2017,672.86
+Zimbabwe,2018,745.68
+Zimbabwe,2019,912.67
+"South of Sahara, regional",1995,632.62
+"South of Sahara, regional",1996,883.59
+"South of Sahara, regional",1997,702.91
+"South of Sahara, regional",1998,613.98
+"South of Sahara, regional",1999,921.32
+"South of Sahara, regional",2000,1088.76
+"South of Sahara, regional",2001,1002.48
+"South of Sahara, regional",2002,640.85
+"South of Sahara, regional",2003,785.45
+"South of Sahara, regional",2004,1730.95
+"South of Sahara, regional",2005,1992.51
+"South of Sahara, regional",2006,581.88
+"South of Sahara, regional",2007,6113.62
+"South of Sahara, regional",2008,-3373.11
+"South of Sahara, regional",2009,2824.85
+"South of Sahara, regional",2010,12645.47
+"South of Sahara, regional",2011,-1748.45
+"South of Sahara, regional",2012,4419.74
+"South of Sahara, regional",2013,3058.14
+"South of Sahara, regional",2014,4410.1
+"South of Sahara, regional",2015,2632.64
+"South of Sahara, regional",2016,2699.56
+"South of Sahara, regional",2017,1654.63
+"South of Sahara, regional",2018,2875.61
+"South of Sahara, regional",2019,4273.23
+"Africa, regional",1995,543.86
+"Africa, regional",1996,869
+"Africa, regional",1997,-42.34
+"Africa, regional",1998,1253.42
+"Africa, regional",1999,1101.78
+"Africa, regional",2000,523.42
+"Africa, regional",2001,736.46
+"Africa, regional",2002,497.68
+"Africa, regional",2003,-466.89
+"Africa, regional",2004,-1013.64
+"Africa, regional",2005,748.67
+"Africa, regional",2006,673.04
+"Africa, regional",2007,948.27
+"Africa, regional",2008,1158.9
+"Africa, regional",2009,3356.53
+"Africa, regional",2010,2864.35
+"Africa, regional",2011,903.2
+"Africa, regional",2012,5101.21
+"Africa, regional",2013,3543.93
+"Africa, regional",2014,17496.59
+"Africa, regional",2015,-9173.31
+"Africa, regional",2016,8633.59
+"Africa, regional",2017,23807.89
+"Africa, regional",2018,6504.18
+"Africa, regional",2019,-13484.16
+Anguilla,1995,50
+Anguilla,1996,2.39
+Anguilla,1997,2.22
+Anguilla,1998,13.7
+Anguilla,1999,3.01
+Anguilla,2000,11.26
+Anguilla,2001,9.18
+Anguilla,2002,-0.63
+Anguilla,2003,22.84
+Anguilla,2004,-27.67
+Anguilla,2005,119.52
+Anguilla,2006,5682.87
+Anguilla,2007,1094.15
+Anguilla,2008,148.7
+Anguilla,2009,-61.83
+Anguilla,2010,250.53
+Anguilla,2011,-250.17
+Anguilla,2012,389.47
+Anguilla,2013,-141.26
+Antigua and Barbuda,1995,61.38
+Antigua and Barbuda,1996,63.21
+Antigua and Barbuda,1997,20.55
+Antigua and Barbuda,1998,69.12
+Antigua and Barbuda,1999,149.78
+Antigua and Barbuda,2000,429.05
+Antigua and Barbuda,2001,-102.08
+Antigua and Barbuda,2002,-158.16
+Antigua and Barbuda,2003,-123.91
+Antigua and Barbuda,2004,66.23
+Antigua and Barbuda,2005,-121.58
+Antigua and Barbuda,2006,-36.75
+Antigua and Barbuda,2007,45.47
+Antigua and Barbuda,2008,-74.48
+Antigua and Barbuda,2009,-159.48
+Antigua and Barbuda,2010,50.04
+Antigua and Barbuda,2011,-9.43
+Antigua and Barbuda,2012,-0.46
+Antigua and Barbuda,2013,22.38
+Antigua and Barbuda,2014,66.69
+Antigua and Barbuda,2015,89.64
+Antigua and Barbuda,2016,-4.81
+Antigua and Barbuda,2017,36.79
+Antigua and Barbuda,2018,20.19
+Antigua and Barbuda,2019,26.22
+Aruba,1995,31.28
+Aruba,1996,217.64
+Aruba,1997,25.71
+Aruba,1998,-24.4
+Aruba,1999,-36.95
+Bahamas,1995,-562.36
+Barbados,1995,301.95
+Barbados,1996,329.76
+Barbados,1997,455.34
+Barbados,1998,1383.98
+Barbados,1999,888.06
+Barbados,2000,277.75
+Barbados,2001,32.88
+Barbados,2002,1091.01
+Barbados,2003,251.67
+Barbados,2004,479.92
+Barbados,2005,447.4
+Barbados,2006,2256.07
+Barbados,2007,944.68
+Barbados,2008,1731.1
+Barbados,2009,611.32
+Barbados,2010,2311.68
+Belize,1995,22.93
+Belize,1996,31.68
+Belize,1997,53.55
+Belize,1998,64.14
+Belize,1999,59.93
+Belize,2000,79.04
+Belize,2001,93.89
+Belize,2002,39.38
+Belize,2003,11.52
+Belize,2004,54.77
+Belize,2005,23.18
+Belize,2006,-92.39
+Belize,2007,209.24
+Belize,2008,-124.41
+Belize,2009,-14.55
+Belize,2010,21.13
+Belize,2011,21.51
+Belize,2012,-14.73
+Belize,2013,37.29
+Belize,2014,61.65
+Belize,2015,27.59
+Belize,2016,56.37
+Belize,2017,18.38
+Belize,2018,57.01
+Belize,2019,63.66
+Bermuda,1995,1084.28
+Bermuda,1996,5302.8
+British Virgin Islands,1995,-651.95
+British Virgin Islands,1996,1340.24
+British Virgin Islands,1997,4625.74
+British Virgin Islands,1998,1966.23
+British Virgin Islands,1999,4341.91
+Cayman Islands,1995,3397.66
+Cayman Islands,1996,4031.77
+Costa Rica,1995,415.66
+Costa Rica,1996,734.04
+Costa Rica,1997,384.6
+Costa Rica,1998,692
+Costa Rica,1999,-394.8
+Costa Rica,2000,352.1
+Costa Rica,2001,64.02
+Costa Rica,2002,78.83
+Costa Rica,2003,160.74
+Costa Rica,2004,190.64
+Costa Rica,2005,657.46
+Costa Rica,2006,1334.99
+Costa Rica,2007,772.79
+Costa Rica,2008,817.34
+Costa Rica,2009,-87.41
+Costa Rica,2010,303.67
+Costa Rica,2011,404.46
+Costa Rica,2012,543.23
+Costa Rica,2013,419.18
+Costa Rica,2014,391.76
+Costa Rica,2015,790.27
+Costa Rica,2016,688.78
+Costa Rica,2017,764.02
+Costa Rica,2018,780.12
+Costa Rica,2019,677.69
+Cuba,1995,108.59
+Cuba,1996,148.51
+Cuba,1997,16.73
+Cuba,1998,183.58
+Cuba,1999,181.09
+Cuba,2000,70.92
+Cuba,2001,46.41
+Cuba,2002,30.6
+Cuba,2003,100.94
+Cuba,2004,51.99
+Cuba,2005,204.67
+Cuba,2006,108.81
+Cuba,2007,112.99
+Cuba,2008,-193.33
+Cuba,2009,22.26
+Cuba,2010,240.49
+Cuba,2011,-86.71
+Cuba,2012,-72.71
+Cuba,2013,13.01
+Cuba,2014,197.54
+Cuba,2015,500.59
+Cuba,2016,2825.08
+Cuba,2017,849.95
+Cuba,2018,715.28
+Cuba,2019,496.26
+Dominica,1995,158.86
+Dominica,1996,62.25
+Dominica,1997,-53.47
+Dominica,1998,33.88
+Dominica,1999,14.55
+Dominica,2000,10.73
+Dominica,2001,-42.52
+Dominica,2002,55.61
+Dominica,2003,6.25
+Dominica,2004,44.2
+Dominica,2005,6.75
+Dominica,2006,349
+Dominica,2007,38.47
+Dominica,2008,0.23
+Dominica,2009,35.1
+Dominica,2010,28.3
+Dominica,2011,26.69
+Dominica,2012,37.51
+Dominica,2013,27.25
+Dominica,2014,162.69
+Dominica,2015,9.06
+Dominica,2016,-4.12
+Dominica,2017,18.86
+Dominica,2018,231.37
+Dominica,2019,42.96
+Dominican Republic,1995,395.27
+Dominican Republic,1996,125.66
+Dominican Republic,1997,124.99
+Dominican Republic,1998,261.73
+Dominican Republic,1999,932.08
+Dominican Republic,2000,340.85
+Dominican Republic,2001,475.18
+Dominican Republic,2002,688.26
+Dominican Republic,2003,202.35
+Dominican Republic,2004,792.59
+Dominican Republic,2005,189.1
+Dominican Republic,2006,1287.25
+Dominican Republic,2007,427.73
+Dominican Republic,2008,349.16
+Dominican Republic,2009,427.59
+Dominican Republic,2010,1653.59
+Dominican Republic,2011,1581.74
+Dominican Republic,2012,717.5
+Dominican Republic,2013,970.63
+Dominican Republic,2014,94.17
+Dominican Republic,2015,1910.61
+Dominican Republic,2016,1721.71
+Dominican Republic,2017,1145.85
+Dominican Republic,2018,662.61
+Dominican Republic,2019,1774.16
+El Salvador,1995,370.51
+El Salvador,1996,497.41
+El Salvador,1997,401.78
+El Salvador,1998,928.28
+El Salvador,1999,539.79
+El Salvador,2000,473.92
+El Salvador,2001,449.92
+El Salvador,2002,587.1
+El Salvador,2003,364.26
+El Salvador,2004,285.35
+El Salvador,2005,481.64
+El Salvador,2006,1141.71
+El Salvador,2007,1653.8
+El Salvador,2008,2186.13
+El Salvador,2009,957.44
+El Salvador,2010,820.53
+El Salvador,2011,651.03
+El Salvador,2012,466.92
+El Salvador,2013,1418.09
+El Salvador,2014,209.82
+El Salvador,2015,-40.58
+El Salvador,2016,262.27
+El Salvador,2017,207.94
+El Salvador,2018,757.25
+El Salvador,2019,1175.89
+Grenada,1995,-0.14
+Grenada,1996,13.63
+Grenada,1997,10.29
+Grenada,1998,8.99
+Grenada,1999,3.36
+Grenada,2000,29.33
+Grenada,2001,19.95
+Grenada,2002,12.14
+Grenada,2003,33.23
+Grenada,2004,27.47
+Grenada,2005,95.37
+Grenada,2006,34.9
+Grenada,2007,26.91
+Grenada,2008,10.16
+Grenada,2009,43.84
+Grenada,2010,29.51
+Grenada,2011,4.63
+Grenada,2012,-87.8
+Grenada,2013,13.67
+Grenada,2014,51.73
+Grenada,2015,41.21
+Grenada,2016,12.71
+Grenada,2017,11.17
+Grenada,2018,36.84
+Grenada,2019,17.61
+Guatemala,1995,220.85
+Guatemala,1996,379.35
+Guatemala,1997,287.99
+Guatemala,1998,774.42
+Guatemala,1999,766.21
+Guatemala,2000,394.04
+Guatemala,2001,-75.39
+Guatemala,2002,301.04
+Guatemala,2003,200.89
+Guatemala,2004,271.53
+Guatemala,2005,501.15
+Guatemala,2006,1392.74
+Guatemala,2007,1122.84
+Guatemala,2008,1038.53
+Guatemala,2009,913.89
+Guatemala,2010,1344.04
+Guatemala,2011,309.58
+Guatemala,2012,564.16
+Guatemala,2013,1059.69
+Guatemala,2014,326.49
+Guatemala,2015,1315.38
+Guatemala,2016,552.17
+Guatemala,2017,625.38
+Guatemala,2018,643.44
+Guatemala,2019,420.71
+Haiti,1995,643.53
+Haiti,1996,339.25
+Haiti,1997,229.17
+Haiti,1998,292.32
+Haiti,1999,212.47
+Haiti,2000,149.57
+Haiti,2001,165.32
+Haiti,2002,166.38
+Haiti,2003,188.78
+Haiti,2004,280.01
+Haiti,2005,372.69
+Haiti,2006,680.7
+Haiti,2007,563.07
+Haiti,2008,848.39
+Haiti,2009,961.86
+Haiti,2010,2819.27
+Haiti,2011,1530.39
+Haiti,2012,1310.99
+Haiti,2013,1141.36
+Haiti,2014,1057.42
+Haiti,2015,1051.95
+Haiti,2016,1019.95
+Haiti,2017,988.42
+Haiti,2018,989.42
+Haiti,2019,760.59
+Honduras,1995,351.9
+Honduras,1996,92.66
+Honduras,1997,300.38
+Honduras,1998,332.39
+Honduras,1999,724.76
+Honduras,2000,463.78
+Honduras,2001,312.92
+Honduras,2002,368.04
+Honduras,2003,402.08
+Honduras,2004,666.51
+Honduras,2005,509.61
+Honduras,2006,806.65
+Honduras,2007,378.41
+Honduras,2008,640.11
+Honduras,2009,475.7
+Honduras,2010,674.31
+Honduras,2011,433.75
+Honduras,2012,474.79
+Honduras,2013,1035.75
+Honduras,2014,736.6
+Honduras,2015,1184.85
+Honduras,2016,700.48
+Honduras,2017,491.83
+Honduras,2018,-412.32
+Honduras,2019,1003.98
+Jamaica,1995,344.46
+Jamaica,1996,394.44
+Jamaica,1997,448.53
+Jamaica,1998,50.78
+Jamaica,1999,344.18
+Jamaica,2000,333.44
+Jamaica,2001,206.8
+Jamaica,2002,81
+Jamaica,2003,88.06
+Jamaica,2004,304.85
+Jamaica,2005,-1727.24
+Jamaica,2006,246.7
+Jamaica,2007,-53.06
+Jamaica,2008,237.03
+Jamaica,2009,-62.74
+Jamaica,2010,989.4
+Jamaica,2011,590.76
+Jamaica,2012,270.56
+Jamaica,2013,73.5
+Jamaica,2014,-64.86
+Jamaica,2015,341.68
+Jamaica,2016,-668.29
+Jamaica,2017,205.05
+Jamaica,2018,130.61
+Jamaica,2019,217.45
+Mexico,1995,3609.76
+Mexico,1996,8216.91
+Mexico,1997,8106.74
+Mexico,1998,8095.52
+Mexico,1999,12387.35
+Mexico,2000,1166.5
+Mexico,2001,5755.41
+Mexico,2002,6344.28
+Mexico,2003,9088.88
+Mexico,2004,9385.37
+Mexico,2005,17080.11
+Mexico,2006,1595.45
+Mexico,2007,21520.33
+Mexico,2008,17573.41
+Mexico,2009,21101.69
+Mexico,2010,27448.36
+Mexico,2011,13954.39
+Mexico,2012,21123.23
+Mexico,2013,24756.63
+Mexico,2014,18839.15
+Mexico,2015,22201.49
+Mexico,2016,9121.04
+Mexico,2017,27354.51
+Mexico,2018,23092.55
+Mexico,2019,13296.96
+Montserrat,1995,11.37
+Montserrat,1996,14.53
+Montserrat,1997,-5.93
+Montserrat,1998,114.44
+Montserrat,1999,40.32
+Montserrat,2000,109.42
+Montserrat,2001,379.65
+Montserrat,2002,32.99
+Montserrat,2003,31.84
+Montserrat,2004,44.41
+Montserrat,2005,25.85
+Montserrat,2006,32.26
+Montserrat,2007,36.16
+Montserrat,2008,34.57
+Montserrat,2009,165.92
+Montserrat,2010,26.06
+Montserrat,2011,46.13
+Montserrat,2012,19.19
+Montserrat,2013,55.54
+Montserrat,2014,40.29
+Montserrat,2015,52.35
+Montserrat,2016,38.57
+Montserrat,2017,33.34
+Montserrat,2018,41.78
+Montserrat,2019,36.28
+Netherlands Antilles,1995,175.5
+Netherlands Antilles,1996,5356
+Netherlands Antilles,1997,1116.67
+Netherlands Antilles,1998,1757.53
+Netherlands Antilles,1999,1065.19
+Nicaragua,1995,683.17
+Nicaragua,1996,1079.17
+Nicaragua,1997,392.84
+Nicaragua,1998,-351.08
+Nicaragua,1999,446.43
+Nicaragua,2000,538.62
+Nicaragua,2001,488.39
+Nicaragua,2002,505.45
+Nicaragua,2003,693.18
+Nicaragua,2004,475
+Nicaragua,2005,574.57
+Nicaragua,2006,892.97
+Nicaragua,2007,740.24
+Nicaragua,2008,672.34
+Nicaragua,2009,703.29
+Nicaragua,2010,545.26
+Nicaragua,2011,599.97
+Nicaragua,2012,558.05
+Nicaragua,2013,832.35
+Nicaragua,2014,1049.96
+Nicaragua,2015,542.16
+Nicaragua,2016,369.44
+Nicaragua,2017,583.48
+Nicaragua,2018,500.9
+Nicaragua,2019,418.13
+Panama,1995,3488.32
+Panama,1996,2964.88
+Panama,1997,2580.82
+Panama,1998,1282.91
+Panama,1999,7295.04
+Panama,2000,3350.82
+Panama,2001,801.54
+Panama,2002,2411.44
+Panama,2003,-5859.67
+Panama,2004,1966.04
+Panama,2005,5950.71
+Panama,2006,5714.04
+Panama,2007,5284.96
+Panama,2008,4247.74
+Panama,2009,8855.83
+Panama,2010,6359.27
+Panama,2011,1042.98
+Panama,2012,-1155.95
+Panama,2013,1139.74
+Panama,2014,-610.23
+Panama,2015,-3006.43
+Panama,2016,-1818.61
+Panama,2017,2354.28
+Panama,2018,2077.7
+Panama,2019,1807.64
+Saint Kitts and Nevis,1995,-0.45
+Saint Kitts and Nevis,1996,-15.8
+Saint Kitts and Nevis,1997,4.36
+Saint Kitts and Nevis,1998,26.73
+Saint Kitts and Nevis,1999,13.39
+Saint Kitts and Nevis,2000,-56.6
+Saint Kitts and Nevis,2001,5.92
+Saint Kitts and Nevis,2002,24.87
+Saint Kitts and Nevis,2003,6.38
+Saint Kitts and Nevis,2004,-10.84
+Saint Kitts and Nevis,2005,-17.88
+Saint Kitts and Nevis,2006,0.44
+Saint Kitts and Nevis,2007,-420.37
+Saint Kitts and Nevis,2008,-13.74
+Saint Kitts and Nevis,2009,7.8
+Saint Kitts and Nevis,2010,6.68
+Saint Kitts and Nevis,2011,229.73
+Saint Kitts and Nevis,2012,-90.83
+Saint Kitts and Nevis,2013,20.8
+Saint Lucia,1995,64.61
+Saint Lucia,1996,35.93
+Saint Lucia,1997,14.54
+Saint Lucia,1998,12.06
+Saint Lucia,1999,19.58
+Saint Lucia,2000,17.06
+Saint Lucia,2001,15.37
+Saint Lucia,2002,38.37
+Saint Lucia,2003,34.49
+Saint Lucia,2004,22.68
+Saint Lucia,2005,34.47
+Saint Lucia,2006,32.64
+Saint Lucia,2007,47.24
+Saint Lucia,2008,18.88
+Saint Lucia,2009,228.3
+Saint Lucia,2010,-16.44
+Saint Lucia,2011,154.35
+Saint Lucia,2012,71.41
+Saint Lucia,2013,39.7
+Saint Lucia,2014,7.88
+Saint Lucia,2015,57.8
+Saint Lucia,2016,11.09
+Saint Lucia,2017,9.98
+Saint Lucia,2018,19.12
+Saint Lucia,2019,52.22
+Saint Vincent and the Grenadines,1995,35.15
+Saint Vincent and the Grenadines,1996,6.11
+Saint Vincent and the Grenadines,1997,8.11
+Saint Vincent and the Grenadines,1998,61.49
+Saint Vincent and the Grenadines,1999,76.17
+Saint Vincent and the Grenadines,2000,4.84
+Saint Vincent and the Grenadines,2001,-2.97
+Saint Vincent and the Grenadines,2002,-10.97
+Saint Vincent and the Grenadines,2003,-11.73
+Saint Vincent and the Grenadines,2004,30.26
+Saint Vincent and the Grenadines,2005,-8.98
+Saint Vincent and the Grenadines,2006,16.44
+Saint Vincent and the Grenadines,2007,499.8
+Saint Vincent and the Grenadines,2008,214.52
+Saint Vincent and the Grenadines,2009,53.66
+Saint Vincent and the Grenadines,2010,57.93
+Saint Vincent and the Grenadines,2011,-9.25
+Saint Vincent and the Grenadines,2012,91.44
+Saint Vincent and the Grenadines,2013,-122.71
+Saint Vincent and the Grenadines,2014,-190.07
+Saint Vincent and the Grenadines,2015,8.12
+Saint Vincent and the Grenadines,2016,3.29
+Saint Vincent and the Grenadines,2017,1.58
+Saint Vincent and the Grenadines,2018,33.64
+Saint Vincent and the Grenadines,2019,82.07
+Trinidad and Tobago,1995,288.98
+Trinidad and Tobago,1996,186.31
+Trinidad and Tobago,1997,-22.01
+Trinidad and Tobago,1998,631.34
+Trinidad and Tobago,1999,180.25
+Trinidad and Tobago,2000,125.91
+Trinidad and Tobago,2001,719.55
+Trinidad and Tobago,2002,-55.71
+Trinidad and Tobago,2003,793.25
+Trinidad and Tobago,2004,-68.71
+Trinidad and Tobago,2005,636.73
+Trinidad and Tobago,2006,1761.41
+Trinidad and Tobago,2007,2281.88
+Trinidad and Tobago,2008,2140.16
+Trinidad and Tobago,2009,1209.48
+Trinidad and Tobago,2010,704.4
+Turks and Caicos Islands,1995,6.14
+Turks and Caicos Islands,1996,5.52
+Turks and Caicos Islands,1997,40.56
+Turks and Caicos Islands,1998,15.66
+Turks and Caicos Islands,1999,26.81
+Turks and Caicos Islands,2000,-6.35
+Turks and Caicos Islands,2001,0.3
+Turks and Caicos Islands,2002,-5.73
+Turks and Caicos Islands,2003,10.4
+Turks and Caicos Islands,2004,-5.09
+Turks and Caicos Islands,2005,135.73
+Turks and Caicos Islands,2006,146.02
+Turks and Caicos Islands,2007,122.9
+"Caribbean & Central America, regional",1995,591.95
+"Caribbean & Central America, regional",1996,-214.32
+"Caribbean & Central America, regional",1997,728.41
+"Caribbean & Central America, regional",1998,817.39
+"Caribbean & Central America, regional",1999,3883.26
+"Caribbean & Central America, regional",2000,7952.58
+"Caribbean & Central America, regional",2001,900.47
+"Caribbean & Central America, regional",2002,-260.89
+"Caribbean & Central America, regional",2003,665.95
+"Caribbean & Central America, regional",2004,1425.47
+"Caribbean & Central America, regional",2005,1772.86
+"Caribbean & Central America, regional",2006,-9976.14
+"Caribbean & Central America, regional",2007,2770.36
+"Caribbean & Central America, regional",2008,1351.57
+"Caribbean & Central America, regional",2009,-2021.6
+"Caribbean & Central America, regional",2010,-473.49
+"Caribbean & Central America, regional",2011,-3714.34
+"Caribbean & Central America, regional",2012,727.69
+"Caribbean & Central America, regional",2013,892.22
+"Caribbean & Central America, regional",2014,1355.43
+"Caribbean & Central America, regional",2015,315.61
+"Caribbean & Central America, regional",2016,433.78
+"Caribbean & Central America, regional",2017,4433.45
+"Caribbean & Central America, regional",2018,630.45
+"Caribbean & Central America, regional",2019,587.13
+Argentina,1995,7973.48
+Argentina,1996,6297.25
+Argentina,1997,13801.74
+Argentina,1998,12683.9
+Argentina,1999,26000.51
+Argentina,2000,7973.37
+Argentina,2001,228.98
+Argentina,2002,-5714.56
+Argentina,2003,-3836.99
+Argentina,2004,-1724.2
+Argentina,2005,-4982.87
+Argentina,2006,4129.76
+Argentina,2007,6138.57
+Argentina,2008,4816.14
+Argentina,2009,2102.86
+Argentina,2010,-2776.51
+Argentina,2011,4190.32
+Argentina,2012,1574.4
+Argentina,2013,3020.52
+Argentina,2014,2833.28
+Argentina,2015,8722.7
+Argentina,2016,1579.55
+Argentina,2017,8752.21
+Argentina,2018,9573.04
+Argentina,2019,3487.78
+Bolivia,1995,1943.94
+Bolivia,1996,640.98
+Bolivia,1997,1009.98
+Bolivia,1998,712.18
+Bolivia,1999,276.15
+Bolivia,2000,582.24
+Bolivia,2001,809.73
+Bolivia,2002,246.74
+Bolivia,2003,798.63
+Bolivia,2004,513.47
+Bolivia,2005,561.99
+Bolivia,2006,839.93
+Bolivia,2007,559.56
+Bolivia,2008,649.97
+Bolivia,2009,655.58
+Bolivia,2010,606.07
+Bolivia,2011,550.7
+Bolivia,2012,654.89
+Bolivia,2013,876.21
+Bolivia,2014,707.18
+Bolivia,2015,1699.51
+Bolivia,2016,397.56
+Bolivia,2017,1983.6
+Bolivia,2018,1013.29
+Bolivia,2019,1116.08
+Brazil,1995,9190.05
+Brazil,1996,11111.9
+Brazil,1997,19766.71
+Brazil,1998,23386.17
+Brazil,1999,23441.53
+Brazil,2000,21162.84
+Brazil,2001,14457.22
+Brazil,2002,2521.2
+Brazil,2003,-1022.15
+Brazil,2004,267
+Brazil,2005,21630.12
+Brazil,2006,30109.62
+Brazil,2007,47621.82
+Brazil,2008,1891.77
+Brazil,2009,19387.21
+Brazil,2010,39775.53
+Brazil,2011,37345.73
+Brazil,2012,35526.7
+Brazil,2013,35594.49
+Brazil,2014,66638.16
+Brazil,2015,40889.37
+Brazil,2016,21764.51
+Brazil,2017,14836.87
+Brazil,2018,11641.71
+Brazil,2019,10195.3
+Chile,1995,739.4
+Chile,1996,1824.48
+Chile,1997,4324.61
+Chile,1998,4658.24
+Chile,1999,6256.4
+Chile,2000,23.26
+Chile,2001,3635.73
+Chile,2002,-1952
+Chile,2003,3282.68
+Chile,2004,1550.42
+Chile,2005,4431.35
+Chile,2006,1546.35
+Chile,2007,5020.75
+Chile,2008,7632.28
+Chile,2009,4684.13
+Chile,2010,6131.06
+Chile,2011,8379.12
+Chile,2012,11784.65
+Chile,2013,7073.44
+Chile,2014,6455.24
+Chile,2015,3568.16
+Chile,2016,783.42
+Chile,2017,-9267.49
+Colombia,1995,1687.08
+Colombia,1996,2980.95
+Colombia,1997,3709.75
+Colombia,1998,2508.5
+Colombia,1999,1955
+Colombia,2000,344.62
+Colombia,2001,615.38
+Colombia,2002,-2213.97
+Colombia,2003,1976.7
+Colombia,2004,1387.57
+Colombia,2005,1011.05
+Colombia,2006,6058.32
+Colombia,2007,7590.26
+Colombia,2008,5552.75
+Colombia,2009,5063.53
+Colombia,2010,2950.05
+Colombia,2011,3310.65
+Colombia,2012,6314.42
+Colombia,2013,5984.33
+Colombia,2014,5696
+Colombia,2015,5593.69
+Colombia,2016,1059.72
+Colombia,2017,3242.54
+Colombia,2018,7505.98
+Colombia,2019,3627.18
+Ecuador,1995,1508.1
+Ecuador,1996,137.9
+Ecuador,1997,601.4
+Ecuador,1998,442.61
+Ecuador,1999,243.82
+Ecuador,2000,440.85
+Ecuador,2001,271.46
+Ecuador,2002,818.88
+Ecuador,2003,607.01
+Ecuador,2004,-859.11
+Ecuador,2005,891.96
+Ecuador,2006,397.49
+Ecuador,2007,846.87
+Ecuador,2008,374.41
+Ecuador,2009,265
+Ecuador,2010,249.98
+Ecuador,2011,665.14
+Ecuador,2012,661.22
+Ecuador,2013,864.55
+Ecuador,2014,1362.29
+Ecuador,2015,2615.49
+Ecuador,2016,1432.78
+Ecuador,2017,1696.44
+Ecuador,2018,1701.66
+Ecuador,2019,2807.66
+Guyana,1995,65.77
+Guyana,1996,100.31
+Guyana,1997,215.12
+Guyana,1998,65.53
+Guyana,1999,32.29
+Guyana,2000,4.03
+Guyana,2001,62.47
+Guyana,2002,55.17
+Guyana,2003,51.24
+Guyana,2004,236.03
+Guyana,2005,434.82
+Guyana,2006,-67.15
+Guyana,2007,62.28
+Guyana,2008,167.09
+Guyana,2009,79.86
+Guyana,2010,109.19
+Guyana,2011,122.6
+Guyana,2012,384.35
+Guyana,2013,116.01
+Guyana,2014,166.12
+Guyana,2015,54.28
+Guyana,2016,47.43
+Guyana,2017,61.81
+Guyana,2018,108.07
+Guyana,2019,1478.58
+Paraguay,1995,150.31
+Paraguay,1996,94.66
+Paraguay,1997,183.35
+Paraguay,1998,357.8
+Paraguay,1999,265.9
+Paraguay,2000,432.06
+Paraguay,2001,121.11
+Paraguay,2002,-284.15
+Paraguay,2003,152.3
+Paraguay,2004,-17.17
+Paraguay,2005,98.06
+Paraguay,2006,137.63
+Paraguay,2007,-60.9
+Paraguay,2008,304.23
+Paraguay,2009,320.11
+Paraguay,2010,333.27
+Paraguay,2011,242.94
+Paraguay,2012,251.67
+Paraguay,2013,281.76
+Paraguay,2014,325.05
+Paraguay,2015,359.74
+Paraguay,2016,499.36
+Paraguay,2017,594.43
+Paraguay,2018,289.34
+Paraguay,2019,223.94
+Peru,1995,1423.15
+Peru,1996,2193.29
+Peru,1997,3377.25
+Peru,1998,1170.83
+Peru,1999,1664.44
+Peru,2000,582.15
+Peru,2001,1175.74
+Peru,2002,1190.25
+Peru,2003,1110.48
+Peru,2004,715.75
+Peru,2005,2522.97
+Peru,2006,503.38
+Peru,2007,3110.7
+Peru,2008,3141.83
+Peru,2009,3475.7
+Peru,2010,1875.1
+Peru,2011,2636.63
+Peru,2012,2427.9
+Peru,2013,846.8
+Peru,2014,1921.25
+Peru,2015,4360.03
+Peru,2016,3487.74
+Peru,2017,414.25
+Peru,2018,266.26
+Peru,2019,629.65
+Suriname,1995,75.87
+Suriname,1996,134.15
+Suriname,1997,134.89
+Suriname,1998,-69.36
+Suriname,1999,33.7
+Suriname,2000,23.95
+Suriname,2001,12.69
+Suriname,2002,62.25
+Suriname,2003,-4.27
+Suriname,2004,22.14
+Suriname,2005,17.86
+Suriname,2006,36.58
+Suriname,2007,70.49
+Suriname,2008,116
+Suriname,2009,185.36
+Suriname,2010,130.61
+Suriname,2011,286.59
+Suriname,2012,90.54
+Suriname,2013,106.28
+Suriname,2014,146.07
+Suriname,2015,66.08
+Suriname,2016,-12.28
+Suriname,2017,38.24
+Suriname,2018,67.76
+Suriname,2019,251.48
+Uruguay,1995,205.89
+Uruguay,1996,-839.23
+Uruguay,1997,570.05
+Uruguay,1998,522.14
+Uruguay,1999,259.11
+Uruguay,2000,502.03
+Uruguay,2001,475.87
+Uruguay,2002,941.73
+Uruguay,2003,-114.73
+Uruguay,2004,-197.5
+Uruguay,2005,519.93
+Uruguay,2006,1789.19
+Uruguay,2007,1838.69
+Uruguay,2008,745.26
+Uruguay,2009,-23.87
+Uruguay,2010,91.88
+Uruguay,2011,1119.72
+Uruguay,2012,1266.96
+Uruguay,2013,436.52
+Uruguay,2014,1108.86
+Uruguay,2015,2300.69
+Uruguay,2016,1531.22
+Uruguay,2017,1681.11
+Venezuela,1995,583.15
+Venezuela,1996,-56.24
+Venezuela,1997,2432.95
+Venezuela,1998,3017.04
+Venezuela,1999,2823.79
+Venezuela,2000,2609.22
+Venezuela,2001,2636.99
+Venezuela,2002,-2975.98
+Venezuela,2003,84.05
+Venezuela,2004,-427.02
+Venezuela,2005,3608.81
+Venezuela,2006,7342.99
+Venezuela,2007,6196.38
+Venezuela,2008,2553.41
+Venezuela,2009,167.68
+Venezuela,2010,1356.61
+Venezuela,2011,3367.05
+Venezuela,2012,6102.11
+Venezuela,2013,4390.98
+Venezuela,2014,-995.16
+Venezuela,2015,69.29
+Venezuela,2016,-2893.46
+Venezuela,2017,-2356.24
+Venezuela,2018,848.83
+Venezuela,2019,-266.72
+"South America, regional",1995,501.64
+"South America, regional",1996,-247.92
+"South America, regional",1997,-720.47
+"South America, regional",1998,258.75
+"South America, regional",1999,-46.81
+"South America, regional",2000,17633.37
+"South America, regional",2001,345.54
+"South America, regional",2002,581.1
+"South America, regional",2003,-604.62
+"South America, regional",2004,114.03
+"South America, regional",2005,468.12
+"South America, regional",2006,3537.31
+"South America, regional",2007,914.7
+"South America, regional",2008,571.92
+"South America, regional",2009,710.63
+"South America, regional",2010,719.29
+"South America, regional",2011,307.39
+"South America, regional",2012,2758.61
+"South America, regional",2013,844.56
+"South America, regional",2014,4769.71
+"South America, regional",2015,295.56
+"South America, regional",2016,142.96
+"South America, regional",2017,333.88
+"South America, regional",2018,4021.51
+"South America, regional",2019,817.04
+"America, regional",1995,2250.37
+"America, regional",1996,4857.51
+"America, regional",1997,6516.64
+"America, regional",1998,7410.63
+"America, regional",1999,4316.34
+"America, regional",2000,4341.95
+"America, regional",2001,17285.2
+"America, regional",2002,250.16
+"America, regional",2003,3171.9
+"America, regional",2004,1902.13
+"America, regional",2005,7198.61
+"America, regional",2006,10087.31
+"America, regional",2007,4944.66
+"America, regional",2008,-3164.4
+"America, regional",2009,34750.63
+"America, regional",2010,83173.07
+"America, regional",2011,66719.52
+"America, regional",2012,45941.17
+"America, regional",2013,19148.39
+"America, regional",2014,73642.35
+"America, regional",2015,-31143
+"America, regional",2016,-14345.52
+"America, regional",2017,18363.47
+"America, regional",2018,-42821.5
+"America, regional",2019,13594.66
+Brunei Darussalam,1995,36.1
+Cambodia,1995,522.6
+Cambodia,1996,375.03
+Cambodia,1997,329.71
+Cambodia,1998,315.96
+Cambodia,1999,255.19
+Cambodia,2000,353.94
+Cambodia,2001,389.9
+Cambodia,2002,127.77
+Cambodia,2003,316.69
+Cambodia,2004,245.15
+Cambodia,2005,469.97
+Cambodia,2006,667.01
+Cambodia,2007,1319.5
+Cambodia,2008,1086.55
+Cambodia,2009,869.44
+Cambodia,2010,932.33
+Cambodia,2011,833.53
+Cambodia,2012,1117.33
+Cambodia,2013,1207.13
+Cambodia,2014,1297.56
+Cambodia,2015,1143.78
+Cambodia,2016,1119.64
+Cambodia,2017,1352.81
+Cambodia,2018,1215.4
+Cambodia,2019,1718.37
+China (People's Republic of),1995,13461.06
+China (People's Republic of),1996,11860.28
+China (People's Republic of),1997,12514.47
+China (People's Republic of),1998,7762.35
+China (People's Republic of),1999,5512.45
+China (People's Republic of),2000,889.48
+China (People's Republic of),2001,-1955.18
+China (People's Republic of),2002,-2338
+China (People's Republic of),2003,4643.22
+China (People's Republic of),2004,17908.29
+China (People's Republic of),2005,23346.14
+China (People's Republic of),2006,15722.04
+China (People's Republic of),2007,22399.46
+China (People's Republic of),2008,32838.03
+China (People's Republic of),2009,15672.27
+China (People's Republic of),2010,50168.74
+China (People's Republic of),2011,49988.42
+China (People's Republic of),2012,19280.13
+China (People's Republic of),2013,54010.49
+China (People's Republic of),2014,61097.83
+China (People's Republic of),2015,18063.44
+China (People's Republic of),2016,41493.79
+China (People's Republic of),2017,39004.38
+China (People's Republic of),2018,31230.35
+China (People's Republic of),2019,42397.94
+Democratic People's Republic of Korea,1995,53.53
+Democratic People's Republic of Korea,1996,-46.77
+Democratic People's Republic of Korea,1997,363.73
+Democratic People's Republic of Korea,1998,76.86
+Democratic People's Republic of Korea,1999,156.79
+Democratic People's Republic of Korea,2000,76.32
+Democratic People's Republic of Korea,2001,218.84
+Democratic People's Republic of Korea,2002,-440.97
+Democratic People's Republic of Korea,2003,593.55
+Democratic People's Republic of Korea,2004,1529.68
+Democratic People's Republic of Korea,2005,149.28
+Democratic People's Republic of Korea,2006,78.94
+Democratic People's Republic of Korea,2007,179.51
+Democratic People's Republic of Korea,2008,305.85
+Democratic People's Republic of Korea,2009,97.31
+Democratic People's Republic of Korea,2010,72.66
+Democratic People's Republic of Korea,2011,166.26
+Democratic People's Republic of Korea,2012,8964.3
+Democratic People's Republic of Korea,2013,169.92
+Democratic People's Republic of Korea,2014,334
+Democratic People's Republic of Korea,2015,155.62
+Democratic People's Republic of Korea,2016,135.26
+Democratic People's Republic of Korea,2017,110.69
+Democratic People's Republic of Korea,2018,127.5
+Democratic People's Republic of Korea,2019,135.46
+Hong Kong (China),1995,3660.71
+Hong Kong (China),1996,7879.83
+Indonesia,1995,7921.84
+Indonesia,1996,8005.03
+Indonesia,1997,8007.09
+Indonesia,1998,6734.19
+Indonesia,1999,8998.01
+Indonesia,2000,2351.69
+Indonesia,2001,94.54
+Indonesia,2002,4.69
+Indonesia,2003,3893.32
+Indonesia,2004,-129.71
+Indonesia,2005,7944.61
+Indonesia,2006,3533.36
+Indonesia,2007,1532.55
+Indonesia,2008,3275.04
+Indonesia,2009,5287.13
+Indonesia,2010,6455.99
+Indonesia,2011,10893.24
+Indonesia,2012,8115.82
+Indonesia,2013,7480.85
+Indonesia,2014,11245.09
+Indonesia,2015,13425.3
+Indonesia,2016,13953.26
+Indonesia,2017,14468.36
+Indonesia,2018,11185.69
+Indonesia,2019,15005.23
+Korea,1995,7255.39
+Korea,1996,9127.33
+Korea,1997,14736.02
+Korea,1998,15002
+Korea,1999,8673.73
+Lao People's Democratic Republic,1995,248.11
+Lao People's Democratic Republic,1996,246.91
+Lao People's Democratic Republic,1997,301.96
+Lao People's Democratic Republic,1998,223.63
+Lao People's Democratic Republic,1999,259.57
+Lao People's Democratic Republic,2000,238.93
+Lao People's Democratic Republic,2001,201.18
+Lao People's Democratic Republic,2002,221.48
+Lao People's Democratic Republic,2003,107.53
+Lao People's Democratic Republic,2004,221.43
+Lao People's Democratic Republic,2005,300.88
+Lao People's Democratic Republic,2006,1387.12
+Lao People's Democratic Republic,2007,567.86
+Lao People's Democratic Republic,2008,599.45
+Lao People's Democratic Republic,2009,486.86
+Lao People's Democratic Republic,2010,440.57
+Lao People's Democratic Republic,2011,394.46
+Lao People's Democratic Republic,2012,803.21
+Lao People's Democratic Republic,2013,486.55
+Lao People's Democratic Republic,2014,719.19
+Lao People's Democratic Republic,2015,525.54
+Lao People's Democratic Republic,2016,482.48
+Lao People's Democratic Republic,2017,627.11
+Lao People's Democratic Republic,2018,649.58
+Lao People's Democratic Republic,2019,749.3
+Macau (China),1995,47.94
+Macau (China),1996,-89.71
+Macau (China),1997,97.62
+Macau (China),1998,16.8
+Macau (China),1999,-16.02
+Malaysia,1995,4237.81
+Malaysia,1996,4389.19
+Malaysia,1997,2188.72
+Malaysia,1998,-837.87
+Malaysia,1999,1327.25
+Malaysia,2000,-303.64
+Malaysia,2001,412.77
+Malaysia,2002,3504.62
+Malaysia,2003,1145.07
+Malaysia,2004,1928.9
+Malaysia,2005,723.95
+Malaysia,2006,7551.99
+Malaysia,2007,10261.5
+Malaysia,2008,1094.96
+Malaysia,2009,5546.53
+Malaysia,2010,6726.34
+Malaysia,2011,7458.95
+Malaysia,2012,10254.95
+Malaysia,2013,9479.49
+Malaysia,2014,7524.03
+Malaysia,2015,3456.63
+Malaysia,2016,586.85
+Malaysia,2017,2192.34
+Malaysia,2018,-918.35
+Malaysia,2019,11079.74
+Mongolia,1995,98.5
+Mongolia,1996,155.55
+Mongolia,1997,179.18
+Mongolia,1998,165.62
+Mongolia,1999,168.47
+Mongolia,2000,179.73
+Mongolia,2001,298.72
+Mongolia,2002,266.12
+Mongolia,2003,270.54
+Mongolia,2004,640.49
+Mongolia,2005,178.55
+Mongolia,2006,279.33
+Mongolia,2007,396.46
+Mongolia,2008,328.35
+Mongolia,2009,319.34
+Mongolia,2010,467.6
+Mongolia,2011,445.66
+Mongolia,2012,1147.25
+Mongolia,2013,1196.37
+Mongolia,2014,868.74
+Mongolia,2015,665.16
+Mongolia,2016,1667.96
+Mongolia,2017,642.2
+Mongolia,2018,716.39
+Mongolia,2019,1312.2
+Philippines,1995,3348.1
+Philippines,1996,4768.04
+Philippines,1997,5544.07
+Philippines,1998,4158.17
+Philippines,1999,6594.43
+Philippines,2000,1382.69
+Philippines,2001,2137.17
+Philippines,2002,2266.09
+Philippines,2003,316.71
+Philippines,2004,1198.96
+Philippines,2005,3137.69
+Philippines,2006,2378.58
+Philippines,2007,3337.75
+Philippines,2008,-620.41
+Philippines,2009,3033.53
+Philippines,2010,2326.03
+Philippines,2011,3059.35
+Philippines,2012,5384.75
+Philippines,2013,1456.94
+Philippines,2014,6546.34
+Philippines,2015,3571.15
+Philippines,2016,3225.25
+Philippines,2017,4379.31
+Philippines,2018,4552.52
+Philippines,2019,32903.57
+Singapore,1995,4176.47
+Chinese Taipei,1995,397.46
+Chinese Taipei,1996,2478.84
+Thailand,1995,7725.82
+Thailand,1996,7766.71
+Thailand,1997,7083.99
+Thailand,1998,8278.87
+Thailand,1999,7409.21
+Thailand,2000,-1379.56
+Thailand,2001,2192.4
+Thailand,2002,-3049.99
+Thailand,2003,-6637.92
+Thailand,2004,1012.39
+Thailand,2005,12409.27
+Thailand,2006,2821.12
+Thailand,2007,4890.98
+Thailand,2008,1036.98
+Thailand,2009,4017.73
+Thailand,2010,6301.88
+Thailand,2011,10393.78
+Thailand,2012,6699.86
+Thailand,2013,8579.43
+Thailand,2014,10081.06
+Thailand,2015,-2139.39
+Thailand,2016,2950.94
+Thailand,2017,695.96
+Thailand,2018,5613.84
+Thailand,2019,7856.8
+Timor-Leste,1995,8.9
+Timor-Leste,1996,0.08
+Timor-Leste,1997,0.43
+Timor-Leste,1998,129.88
+Timor-Leste,1999,781.01
+Timor-Leste,2000,649.09
+Timor-Leste,2001,247.98
+Timor-Leste,2002,396.39
+Timor-Leste,2003,366.45
+Timor-Leste,2004,536.72
+Timor-Leste,2005,185.74
+Timor-Leste,2006,146.08
+Timor-Leste,2007,281.05
+Timor-Leste,2008,274.95
+Timor-Leste,2009,215.91
+Timor-Leste,2010,291.73
+Timor-Leste,2011,263.22
+Timor-Leste,2012,288.17
+Timor-Leste,2013,289.67
+Timor-Leste,2014,261.85
+Timor-Leste,2015,237.56
+Timor-Leste,2016,206.59
+Timor-Leste,2017,258.99
+Timor-Leste,2018,237.8
+Timor-Leste,2019,279.31
+Viet Nam,1995,1495.69
+Viet Nam,1996,1674.44
+Viet Nam,1997,1607.51
+Viet Nam,1998,1571.23
+Viet Nam,1999,1164.49
+Viet Nam,2000,1175.95
+Viet Nam,2001,1440.61
+Viet Nam,2002,1493.16
+Viet Nam,2003,2512.39
+Viet Nam,2004,2283.49
+Viet Nam,2005,2165.53
+Viet Nam,2006,3564.27
+Viet Nam,2007,5530.25
+Viet Nam,2008,6122.88
+Viet Nam,2009,6266.11
+Viet Nam,2010,7623.13
+Viet Nam,2011,8090.86
+Viet Nam,2012,9531.11
+Viet Nam,2013,13916.16
+Viet Nam,2014,9815.97
+Viet Nam,2015,8739.24
+Viet Nam,2016,8258.34
+Viet Nam,2017,5598.95
+Viet Nam,2018,7200.17
+Viet Nam,2019,8060.48
+"Far East Asia, regional",1995,1991.39
+"Far East Asia, regional",1996,-727.95
+"Far East Asia, regional",1997,-2689.36
+"Far East Asia, regional",1998,580.68
+"Far East Asia, regional",1999,1701.43
+"Far East Asia, regional",2000,79.95
+"Far East Asia, regional",2001,547.1
+"Far East Asia, regional",2002,-230.08
+"Far East Asia, regional",2003,122.61
+"Far East Asia, regional",2004,910.01
+"Far East Asia, regional",2005,1262.47
+"Far East Asia, regional",2006,1374.67
+"Far East Asia, regional",2007,228.47
+"Far East Asia, regional",2008,2327.22
+"Far East Asia, regional",2009,204.77
+"Far East Asia, regional",2010,346.97
+"Far East Asia, regional",2011,526.71
+"Far East Asia, regional",2012,319.52
+"Far East Asia, regional",2013,333.14
+"Far East Asia, regional",2014,2532.52
+"Far East Asia, regional",2015,300.68
+"Far East Asia, regional",2016,242.23
+"Far East Asia, regional",2017,309.97
+"Far East Asia, regional",2018,287.96
+"Far East Asia, regional",2019,283.84
+Afghanistan,1995,212.57
+Afghanistan,1996,139.63
+Afghanistan,1997,219.81
+Afghanistan,1998,158.07
+Afghanistan,1999,148.84
+Afghanistan,2000,156.98
+Afghanistan,2001,391.65
+Afghanistan,2002,1223.11
+Afghanistan,2003,1554.17
+Afghanistan,2004,2304.25
+Afghanistan,2005,2858.37
+Afghanistan,2006,2940.61
+Afghanistan,2007,4990.23
+Afghanistan,2008,4871.93
+Afghanistan,2009,6185.66
+Afghanistan,2010,6285.23
+Afghanistan,2011,6823
+Afghanistan,2012,6684.11
+Afghanistan,2013,5239.08
+Afghanistan,2014,4950.89
+Afghanistan,2015,4396.17
+Afghanistan,2016,4162.16
+Afghanistan,2017,3870.74
+Afghanistan,2018,3793.8
+Afghanistan,2019,4301.21
+Armenia,1995,244.52
+Armenia,1996,304.2
+Armenia,1997,188.71
+Armenia,1998,190.03
+Armenia,1999,240.57
+Armenia,2000,211.39
+Armenia,2001,209.56
+Armenia,2002,303.14
+Armenia,2003,252.23
+Armenia,2004,252.33
+Armenia,2005,215.7
+Armenia,2006,364.23
+Armenia,2007,563.13
+Armenia,2008,474.68
+Armenia,2009,539.88
+Armenia,2010,539.17
+Armenia,2011,508.96
+Armenia,2012,312.97
+Armenia,2013,600
+Armenia,2014,370.85
+Armenia,2015,515.3
+Armenia,2016,703.09
+Armenia,2017,502.65
+Armenia,2018,386.35
+Armenia,2019,752.54
+Azerbaijan,1995,131.8
+Azerbaijan,1996,180.21
+Azerbaijan,1997,624.78
+Azerbaijan,1998,532.35
+Azerbaijan,1999,690.48
+Azerbaijan,2000,673.48
+Azerbaijan,2001,489.13
+Azerbaijan,2002,687.74
+Azerbaijan,2003,1515.33
+Azerbaijan,2004,1821.01
+Azerbaijan,2005,1518.85
+Azerbaijan,2006,1796.37
+Azerbaijan,2007,2616.2
+Azerbaijan,2008,2281.74
+Azerbaijan,2009,991.89
+Azerbaijan,2010,1134.54
+Azerbaijan,2011,1639.14
+Azerbaijan,2012,1024.41
+Azerbaijan,2013,1188.72
+Azerbaijan,2014,718.17
+Azerbaijan,2015,1307.72
+Azerbaijan,2016,1597.71
+Azerbaijan,2017,2007.83
+Azerbaijan,2018,783.49
+Azerbaijan,2019,946.8
+Bangladesh,1995,615.16
+Bangladesh,1996,944.8
+Bangladesh,1997,910.43
+Bangladesh,1998,1141.5
+Bangladesh,1999,980.72
+Bangladesh,2000,1038.71
+Bangladesh,2001,872.88
+Bangladesh,2002,789.15
+Bangladesh,2003,1179.04
+Bangladesh,2004,1539.89
+Bangladesh,2005,1624.77
+Bangladesh,2006,1136.2
+Bangladesh,2007,1520.26
+Bangladesh,2008,2534.27
+Bangladesh,2009,1943.2
+Bangladesh,2010,1359.89
+Bangladesh,2011,1957.65
+Bangladesh,2012,3140.93
+Bangladesh,2013,2716.64
+Bangladesh,2014,2918.35
+Bangladesh,2015,3110.52
+Bangladesh,2016,3574.1
+Bangladesh,2017,6344.56
+Bangladesh,2018,4012.68
+Bangladesh,2019,6024.18
+Bhutan,1995,76.95
+Bhutan,1996,56.81
+Bhutan,1997,93.79
+Bhutan,1998,49.95
+Bhutan,1999,63.49
+Bhutan,2000,37.7
+Bhutan,2001,53.69
+Bhutan,2002,82.66
+Bhutan,2003,53.54
+Bhutan,2004,71.94
+Bhutan,2005,84.56
+Bhutan,2006,91.25
+Bhutan,2007,94.33
+Bhutan,2008,83.18
+Bhutan,2009,163.58
+Bhutan,2010,139.58
+Bhutan,2011,126
+Bhutan,2012,272.63
+Bhutan,2013,-31.59
+Bhutan,2014,133.15
+Bhutan,2015,110.19
+Bhutan,2016,59.54
+Bhutan,2017,120.71
+Bhutan,2018,95.27
+Bhutan,2019,187.8
+Georgia,1995,217.68
+Georgia,1996,321.75
+Georgia,1997,286.56
+Georgia,1998,274.38
+Georgia,1999,288.28
+Georgia,2000,258.09
+Georgia,2001,297.82
+Georgia,2002,580.13
+Georgia,2003,846.77
+Georgia,2004,358.39
+Georgia,2005,347.42
+Georgia,2006,765.4
+Georgia,2007,582.13
+Georgia,2008,1378.14
+Georgia,2009,1180.38
+Georgia,2010,860.86
+Georgia,2011,1022.07
+Georgia,2012,987.32
+Georgia,2013,697.55
+Georgia,2014,507.8
+Georgia,2015,2040
+Georgia,2016,1139.4
+Georgia,2017,1070.43
+Georgia,2018,1142.78
+Georgia,2019,1132.48
+India,1995,1958.85
+India,1996,4486.09
+India,1997,5568.49
+India,1998,2784.86
+India,1999,2861.93
+India,2000,2286.01
+India,2001,1927.22
+India,2002,2159.12
+India,2003,-227.41
+India,2004,4305.85
+India,2005,8746.05
+India,2006,13568.16
+India,2007,27991.09
+India,2008,21218.74
+India,2009,19753.28
+India,2010,28774.39
+India,2011,20063.62
+India,2012,20119.6
+India,2013,11759.52
+India,2014,17676.39
+India,2015,12274.26
+India,2016,19426.95
+India,2017,23349.33
+India,2018,18092.52
+India,2019,24044.7
+Kazakhstan,1995,481.14
+Kazakhstan,1996,506.89
+Kazakhstan,1997,659.97
+Kazakhstan,1998,2000.64
+Kazakhstan,1999,938
+Kazakhstan,2000,746.25
+Kazakhstan,2001,1863.08
+Kazakhstan,2002,1744.85
+Kazakhstan,2003,868.1
+Kazakhstan,2004,1371.9
+Kazakhstan,2005,1974.74
+Kazakhstan,2006,5970.88
+Kazakhstan,2007,6946.03
+Kazakhstan,2008,3439.47
+Kazakhstan,2009,2100.77
+Kazakhstan,2010,948.34
+Kazakhstan,2011,3166.78
+Kazakhstan,2012,932.54
+Kazakhstan,2013,4586.07
+Kazakhstan,2014,1892.81
+Kazakhstan,2015,4428.87
+Kazakhstan,2016,418.66
+Kazakhstan,2017,-3793.93
+Kazakhstan,2018,-8081.26
+Kazakhstan,2019,-1022.22
+Kyrgyzstan,1995,298.83
+Kyrgyzstan,1996,278.01
+Kyrgyzstan,1997,214.99
+Kyrgyzstan,1998,215.56
+Kyrgyzstan,1999,237.25
+Kyrgyzstan,2000,201.22
+Kyrgyzstan,2001,97.29
+Kyrgyzstan,2002,94.1
+Kyrgyzstan,2003,171.59
+Kyrgyzstan,2004,203.52
+Kyrgyzstan,2005,301.59
+Kyrgyzstan,2006,233.56
+Kyrgyzstan,2007,277.11
+Kyrgyzstan,2008,373.67
+Kyrgyzstan,2009,303.1
+Kyrgyzstan,2010,413.43
+Kyrgyzstan,2011,503.01
+Kyrgyzstan,2012,559.16
+Kyrgyzstan,2013,627.52
+Kyrgyzstan,2014,653.27
+Kyrgyzstan,2015,780.9
+Kyrgyzstan,2016,453.25
+Kyrgyzstan,2017,473.89
+Kyrgyzstan,2018,479.47
+Kyrgyzstan,2019,480.56
+Maldives,1995,38.83
+Maldives,1996,-68.11
+Maldives,1997,39.88
+Maldives,1998,32.81
+Maldives,1999,31.55
+Maldives,2000,9.78
+Maldives,2001,34.85
+Maldives,2002,45.63
+Maldives,2003,51.45
+Maldives,2004,75.72
+Maldives,2005,123.98
+Maldives,2006,139.11
+Maldives,2007,117.71
+Maldives,2008,68.85
+Maldives,2009,55.26
+Maldives,2010,92.75
+Maldives,2011,-43.97
+Maldives,2012,-10.15
+Maldives,2013,18.81
+Maldives,2014,118.62
+Maldives,2015,127.67
+Maldives,2016,15.15
+Maldives,2017,21.72
+Maldives,2018,296.97
+Maldives,2019,213.04
+Myanmar,1995,186.87
+Myanmar,1996,82.97
+Myanmar,1997,256.32
+Myanmar,1998,173.07
+Myanmar,1999,150.14
+Myanmar,2000,55.65
+Myanmar,2001,105.86
+Myanmar,2002,78.14
+Myanmar,2003,59.54
+Myanmar,2004,85.89
+Myanmar,2005,130.5
+Myanmar,2006,120.21
+Myanmar,2007,121.39
+Myanmar,2008,535.13
+Myanmar,2009,357.27
+Myanmar,2010,645.97
+Myanmar,2011,877.65
+Myanmar,2012,829.14
+Myanmar,2013,4697.47
+Myanmar,2014,2057.95
+Myanmar,2015,2460.47
+Myanmar,2016,1993.04
+Myanmar,2017,2090.29
+Myanmar,2018,2142.85
+Myanmar,2019,2767.64
+Nepal,1995,364.82
+Nepal,1996,348.27
+Nepal,1997,387.29
+Nepal,1998,343.01
+Nepal,1999,310.89
+Nepal,2000,330.61
+Nepal,2001,429.01
+Nepal,2002,248.68
+Nepal,2003,451
+Nepal,2004,417.81
+Nepal,2005,397.09
+Nepal,2006,439.16
+Nepal,2007,552.16
+Nepal,2008,607.71
+Nepal,2009,692.12
+Nepal,2010,749.45
+Nepal,2011,733.76
+Nepal,2012,851.44
+Nepal,2013,1004.72
+Nepal,2014,888.39
+Nepal,2015,1214.57
+Nepal,2016,1071.18
+Nepal,2017,1320.55
+Nepal,2018,1477.32
+Nepal,2019,1441.62
+Pakistan,1995,1678.88
+Pakistan,1996,2110.09
+Pakistan,1997,1935.99
+Pakistan,1998,1459.95
+Pakistan,1999,603.26
+Pakistan,2000,16.68
+Pakistan,2001,1608.78
+Pakistan,2002,1688.93
+Pakistan,2003,515.68
+Pakistan,2004,77.64
+Pakistan,2005,2437.24
+Pakistan,2006,3566.68
+Pakistan,2007,5047.72
+Pakistan,2008,2734.32
+Pakistan,2009,3020.17
+Pakistan,2010,3203.19
+Pakistan,2011,4381.32
+Pakistan,2012,2729.85
+Pakistan,2013,1786.28
+Pakistan,2014,3673.32
+Pakistan,2015,3550.67
+Pakistan,2016,4255.48
+Pakistan,2017,3445
+Pakistan,2018,1163.93
+Pakistan,2019,3020.53
+Sri Lanka,1995,570.72
+Sri Lanka,1996,346.65
+Sri Lanka,1997,455.4
+Sri Lanka,1998,419.29
+Sri Lanka,1999,331.46
+Sri Lanka,2000,298.17
+Sri Lanka,2001,50.33
+Sri Lanka,2002,323.28
+Sri Lanka,2003,592.52
+Sri Lanka,2004,587.78
+Sri Lanka,2005,1114.6
+Sri Lanka,2006,971.54
+Sri Lanka,2007,759.12
+Sri Lanka,2008,1040.17
+Sri Lanka,2009,824.16
+Sri Lanka,2010,966.09
+Sri Lanka,2011,983.39
+Sri Lanka,2012,1180.98
+Sri Lanka,2013,1286.3
+Sri Lanka,2014,1268.94
+Sri Lanka,2015,1153.04
+Sri Lanka,2016,1167.99
+Sri Lanka,2017,842.11
+Sri Lanka,2018,720.98
+Sri Lanka,2019,582.62
+Tajikistan,1995,64
+Tajikistan,1996,103.73
+Tajikistan,1997,93.6
+Tajikistan,1998,170.34
+Tajikistan,1999,122.28
+Tajikistan,2000,104.77
+Tajikistan,2001,159.43
+Tajikistan,2002,151.61
+Tajikistan,2003,118.42
+Tajikistan,2004,239.54
+Tajikistan,2005,248.41
+Tajikistan,2006,224.09
+Tajikistan,2007,197.79
+Tajikistan,2008,256.62
+Tajikistan,2009,324.45
+Tajikistan,2010,412.56
+Tajikistan,2011,296.07
+Tajikistan,2012,417.93
+Tajikistan,2013,444.11
+Tajikistan,2014,354.89
+Tajikistan,2015,492.39
+Tajikistan,2016,370.98
+Tajikistan,2017,302.3
+Tajikistan,2018,494.5
+Tajikistan,2019,423.78
+Turkmenistan,1995,44.59
+Turkmenistan,1996,218.63
+Turkmenistan,1997,320.73
+Turkmenistan,1998,404.52
+Turkmenistan,1999,458.77
+Turkmenistan,2000,290.22
+Turkmenistan,2001,45.83
+Turkmenistan,2002,-238.22
+Turkmenistan,2003,-42.11
+Turkmenistan,2004,-73.41
+Turkmenistan,2005,-43.74
+Turkmenistan,2006,112.02
+Turkmenistan,2007,-465.6
+Turkmenistan,2008,-79.66
+Turkmenistan,2009,-57.2
+Turkmenistan,2010,645.4
+Turkmenistan,2011,308.25
+Turkmenistan,2012,-252.57
+Turkmenistan,2013,273.83
+Turkmenistan,2014,1220.43
+Turkmenistan,2015,2368.94
+Turkmenistan,2016,1243.71
+Turkmenistan,2017,666.9
+Turkmenistan,2018,122.36
+Turkmenistan,2019,-1015.9
+Uzbekistan,1995,489.62
+Uzbekistan,1996,255.79
+Uzbekistan,1997,306.84
+Uzbekistan,1998,825.56
+Uzbekistan,1999,207.15
+Uzbekistan,2000,447.1
+Uzbekistan,2001,235.23
+Uzbekistan,2002,95.63
+Uzbekistan,2003,173.58
+Uzbekistan,2004,116.18
+Uzbekistan,2005,36.83
+Uzbekistan,2006,-165.01
+Uzbekistan,2007,131.26
+Uzbekistan,2008,96.54
+Uzbekistan,2009,338.34
+Uzbekistan,2010,253.27
+Uzbekistan,2011,-22.22
+Uzbekistan,2012,532.07
+Uzbekistan,2013,932.83
+Uzbekistan,2014,590.3
+Uzbekistan,2015,1091.74
+Uzbekistan,2016,1823.35
+Uzbekistan,2017,1457.78
+Uzbekistan,2018,2380.24
+Uzbekistan,2019,3582.42
+"Central Asia, regional",1998,5.3
+"Central Asia, regional",1999,4.43
+"Central Asia, regional",2000,4.43
+"Central Asia, regional",2001,4.43
+"Central Asia, regional",2002,4.43
+"Central Asia, regional",2003,0.28
+"Central Asia, regional",2004,0.25
+"Central Asia, regional",2005,11.86
+"Central Asia, regional",2006,154.57
+"Central Asia, regional",2007,248.95
+"Central Asia, regional",2008,303.02
+"Central Asia, regional",2009,359.45
+"Central Asia, regional",2010,209.78
+"Central Asia, regional",2011,234.02
+"Central Asia, regional",2012,240.82
+"Central Asia, regional",2013,237.61
+"Central Asia, regional",2014,257.38
+"Central Asia, regional",2015,150.39
+"Central Asia, regional",2016,126
+"Central Asia, regional",2017,143.8
+"Central Asia, regional",2018,159.69
+"Central Asia, regional",2019,211.6
+"South Asia, regional",2005,0.48
+"South Asia, regional",2006,108.41
+"South Asia, regional",2007,87.49
+"South Asia, regional",2008,251.49
+"South Asia, regional",2009,81.72
+"South Asia, regional",2010,196.61
+"South Asia, regional",2011,283.27
+"South Asia, regional",2012,162.1
+"South Asia, regional",2013,115.02
+"South Asia, regional",2014,96.31
+"South Asia, regional",2015,106.82
+"South Asia, regional",2016,242.11
+"South Asia, regional",2017,124.33
+"South Asia, regional",2018,95.14
+"South Asia, regional",2019,121.95
+"South & Central Asia, regional",1995,297.53
+"South & Central Asia, regional",1996,-336.72
+"South & Central Asia, regional",1997,107.35
+"South & Central Asia, regional",1998,-130.05
+"South & Central Asia, regional",1999,623.76
+"South & Central Asia, regional",2000,1101.21
+"South & Central Asia, regional",2001,596.1
+"South & Central Asia, regional",2002,123.04
+"South & Central Asia, regional",2003,230.96
+"South & Central Asia, regional",2004,348.42
+"South & Central Asia, regional",2005,466.56
+"South & Central Asia, regional",2006,204.74
+"South & Central Asia, regional",2007,489.18
+"South & Central Asia, regional",2008,-312.31
+"South & Central Asia, regional",2009,504.94
+"South & Central Asia, regional",2010,442.33
+"South & Central Asia, regional",2011,488.05
+"South & Central Asia, regional",2012,278.33
+"South & Central Asia, regional",2013,313.13
+"South & Central Asia, regional",2014,344.92
+"South & Central Asia, regional",2015,128.17
+"South & Central Asia, regional",2016,106.35
+"South & Central Asia, regional",2017,-316.14
+"South & Central Asia, regional",2018,1171.48
+"South & Central Asia, regional",2019,-291.35
+Bahrain,1995,41.41
+Bahrain,1996,775.02
+Bahrain,1997,716.99
+Bahrain,1998,1105.15
+Bahrain,1999,-562.18
+Bahrain,2000,1490.87
+Bahrain,2001,2654.72
+Bahrain,2002,159.44
+Bahrain,2003,305.32
+Bahrain,2004,829.32
+Iran,1995,941.57
+Iran,1996,-1503.38
+Iran,1997,-2543.93
+Iran,1998,-230.95
+Iran,1999,1039.94
+Iran,2000,16.93
+Iran,2001,1642.23
+Iran,2002,3108.38
+Iran,2003,4217.57
+Iran,2004,4289.23
+Iran,2005,5685.15
+Iran,2006,2206.46
+Iran,2007,-879.51
+Iran,2008,-1412.6
+Iran,2009,-1153.52
+Iran,2010,-1258.19
+Iran,2011,-4263.2
+Iran,2012,-1884.15
+Iran,2013,-1178.17
+Iran,2014,1876.11
+Iran,2015,-266.32
+Iran,2016,273.3
+Iran,2017,-570.89
+Iran,2018,197.4
+Iran,2019,-221.02
+Iraq,1995,167.96
+Iraq,1996,462.54
+Iraq,1997,211.15
+Iraq,1998,-3.62
+Iraq,1999,74.82
+Iraq,2000,108.52
+Iraq,2001,137.39
+Iraq,2002,82.31
+Iraq,2003,2232.13
+Iraq,2004,4703.05
+Iraq,2005,20697.63
+Iraq,2006,7298.93
+Iraq,2007,5177.57
+Iraq,2008,5065.34
+Iraq,2009,2953.71
+Iraq,2010,2492.85
+Iraq,2011,2567.78
+Iraq,2012,2259.47
+Iraq,2013,1960.18
+Iraq,2014,5895.83
+Iraq,2015,4710.23
+Iraq,2016,4337.99
+Iraq,2017,2620.31
+Iraq,2018,3466.75
+Iraq,2019,1041.06
+Israel,1995,1989.23
+Israel,1996,5687.03
+Jordan,1995,948.36
+Jordan,1996,848.3
+Jordan,1997,516.26
+Jordan,1998,613.08
+Jordan,1999,513.93
+Jordan,2000,575.58
+Jordan,2001,463.57
+Jordan,2002,792.06
+Jordan,2003,1355.04
+Jordan,2004,473.39
+Jordan,2005,878.5
+Jordan,2006,578.66
+Jordan,2007,533.51
+Jordan,2008,514.36
+Jordan,2009,1432.84
+Jordan,2010,1630.54
+Jordan,2011,1199.9
+Jordan,2012,1939.96
+Jordan,2013,1950.48
+Jordan,2014,3116.91
+Jordan,2015,3425.34
+Jordan,2016,3352.75
+Jordan,2017,3597.48
+Jordan,2018,3172.34
+Jordan,2019,3941.66
+Kuwait,1995,849.61
+Lebanon,1995,502.74
+Lebanon,1996,345.44
+Lebanon,1997,141.01
+Lebanon,1998,711.53
+Lebanon,1999,309.87
+Lebanon,2000,50.72
+Lebanon,2001,-568.35
+Lebanon,2002,237.96
+Lebanon,2003,1686.78
+Lebanon,2004,285.67
+Lebanon,2005,373.81
+Lebanon,2006,644.82
+Lebanon,2007,849.61
+Lebanon,2008,1097.2
+Lebanon,2009,573.63
+Lebanon,2010,894.14
+Lebanon,2011,173.16
+Lebanon,2012,819.1
+Lebanon,2013,796.93
+Lebanon,2014,604.34
+Lebanon,2015,955.07
+Lebanon,2016,1502.78
+Lebanon,2017,1688.99
+Lebanon,2018,1757.17
+Lebanon,2019,1501.53
+Oman,1995,39.06
+Oman,1996,-98.59
+Oman,1997,865.83
+Oman,1998,1039.55
+Oman,1999,253.1
+Oman,2000,201.92
+Oman,2001,-407.47
+Oman,2002,-40.47
+Oman,2003,188.36
+Oman,2004,1868.6
+Oman,2005,2373.71
+Oman,2006,2193.22
+Oman,2007,1860.7
+Oman,2008,199.08
+Oman,2009,65.79
+Oman,2010,1246.7
+Qatar,1995,1650.42
+Saudi Arabia,1995,72.44
+Saudi Arabia,1996,-403.75
+Saudi Arabia,1997,1549.05
+Saudi Arabia,1998,2792.84
+Saudi Arabia,1999,373.5
+Saudi Arabia,2000,-979.22
+Saudi Arabia,2001,523.47
+Saudi Arabia,2002,-521.97
+Saudi Arabia,2003,-162.23
+Saudi Arabia,2004,-738.39
+Saudi Arabia,2005,1968.44
+Saudi Arabia,2006,10383.24
+Saudi Arabia,2007,5768.11
+Syrian Arab Republic,1995,211.07
+Syrian Arab Republic,1996,89.59
+Syrian Arab Republic,1997,-35.45
+Syrian Arab Republic,1998,166.79
+Syrian Arab Republic,1999,283.87
+Syrian Arab Republic,2000,212.16
+Syrian Arab Republic,2001,-25.52
+Syrian Arab Republic,2002,-14.92
+Syrian Arab Republic,2003,184.12
+Syrian Arab Republic,2004,247.35
+Syrian Arab Republic,2005,102.39
+Syrian Arab Republic,2006,118.86
+Syrian Arab Republic,2007,442.94
+Syrian Arab Republic,2008,272.7
+Syrian Arab Republic,2009,636.74
+Syrian Arab Republic,2010,352.57
+Syrian Arab Republic,2011,593.99
+Syrian Arab Republic,2012,1565.35
+Syrian Arab Republic,2013,3529.73
+Syrian Arab Republic,2014,3944.04
+Syrian Arab Republic,2015,4872.38
+Syrian Arab Republic,2016,8864.06
+Syrian Arab Republic,2017,10467.15
+Syrian Arab Republic,2018,9996.15
+Syrian Arab Republic,2019,10231.5
+United Arab Emirates,1995,102.27
+West Bank and Gaza Strip,1995,514.11
+West Bank and Gaza Strip,1996,556.6
+West Bank and Gaza Strip,1997,622.77
+West Bank and Gaza Strip,1998,625.77
+West Bank and Gaza Strip,1999,626.22
+West Bank and Gaza Strip,2000,554.41
+West Bank and Gaza Strip,2001,940.13
+West Bank and Gaza Strip,2002,935.03
+West Bank and Gaza Strip,2003,1028.75
+West Bank and Gaza Strip,2004,1154.85
+West Bank and Gaza Strip,2005,1035.72
+West Bank and Gaza Strip,2006,1354.25
+West Bank and Gaza Strip,2007,1707.69
+West Bank and Gaza Strip,2008,2471.06
+West Bank and Gaza Strip,2009,2855.73
+West Bank and Gaza Strip,2010,2531.37
+West Bank and Gaza Strip,2011,2427.15
+West Bank and Gaza Strip,2012,2019.85
+West Bank and Gaza Strip,2013,2597.1
+West Bank and Gaza Strip,2014,2518.57
+West Bank and Gaza Strip,2015,1887.07
+West Bank and Gaza Strip,2016,2416.12
+West Bank and Gaza Strip,2017,2154.23
+West Bank and Gaza Strip,2018,2292.43
+West Bank and Gaza Strip,2019,2236.05
+Yemen,1995,123.98
+Yemen,1996,270.21
+Yemen,1997,316.88
+Yemen,1998,377.31
+Yemen,1999,773.17
+Yemen,2000,337.14
+Yemen,2001,406.57
+Yemen,2002,392
+Yemen,2003,398.86
+Yemen,2004,207.56
+Yemen,2005,283.32
+Yemen,2006,879.92
+Yemen,2007,327.76
+Yemen,2008,1395.75
+Yemen,2009,1112.92
+Yemen,2010,-439.29
+Yemen,2011,440.51
+Yemen,2012,676.17
+Yemen,2013,845.93
+Yemen,2014,670.74
+Yemen,2015,1551.33
+Yemen,2016,2035.64
+Yemen,2017,3186.45
+Yemen,2018,8004.08
+Yemen,2019,4680.77
+"Middle East, regional",1995,322.21
+"Middle East, regional",1996,118.96
+"Middle East, regional",1997,405.05
+"Middle East, regional",1998,11.16
+"Middle East, regional",1999,348.83
+"Middle East, regional",2000,426.49
+"Middle East, regional",2001,798.58
+"Middle East, regional",2002,-138.99
+"Middle East, regional",2003,133.21
+"Middle East, regional",2004,183.89
+"Middle East, regional",2005,983.22
+"Middle East, regional",2006,2367.3
+"Middle East, regional",2007,1642.46
+"Middle East, regional",2008,5146.68
+"Middle East, regional",2009,2554.06
+"Middle East, regional",2010,2621.04
+"Middle East, regional",2011,4766.07
+"Middle East, regional",2012,941.82
+"Middle East, regional",2013,6052.99
+"Middle East, regional",2014,12589.23
+"Middle East, regional",2015,739.56
+"Middle East, regional",2016,927.16
+"Middle East, regional",2017,657.46
+"Middle East, regional",2018,599.61
+"Middle East, regional",2019,1316.6
+"Asia, regional",1995,1809.5
+"Asia, regional",1996,937.47
+"Asia, regional",1997,-699.55
+"Asia, regional",1998,2736.59
+"Asia, regional",1999,2871.77
+"Asia, regional",2000,841.72
+"Asia, regional",2001,31.02
+"Asia, regional",2002,704.15
+"Asia, regional",2003,-1023.84
+"Asia, regional",2004,1802.6
+"Asia, regional",2005,2840.7
+"Asia, regional",2006,2013.73
+"Asia, regional",2007,14812.6
+"Asia, regional",2008,-55374.36
+"Asia, regional",2009,6403.61
+"Asia, regional",2010,39475.23
+"Asia, regional",2011,20124.53
+"Asia, regional",2012,5886.93
+"Asia, regional",2013,25647.34
+"Asia, regional",2014,69540.13
+"Asia, regional",2015,10242.32
+"Asia, regional",2016,16506.05
+"Asia, regional",2017,34459.92
+"Asia, regional",2018,13292.93
+"Asia, regional",2019,32773.22
+Cook Islands,1995,38.19
+Cook Islands,1996,-48.07
+Cook Islands,1997,3.6
+Cook Islands,1998,15.78
+Cook Islands,1999,-42.62
+Cook Islands,2000,-27.36
+Cook Islands,2001,4.32
+Cook Islands,2002,1.85
+Cook Islands,2003,-17.03
+Cook Islands,2004,2.94
+Cook Islands,2005,-22.57
+Cook Islands,2006,26.92
+Cook Islands,2007,10.47
+Cook Islands,2008,4.54
+Cook Islands,2009,4.89
+Cook Islands,2010,22.99
+Cook Islands,2011,38.14
+Cook Islands,2012,27.57
+Cook Islands,2013,23.32
+Cook Islands,2014,24.66
+Cook Islands,2015,22.77
+Cook Islands,2016,15.08
+Cook Islands,2017,20.73
+Cook Islands,2018,16.66
+Cook Islands,2019,30.68
+Fiji,1995,41.95
+Fiji,1996,17.07
+Fiji,1997,44.44
+Fiji,1998,31.12
+Fiji,1999,60.08
+Fiji,2000,23.98
+Fiji,2001,4.51
+Fiji,2002,41.01
+Fiji,2003,47.52
+Fiji,2004,97.21
+Fiji,2005,118.26
+Fiji,2006,-1.99
+Fiji,2007,37.71
+Fiji,2008,149.35
+Fiji,2009,73.13
+Fiji,2010,87.18
+Fiji,2011,148.43
+Fiji,2012,288.66
+Fiji,2013,166.38
+Fiji,2014,209.61
+Fiji,2015,144.12
+Fiji,2016,143.22
+Fiji,2017,239.25
+Fiji,2018,188.22
+Fiji,2019,159.3
+French Polynesia,1995,435.45
+French Polynesia,1996,440.05
+French Polynesia,1997,347.44
+French Polynesia,1998,337.11
+French Polynesia,1999,354.15
+Kiribati,1995,14.53
+Kiribati,1996,12.89
+Kiribati,1997,15.73
+Kiribati,1998,17.42
+Kiribati,1999,28.58
+Kiribati,2000,16.94
+Kiribati,2001,11.38
+Kiribati,2002,20.16
+Kiribati,2003,16.23
+Kiribati,2004,15.1
+Kiribati,2005,27.64
+Kiribati,2006,24.79
+Kiribati,2007,19.63
+Kiribati,2008,27.23
+Kiribati,2009,27.08
+Kiribati,2010,24.23
+Kiribati,2011,68.49
+Kiribati,2012,66.84
+Kiribati,2013,65.86
+Kiribati,2014,83.95
+Kiribati,2015,67.96
+Kiribati,2016,52.5
+Kiribati,2017,76.59
+Kiribati,2018,84.57
+Kiribati,2019,62.21
+Marshall Islands,1995,38.3
+Marshall Islands,1996,102.94
+Marshall Islands,1997,58.61
+Marshall Islands,1998,25.45
+Marshall Islands,1999,115.42
+Marshall Islands,2000,155.59
+Marshall Islands,2001,858.6
+Marshall Islands,2002,1024.79
+Marshall Islands,2003,448.2
+Marshall Islands,2004,1182.05
+Marshall Islands,2005,2793.12
+Marshall Islands,2006,1452.08
+Marshall Islands,2007,4480.06
+Marshall Islands,2008,3386.53
+Marshall Islands,2009,-806.6
+Marshall Islands,2010,997.97
+Marshall Islands,2011,3051.8
+Marshall Islands,2012,2205.43
+Marshall Islands,2013,-975.12
+Marshall Islands,2014,-162.82
+Marshall Islands,2015,2309.34
+Marshall Islands,2016,57.97
+Marshall Islands,2017,661.37
+Marshall Islands,2018,-402.01
+Marshall Islands,2019,240.41
+Micronesia,1995,74.43
+Micronesia,1996,41.98
+Micronesia,1997,63.45
+Micronesia,1998,74.41
+Micronesia,1999,102.22
+Micronesia,2000,97.37
+Micronesia,2001,135.15
+Micronesia,2002,110.85
+Micronesia,2003,112.27
+Micronesia,2004,85.85
+Micronesia,2005,105.12
+Micronesia,2006,107.06
+Micronesia,2007,128.37
+Micronesia,2008,140.85
+Micronesia,2009,130.5
+Micronesia,2010,67.85
+Micronesia,2011,732.67
+Micronesia,2012,150.23
+Micronesia,2013,235.61
+Micronesia,2014,437.62
+Micronesia,2015,879.32
+Micronesia,2016,766.84
+Micronesia,2017,552.14
+Micronesia,2018,-1542.03
+Micronesia,2019,-1122.19
+Nauru,1995,3.03
+Nauru,1996,-10
+Nauru,1997,-0.37
+Nauru,1998,4.01
+Nauru,1999,8.24
+Nauru,2000,1.94
+Nauru,2001,7.49
+Nauru,2002,12.95
+Nauru,2003,22.42
+Nauru,2004,237.19
+Nauru,2005,11.78
+Nauru,2006,17.94
+Nauru,2007,26.06
+Nauru,2008,32.51
+Nauru,2009,25.97
+Nauru,2010,28.09
+Nauru,2011,37.32
+Nauru,2012,35.9
+Nauru,2013,28.69
+Nauru,2014,22.52
+Nauru,2015,31.24
+Nauru,2016,84.98
+Nauru,2017,45.26
+Nauru,2018,37.87
+Nauru,2019,54.3
+New Caledonia,1995,549.4
+New Caledonia,1996,377.57
+New Caledonia,1997,350.67
+New Caledonia,1998,375.82
+New Caledonia,1999,279.35
+Niue,1995,8.1
+Niue,1996,15.2
+Niue,1997,5.3
+Niue,1998,62.33
+Niue,1999,-1.2
+Niue,2000,22.84
+Niue,2001,18.42
+Niue,2002,12.72
+Niue,2003,6.79
+Niue,2004,13.07
+Niue,2005,20
+Niue,2006,9.01
+Niue,2007,14.77
+Niue,2008,18.04
+Niue,2009,7.31
+Niue,2010,15.19
+Niue,2011,20.85
+Niue,2012,20.1
+Niue,2013,18.28
+Niue,2014,13.64
+Niue,2015,19.57
+Niue,2016,13.72
+Niue,2017,14.79
+Niue,2018,18.93
+Niue,2019,18.99
+Northern Mariana Islands,1995,22.99
+Northern Mariana Islands,1996,7.27
+Northern Mariana Islands,1997,63.21
+Northern Mariana Islands,1998,48.67
+Northern Mariana Islands,1999,6.97
+Palau,1995,156.11
+Palau,1996,39.24
+Palau,1997,116.7
+Palau,1998,86.59
+Palau,1999,34.99
+Palau,2000,55.47
+Palau,2001,43.89
+Palau,2002,30.98
+Palau,2003,25.6
+Palau,2004,24.91
+Palau,2005,22.49
+Palau,2006,36.65
+Palau,2007,25.49
+Palau,2008,40.02
+Palau,2009,34.78
+Palau,2010,31.68
+Palau,2011,36.91
+Palau,2012,37.38
+Palau,2013,44.08
+Palau,2014,18.48
+Palau,2015,21.02
+Palau,2016,33.11
+Palau,2017,42.25
+Palau,2018,101.82
+Palau,2019,37.45
+Papua New Guinea,1995,299.8
+Papua New Guinea,1996,337.63
+Papua New Guinea,1997,315.68
+Papua New Guinea,1998,438.87
+Papua New Guinea,1999,93.36
+Papua New Guinea,2000,333.1
+Papua New Guinea,2001,238.24
+Papua New Guinea,2002,253.68
+Papua New Guinea,2003,240.16
+Papua New Guinea,2004,199.04
+Papua New Guinea,2005,497.74
+Papua New Guinea,2006,417.75
+Papua New Guinea,2007,517.75
+Papua New Guinea,2008,327.32
+Papua New Guinea,2009,2274.73
+Papua New Guinea,2010,5366.16
+Papua New Guinea,2011,2043.57
+Papua New Guinea,2012,4576.42
+Papua New Guinea,2013,2561.57
+Papua New Guinea,2014,-2344.25
+Papua New Guinea,2015,-2320.42
+Papua New Guinea,2016,421.82
+Papua New Guinea,2017,399.57
+Papua New Guinea,2018,677.75
+Papua New Guinea,2019,546.52
+Samoa,1995,41.96
+Samoa,1996,33.91
+Samoa,1997,48.99
+Samoa,1998,31.42
+Samoa,1999,25.31
+Samoa,2000,30.09
+Samoa,2001,40.75
+Samoa,2002,38.91
+Samoa,2003,40.34
+Samoa,2004,20.38
+Samoa,2005,72.82
+Samoa,2006,51.05
+Samoa,2007,67.8
+Samoa,2008,80.48
+Samoa,2009,79.79
+Samoa,2010,145.26
+Samoa,2011,97
+Samoa,2012,125.68
+Samoa,2013,81.37
+Samoa,2014,130.02
+Samoa,2015,95.23
+Samoa,2016,102.73
+Samoa,2017,143.42
+Samoa,2018,182.33
+Samoa,2019,121.28
+Solomon Islands,1995,45.96
+Solomon Islands,1996,44.35
+Solomon Islands,1997,132.62
+Solomon Islands,1998,41.01
+Solomon Islands,1999,40.44
+Solomon Islands,2000,55.08
+Solomon Islands,2001,54.74
+Solomon Islands,2002,25.13
+Solomon Islands,2003,63.31
+Solomon Islands,2004,125.24
+Solomon Islands,2005,168.59
+Solomon Islands,2006,211.53
+Solomon Islands,2007,246.77
+Solomon Islands,2008,262.44
+Solomon Islands,2009,214.53
+Solomon Islands,2010,395.49
+Solomon Islands,2011,344.12
+Solomon Islands,2012,-157.69
+Solomon Islands,2013,330.82
+Solomon Islands,2014,248.71
+Solomon Islands,2015,201.67
+Solomon Islands,2016,193.62
+Solomon Islands,2017,179.32
+Solomon Islands,2018,206.47
+Solomon Islands,2019,299.76
+Tokelau,1995,3.73
+Tokelau,1996,4.64
+Tokelau,1997,1.78
+Tokelau,1998,0.87
+Tokelau,1999,4.88
+Tokelau,2000,-54.75
+Tokelau,2001,4.63
+Tokelau,2002,4.9
+Tokelau,2003,6.45
+Tokelau,2004,8.44
+Tokelau,2005,16.06
+Tokelau,2006,10.93
+Tokelau,2007,12.89
+Tokelau,2008,21.64
+Tokelau,2009,-9.11
+Tokelau,2010,32.41
+Tokelau,2011,-11.35
+Tokelau,2012,20.21
+Tokelau,2013,29.01
+Tokelau,2014,14.7
+Tokelau,2015,6.68
+Tokelau,2016,14.23
+Tokelau,2017,7.25
+Tokelau,2018,27.21
+Tokelau,2019,19.06
+Tonga,1995,2.22
+Tonga,1996,15.03
+Tonga,1997,27.08
+Tonga,1998,20.55
+Tonga,1999,-96.82
+Tonga,2000,9.89
+Tonga,2001,20.76
+Tonga,2002,18.95
+Tonga,2003,33.92
+Tonga,2004,30.4
+Tonga,2005,35.07
+Tonga,2006,24.52
+Tonga,2007,24.34
+Tonga,2008,35.6
+Tonga,2009,43.59
+Tonga,2010,57.08
+Tonga,2011,86.69
+Tonga,2012,79.35
+Tonga,2013,82.5
+Tonga,2014,81.58
+Tonga,2015,69.68
+Tonga,2016,84.95
+Tonga,2017,88.49
+Tonga,2018,90.22
+Tonga,2019,113.63
+Tuvalu,1995,7.13
+Tuvalu,1996,8.19
+Tuvalu,1997,-0.97
+Tuvalu,1998,4.3
+Tuvalu,1999,3.82
+Tuvalu,2000,-0.29
+Tuvalu,2001,8.92
+Tuvalu,2002,36.71
+Tuvalu,2003,6.19
+Tuvalu,2004,8.06
+Tuvalu,2005,8.32
+Tuvalu,2006,17.9
+Tuvalu,2007,9.96
+Tuvalu,2008,16.71
+Tuvalu,2009,15.85
+Tuvalu,2010,13.82
+Tuvalu,2011,37.9
+Tuvalu,2012,25.67
+Tuvalu,2013,25.84
+Tuvalu,2014,33.89
+Tuvalu,2015,49.86
+Tuvalu,2016,24.7
+Tuvalu,2017,28.65
+Tuvalu,2018,20.4
+Tuvalu,2019,36.67
+Vanuatu,1995,34.35
+Vanuatu,1996,94.28
+Vanuatu,1997,-66.68
+Vanuatu,1998,-11.01
+Vanuatu,1999,65.44
+Vanuatu,2000,60.27
+Vanuatu,2001,-376.35
+Vanuatu,2002,23.83
+Vanuatu,2003,32.64
+Vanuatu,2004,21.92
+Vanuatu,2005,52.13
+Vanuatu,2006,79.55
+Vanuatu,2007,47.78
+Vanuatu,2008,156.52
+Vanuatu,2009,176.07
+Vanuatu,2010,141.66
+Vanuatu,2011,71.24
+Vanuatu,2012,190.57
+Vanuatu,2013,135.8
+Vanuatu,2014,116.58
+Vanuatu,2015,182.04
+Vanuatu,2016,130.8
+Vanuatu,2017,134.3
+Vanuatu,2018,130.04
+Vanuatu,2019,142.99
+Wallis and Futuna,1995,0.51
+Wallis and Futuna,1996,1.49
+Wallis and Futuna,1997,0.2
+Wallis and Futuna,1998,48.08
+Wallis and Futuna,1999,50.44
+Wallis and Futuna,2000,53.3
+Wallis and Futuna,2001,49.48
+Wallis and Futuna,2002,52.15
+Wallis and Futuna,2003,53.59
+Wallis and Futuna,2004,69.83
+Wallis and Futuna,2005,69.01
+Wallis and Futuna,2006,99.55
+Wallis and Futuna,2007,114.99
+Wallis and Futuna,2008,130.24
+Wallis and Futuna,2009,117.11
+Wallis and Futuna,2010,122.37
+Wallis and Futuna,2011,139.1
+Wallis and Futuna,2012,115.69
+Wallis and Futuna,2013,101.64
+Wallis and Futuna,2014,96.65
+Wallis and Futuna,2015,131.14
+Wallis and Futuna,2016,99
+Wallis and Futuna,2017,90.86
+Wallis and Futuna,2018,52.21
+Wallis and Futuna,2019,100.21
+"Oceania, regional",1995,158.12
+"Oceania, regional",1996,-35.88
+"Oceania, regional",1997,-177.05
+"Oceania, regional",1998,238.15
+"Oceania, regional",1999,-129.27
+"Oceania, regional",2000,82.35
+"Oceania, regional",2001,183.91
+"Oceania, regional",2002,-70.38
+"Oceania, regional",2003,95.87
+"Oceania, regional",2004,162.33
+"Oceania, regional",2005,200.8
+"Oceania, regional",2006,791.11
+"Oceania, regional",2007,224.91
+"Oceania, regional",2008,-458.56
+"Oceania, regional",2009,211.95
+"Oceania, regional",2010,-384.31
+"Oceania, regional",2011,1112.94
+"Oceania, regional",2012,380.83
+"Oceania, regional",2013,460.74
+"Oceania, regional",2014,543.66
+"Oceania, regional",2015,160.37
+"Oceania, regional",2016,-1829.14
+"Oceania, regional",2017,-9291.03
+"Oceania, regional",2018,-2121.11
+"Oceania, regional",2019,350.02
+"South & Central Asia, Total",1995,7973.36
+"South & Central Asia, Total",1996,10279.69
+"South & Central Asia, Total",1997,12670.93
+"South & Central Asia, Total",1998,11051.14
+"South & Central Asia, Total",1999,9293.25
+"South & Central Asia, Total",2000,8268.45
+"South & Central Asia, Total",2001,9472.17
+"South & Central Asia, Total",2002,10185.15
+"South & Central Asia, Total",2003,8364.68
+"South & Central Asia, Total",2004,14104.9
+"South & Central Asia, Total",2005,22595.86
+"South & Central Asia, Total",2006,32742.18
+"South & Central Asia, Total",2007,52867.68
+"South & Central Asia, Total",2008,42157.7
+"South & Central Asia, Total",2009,39662.42
+"South & Central Asia, Total",2010,48272.83
+"South & Central Asia, Total",2011,44329.82
+"South & Central Asia, Total",2012,40993.61
+"South & Central Asia, Total",2013,38493.62
+"South & Central Asia, Total",2014,40693.13
+"South & Central Asia, Total",2015,41808.8
+"South & Central Asia, Total",2016,43950.2
+"South & Central Asia, Total",2017,44044.85
+"South & Central Asia, Total",2018,30930.56
+"South & Central Asia, Total",2019,47906
+"Asia, Total",1995,74946.72
+"Asia, Total",1996,76227.96
+"Asia, Total",1997,65002.13
+"Asia, Total",1998,65174.71
+"Asia, Total",1999,59186.1
+"Asia, Total",2000,17800.26
+"Asia, Total",2001,22294.54
+"Asia, Total",2002,18101.41
+"Asia, Total",2003,26558.91
+"Asia, Total",2004,57697.82
+"Asia, Total",2005,112092.53
+"Asia, Total",2006,102286.08
+"Asia, Total",2007,136036.46
+"Asia, Total",2008,50202.76
+"Asia, Total",2009,99114.86
+"Asia, Total",2010,179973.76
+"Asia, Total",2011,164874.15
+"Asia, Total",2012,127124.51
+"Asia, Total",2013,179302.27
+"Asia, Total",2014,253773.21
+"Asia, Total",2015,118070.49
+"Asia, Total",2016,158488.64
+"Asia, Total",2017,171947.02
+"Asia, Total",2018,135808.27
+"Asia, Total",2019,227189.61
+Part I Unallocated by income,1995,22011.74
+Part I Unallocated by income,1996,26342.52
+Part I Unallocated by income,1997,24555.47
+Part I Unallocated by income,1998,31168.99
+Part I Unallocated by income,1999,24810.1
+Part I Unallocated by income,2000,45104.3
+Part I Unallocated by income,2001,31465.24
+Part I Unallocated by income,2002,16219.98
+Part I Unallocated by income,2003,22072.61
+Part I Unallocated by income,2004,25774.54
+Part I Unallocated by income,2005,41661.46
+Part I Unallocated by income,2006,44892.62
+Part I Unallocated by income,2007,63175.51
+Part I Unallocated by income,2008,7734.01
+Part I Unallocated by income,2009,82410.15
+Part I Unallocated by income,2010,197953.33
+Part I Unallocated by income,2011,168002.06
+Part I Unallocated by income,2012,164070.6
+Part I Unallocated by income,2013,106985.5
+Part I Unallocated by income,2014,224374.5
+Part I Unallocated by income,2015,869.94
+Part I Unallocated by income,2016,51673.16
+Part I Unallocated by income,2017,126808.9
+Part I Unallocated by income,2018,26981.57
+Part I Unallocated by income,2019,81142.84
+"LDCs, Total",1995,15984.16
+"LDCs, Total",1996,14286.27
+"LDCs, Total",1997,14032.62
+"LDCs, Total",1998,14682.69
+"LDCs, Total",1999,14956.62
+"LDCs, Total",2000,13093.53
+"LDCs, Total",2001,14879.81
+"LDCs, Total",2002,14995.35
+"LDCs, Total",2003,27007.55
+"LDCs, Total",2004,26142.07
+"LDCs, Total",2005,24900.85
+"LDCs, Total",2006,29727.88
+"LDCs, Total",2007,35568.16
+"LDCs, Total",2008,45952.8
+"LDCs, Total",2009,48000.48
+"LDCs, Total",2010,46211.08
+"LDCs, Total",2011,47800.63
+"LDCs, Total",2012,49530.19
+"LDCs, Total",2013,51634.99
+"LDCs, Total",2014,55376.57
+"LDCs, Total",2015,48704.65
+"LDCs, Total",2016,51836.43
+"LDCs, Total",2017,56264.77
+"LDCs, Total",2018,58256.35
+"LDCs, Total",2019,61537.23
+"America, Total",1995,44100.07
+"America, Total",1996,61006.01
+"America, Total",1997,76339.62
+"America, Total",1998,76649.75
+"America, Total",1999,101724.24
+"America, Total",2000,73383.23
+"America, Total",2001,52743.35
+"America, Total",2002,5662.6
+"America, Total",2003,13163.62
+"America, Total",2004,20269.85
+"America, Total",2005,66414.92
+"America, Total",2006,81913
+"America, Total",2007,125172.91
+"America, Total",2008,59328.02
+"America, Total",2009,106114.37
+"America, Total",2010,181068.27
+"America, Total",2011,147066.01
+"America, Total",2012,141940.58
+"America, Total",2013,113349.59
+"America, Total",2014,188644.69
+"America, Total",2015,67066.73
+"America, Total",2016,31014.63
+"America, Total",2017,80781.18
+"America, Total",2018,25509.55
+"America, Total",2019,61110.31
+"UMICs, Total",1995,65556.4
+"UMICs, Total",1996,71023.78
+"UMICs, Total",1997,89617.28
+"UMICs, Total",1998,80897.88
+"UMICs, Total",1999,105693.29
+"UMICs, Total",2000,52424.94
+"UMICs, Total",2001,37364.91
+"UMICs, Total",2002,12851.73
+"UMICs, Total",2003,28945.11
+"UMICs, Total",2004,68385.31
+"UMICs, Total",2005,148172.75
+"UMICs, Total",2006,136124.53
+"UMICs, Total",2007,225654.53
+"UMICs, Total",2008,123908.04
+"UMICs, Total",2009,114894.76
+"UMICs, Total",2010,180488.44
+"UMICs, Total",2011,189970.42
+"UMICs, Total",2012,142608.04
+"UMICs, Total",2013,180963.79
+"UMICs, Total",2014,211130.63
+"UMICs, Total",2015,143950.6
+"UMICs, Total",2016,118417.53
+"UMICs, Total",2017,135654.09
+"UMICs, Total",2018,112085.64
+"UMICs, Total",2019,121242.9
+"HIPCs, Total",1995,18904.04
+"HIPCs, Total",1996,15585.12
+"HIPCs, Total",1997,13820.34
+"HIPCs, Total",1998,12437.01
+"HIPCs, Total",1999,13036.32
+"HIPCs, Total",2000,12829.81
+"HIPCs, Total",2001,13837.9
+"HIPCs, Total",2002,16520.54
+"HIPCs, Total",2003,28066.39
+"HIPCs, Total",2004,26175.47
+"HIPCs, Total",2005,25261.26
+"HIPCs, Total",2006,29801.9
+"HIPCs, Total",2007,35688.61
+"HIPCs, Total",2008,40043.18
+"HIPCs, Total",2009,42759.42
+"HIPCs, Total",2010,46170.97
+"HIPCs, Total",2011,43745.97
+"HIPCs, Total",2012,46628.48
+"HIPCs, Total",2013,39720.45
+"HIPCs, Total",2014,46519.28
+"HIPCs, Total",2015,49575.26
+"HIPCs, Total",2016,43302.46
+"HIPCs, Total",2017,47182.74
+"HIPCs, Total",2018,45530.94
+"HIPCs, Total",2019,48838.47
+"North of Sahara, Total",1995,5368.32
+"North of Sahara, Total",1996,6277.02
+"North of Sahara, Total",1997,3131.25
+"North of Sahara, Total",1998,5913.88
+"North of Sahara, Total",1999,1425.35
+"North of Sahara, Total",2000,3944.05
+"North of Sahara, Total",2001,5059.48
+"North of Sahara, Total",2002,2590.7
+"North of Sahara, Total",2003,7120.06
+"North of Sahara, Total",2004,5123.73
+"North of Sahara, Total",2005,7031.86
+"North of Sahara, Total",2006,3514.95
+"North of Sahara, Total",2007,17289.51
+"North of Sahara, Total",2008,25626.48
+"North of Sahara, Total",2009,14346.84
+"North of Sahara, Total",2010,12430.31
+"North of Sahara, Total",2011,13652.14
+"North of Sahara, Total",2012,9909.42
+"North of Sahara, Total",2013,18909.94
+"North of Sahara, Total",2014,18839.06
+"North of Sahara, Total",2015,17949.71
+"North of Sahara, Total",2016,16427.36
+"North of Sahara, Total",2017,13016.49
+"North of Sahara, Total",2018,14151.05
+"North of Sahara, Total",2019,10734.49
+"Europe, Total",1995,3176.23
+"Europe, Total",1996,7551.74
+"Europe, Total",1997,11018.07
+"Europe, Total",1998,7683.84
+"Europe, Total",1999,12035.66
+"Europe, Total",2000,15092.46
+"Europe, Total",2001,6740.95
+"Europe, Total",2002,7460.98
+"Europe, Total",2003,9467.76
+"Europe, Total",2004,9634.24
+"Europe, Total",2005,33575.84
+"Europe, Total",2006,45297.47
+"Europe, Total",2007,62250.74
+"Europe, Total",2008,35131.8
+"Europe, Total",2009,17875.93
+"Europe, Total",2010,23691.85
+"Europe, Total",2011,36372.24
+"Europe, Total",2012,29993.14
+"Europe, Total",2013,26342.43
+"Europe, Total",2014,18902.69
+"Europe, Total",2015,13473.2
+"Europe, Total",2016,12809.76
+"Europe, Total",2017,25080.52
+"Europe, Total",2018,10802.05
+"Europe, Total",2019,5779.41
+"South America, Total",1995,26061.59
+"South America, Total",1996,24378.48
+"South America, Total",1997,49407.33
+"South America, Total",1998,49714.33
+"South America, Total",1999,63205.83
+"South America, Total",2000,52313.99
+"South America, Total",2001,24848.91
+"South America, Total",2002,-6723.34
+"South America, Total",2003,2480.33
+"South America, Total",2004,1581.41
+"South America, Total",2005,31214.17
+"South America, Total",2006,56361.4
+"South America, Total",2007,79910.17
+"South America, Total",2008,28517.06
+"South America, Total",2009,37073.78
+"South America, Total",2010,51552.13
+"South America, Total",2011,62524.58
+"South America, Total",2012,69798.42
+"South America, Total",2013,60436.45
+"South America, Total",2014,91134.05
+"South America, Total",2015,70594.59
+"South America, Total",2016,29820.51
+"South America, Total",2017,22011.65
+"South America, Total",2018,37037.45
+"South America, Total",2019,24367.97
+"South of Sahara, Total",1995,21251.54
+"South of Sahara, Total",1996,19241.07
+"South of Sahara, Total",1997,21111.03
+"South of Sahara, Total",1998,16751.98
+"South of Sahara, Total",1999,18648.59
+"South of Sahara, Total",2000,11900.35
+"South of Sahara, Total",2001,16378.9
+"South of Sahara, Total",2002,22562.3
+"South of Sahara, Total",2003,36035.66
+"South of Sahara, Total",2004,42027.03
+"South of Sahara, Total",2005,48925.21
+"South of Sahara, Total",2006,34854.46
+"South of Sahara, Total",2007,66355.35
+"South of Sahara, Total",2008,44793.54
+"South of Sahara, Total",2009,56432.37
+"South of Sahara, Total",2010,63887.76
+"South of Sahara, Total",2011,52653.4
+"South of Sahara, Total",2012,60080.3
+"South of Sahara, Total",2013,50839.07
+"South of Sahara, Total",2014,66659.34
+"South of Sahara, Total",2015,74981.52
+"South of Sahara, Total",2016,44720.1
+"South of Sahara, Total",2017,65952.99
+"South of Sahara, Total",2018,55514.44
+"South of Sahara, Total",2019,69207.72
+"LMICs, Total",1995,31868.54
+"LMICs, Total",1996,34355.61
+"LMICs, Total",1997,35263.32
+"LMICs, Total",1998,30946.83
+"LMICs, Total",1999,31119.63
+"LMICs, Total",2000,18348.11
+"LMICs, Total",2001,19296.89
+"LMICs, Total",2002,24162.89
+"LMICs, Total",2003,25129.31
+"LMICs, Total",2004,26002.04
+"LMICs, Total",2005,63102.64
+"LMICs, Total",2006,52215.67
+"LMICs, Total",2007,86478.23
+"LMICs, Total",2008,86927
+"LMICs, Total",2009,75131.51
+"LMICs, Total",2010,85944.01
+"LMICs, Total",2011,83358.61
+"LMICs, Total",2012,92857.37
+"LMICs, Total",2013,93615.53
+"LMICs, Total",2014,99384.95
+"LMICs, Total",2015,113605.8
+"LMICs, Total",2016,91715.78
+"LMICs, Total",2017,109679.3
+"LMICs, Total",2018,94468.74
+"LMICs, Total",2019,139715.48
+"Oceania, Total",1995,1976.26
+"Oceania, Total",1996,1499.78
+"Oceania, Total",1997,1350.43
+"Oceania, Total",1998,1890.95
+"Oceania, Total",1999,1003.78
+"Oceania, Total",2000,915.81
+"Oceania, Total",2001,1308.84
+"Oceania, Total",2002,1639.19
+"Oceania, Total",2003,1234.47
+"Oceania, Total",2004,2303.96
+"Oceania, Total",2005,4196.38
+"Oceania, Total",2006,3376.35
+"Oceania, Total",2007,6009.75
+"Oceania, Total",2008,4371.46
+"Oceania, Total",2009,2621.57
+"Oceania, Total",2010,7165.12
+"Oceania, Total",2011,8055.82
+"Oceania, Total",2012,8188.84
+"Oceania, Total",2013,3416.39
+"Oceania, Total",2014,-430.8
+"Oceania, Total",2015,2071.59
+"Oceania, Total",2016,410.13
+"Oceania, Total",2017,-6566.79
+"Oceania, Total",2018,-2230.45
+"Oceania, Total",2019,1215.24
+"Africa, Total",1995,27163.72
+"Africa, Total",1996,26387.09
+"Africa, Total",1997,24199.94
+"Africa, Total",1998,23919.28
+"Africa, Total",1999,21175.72
+"Africa, Total",2000,16367.82
+"Africa, Total",2001,22174.84
+"Africa, Total",2002,25650.68
+"Africa, Total",2003,42688.83
+"Africa, Total",2004,46137.12
+"Africa, Total",2005,56705.74
+"Africa, Total",2006,39042.45
+"Africa, Total",2007,84593.13
+"Africa, Total",2008,71578.92
+"Africa, Total",2009,74135.74
+"Africa, Total",2010,79182.42
+"Africa, Total",2011,67208.74
+"Africa, Total",2012,75090.93
+"Africa, Total",2013,73292.94
+"Africa, Total",2014,102994.99
+"Africa, Total",2015,83757.92
+"Africa, Total",2016,69781.05
+"Africa, Total",2017,102777.37
+"Africa, Total",2018,76169.67
+"Africa, Total",2019,66458.05
+"Developing Countries, Total",1995,163241.58
+"Developing Countries, Total",1996,192150.53
+"Developing Countries, Total",1997,196987.02
+"Developing Countries, Total",1998,191910.81
+"Developing Countries, Total",1999,202802.1
+"Developing Countries, Total",2000,134019.82
+"Developing Countries, Total",2001,113711.05
+"Developing Countries, Total",2002,71323.59
+"Developing Countries, Total",2003,110946.88
+"Developing Countries, Total",2004,153288
+"Developing Countries, Total",2005,290067.09
+"Developing Countries, Total",2006,291881.55
+"Developing Countries, Total",2007,439930.38
+"Developing Countries, Total",2008,280851.26
+"Developing Countries, Total",2009,331745.96
+"Developing Countries, Total",2010,524264.95
+"Developing Countries, Total",2011,499551.6
+"Developing Countries, Total",2012,472551.1
+"Developing Countries, Total",2013,441332.3
+"Developing Countries, Total",2014,598499.06
+"Developing Countries, Total",2015,313875.88
+"Developing Countries, Total",2016,316640.91
+"Developing Countries, Total",2017,421745.86
+"Developing Countries, Total",2018,292665.48
+"Developing Countries, Total",2019,404686.58
+"Far East Asia, Total",1995,56687.42
+"Far East Asia, Total",1996,57862.83
+"Far East Asia, Total",1997,50265.14
+"Far East Asia, Total",1998,44178.37
+"Far East Asia, Total",1999,42986.01
+"Far East Asia, Total",2000,5694.57
+"Far East Asia, Total",2001,6226.03
+"Far East Asia, Total",2002,2221.28
+"Far East Asia, Total",2003,7650.16
+"Far East Asia, Total",2004,28285.8
+"Far East Asia, Total",2005,52274.08
+"Far East Asia, Total",2006,39504.51
+"Far East Asia, Total",2007,50925.34
+"Far East Asia, Total",2008,48669.85
+"Far East Asia, Total",2009,42016.93
+"Far East Asia, Total",2010,82153.97
+"Far East Asia, Total",2011,92514.44
+"Far East Asia, Total",2012,71906.4
+"Far East Asia, Total",2013,98606.14
+"Far East Asia, Total",2014,112324.18
+"Far East Asia, Total",2015,48144.71
+"Far East Asia, Total",2016,74322.59
+"Far East Asia, Total",2017,69641.07
+"Far East Asia, Total",2018,62098.85
+"Far East Asia, Total",2019,121782.24
+"Middle East, Total",1995,8476.44
+"Middle East, Total",1996,7147.97
+"Middle East, Total",1997,2765.61
+"Middle East, Total",1998,7208.61
+"Middle East, Total",1999,4035.07
+"Middle East, Total",2000,2995.52
+"Middle East, Total",2001,6565.32
+"Middle East, Total",2002,4990.83
+"Middle East, Total",2003,11567.91
+"Middle East, Total",2004,13504.52
+"Middle East, Total",2005,34381.89
+"Middle East, Total",2006,28025.66
+"Middle East, Total",2007,17430.84
+"Middle East, Total",2008,14749.57
+"Middle East, Total",2009,11031.9
+"Middle East, Total",2010,10071.73
+"Middle East, Total",2011,7905.36
+"Middle East, Total",2012,8337.57
+"Middle East, Total",2013,16555.17
+"Middle East, Total",2014,31215.77
+"Middle East, Total",2015,17874.66
+"Middle East, Total",2016,23709.8
+"Middle East, Total",2017,23801.18
+"Middle East, Total",2018,29485.93
+"Middle East, Total",2019,24728.15
+"Developing countries, unspecified",1995,11878.58
+"Developing countries, unspecified",1996,19477.95
+"Developing countries, unspecified",1997,19076.83
+"Developing countries, unspecified",1998,16592.28
+"Developing countries, unspecified",1999,7676.6
+"Developing countries, unspecified",2000,10460.24
+"Developing countries, unspecified",2001,8448.53
+"Developing countries, unspecified",2002,12808.73
+"Developing countries, unspecified",2003,17833.29
+"Developing countries, unspecified",2004,17245.01
+"Developing countries, unspecified",2005,17081.68
+"Developing countries, unspecified",2006,19966.2
+"Developing countries, unspecified",2007,25867.39
+"Developing countries, unspecified",2008,60238.3
+"Developing countries, unspecified",2009,31883.49
+"Developing countries, unspecified",2010,53183.53
+"Developing countries, unspecified",2011,75974.64
+"Developing countries, unspecified",2012,90213.1
+"Developing countries, unspecified",2013,45628.68
+"Developing countries, unspecified",2014,34614.28
+"Developing countries, unspecified",2015,29435.95
+"Developing countries, unspecified",2016,44136.7
+"Developing countries, unspecified",2017,47726.56
+"Developing countries, unspecified",2018,46606.39
+"Developing countries, unspecified",2019,42933.96
+"Other LICs, Total",1995,374.15
+"Other LICs, Total",1996,533.78
+"Other LICs, Total",1997,753.14
+"Other LICs, Total",1998,266.7
+"Other LICs, Total",1999,556.61
+"Other LICs, Total",2000,289.1
+"Other LICs, Total",2001,406.51
+"Other LICs, Total",2002,-226.3
+"Other LICs, Total",2003,872.83
+"Other LICs, Total",2004,1869.01
+"Other LICs, Total",2005,548.24
+"Other LICs, Total",2006,141.88
+"Other LICs, Total",2007,663.3
+"Other LICs, Total",2008,928.34
+"Other LICs, Total",2009,734.32
+"Other LICs, Total",2010,815.93
+"Other LICs, Total",2011,895.88
+"Other LICs, Total",2012,10012.93
+"Other LICs, Total",2013,1037.74
+"Other LICs, Total",2014,1106.14
+"Other LICs, Total",2015,985.26
+"Other LICs, Total",2016,637.99
+"Other LICs, Total",2017,783.55
+"Other LICs, Total",2018,873.18
+"Other LICs, Total",2019,1048.13
+"MADCTs, Total",1995,27446.59
+"MADCTs, Total",1996,45608.57
+"MADCTs, Total",1997,32765.19
+"MADCTs, Total",1998,33947.72
+"MADCTs, Total",1999,25665.85
+"MADCTs, Total",2000,4759.84
+"MADCTs, Total",2001,10297.69
+"MADCTs, Total",2002,3319.94
+"MADCTs, Total",2003,6919.47
+"MADCTs, Total",2004,5115.03
+"MADCTs, Total",2005,11681.15
+"MADCTs, Total",2006,28778.97
+"MADCTs, Total",2007,28390.65
+"MADCTs, Total",2008,15401.07
+"MADCTs, Total",2009,10574.74
+"MADCTs, Total",2010,12852.16
+"MADCTs, Total",2011,9524
+"MADCTs, Total",2012,13471.97
+"MADCTs, Total",2013,7094.75
+"MADCTs, Total",2014,7126.27
+"MADCTs, Total",2015,5759.63
+"MADCTs, Total",2016,2360.02
+"MADCTs, Total",2017,-7444.75
+"Caribbean & Central America, Total",1995,15788.11
+"Caribbean & Central America, Total",1996,31770.02
+"Caribbean & Central America, Total",1997,20415.65
+"Caribbean & Central America, Total",1998,19524.79
+"Caribbean & Central America, Total",1999,34202.07
+"Caribbean & Central America, Total",2000,16727.29
+"Caribbean & Central America, Total",2001,10609.24
+"Caribbean & Central America, Total",2002,12135.78
+"Caribbean & Central America, Total",2003,7511.39
+"Caribbean & Central America, Total",2004,16786.31
+"Caribbean & Central America, Total",2005,28002.14
+"Caribbean & Central America, Total",2006,15464.29
+"Caribbean & Central America, Total",2007,40318.08
+"Caribbean & Central America, Total",2008,33975.36
+"Caribbean & Central America, Total",2009,34289.96
+"Caribbean & Central America, Total",2010,46343.07
+"Caribbean & Central America, Total",2011,17821.91
+"Caribbean & Central America, Total",2012,26200.99
+"Caribbean & Central America, Total",2013,33764.75
+"Caribbean & Central America, Total",2014,23868.29
+"Caribbean & Central America, Total",2015,27615.14
+"Caribbean & Central America, Total",2016,15539.64
+"Caribbean & Central America, Total",2017,40406.06
+"Caribbean & Central America, Total",2018,31293.6
+"Caribbean & Central America, Total",2019,23147.68
+"Western Africa, regional",2019,165.09
+"Southern Africa, regional",2019,8.51
+"Caribbean, regional",1995,88.95
+"Caribbean, regional",1996,28.09
+"Caribbean, regional",1997,116.44
+"Caribbean, regional",1998,29.66
+"Caribbean, regional",1999,38.85
+"Caribbean, regional",2000,108.71
+"Caribbean, regional",2001,-110.87
+"Caribbean, regional",2002,-228.92
+"Caribbean, regional",2003,148.72
+"Caribbean, regional",2004,33.33
+"Caribbean, regional",2005,58.25
+"Caribbean, regional",2006,55.51
+"Caribbean, regional",2007,97.09
+"Caribbean, regional",2008,121.25
+"Caribbean, regional",2009,-77.4
+"Caribbean, regional",2010,148.55
+"Caribbean, regional",2011,309.72
+"Caribbean, regional",2012,257.33
+"Caribbean, regional",2013,59.94
+"Caribbean, regional",2014,84.18
+"Caribbean, regional",2015,221.79
+"Caribbean, regional",2016,218.74
+"Caribbean, regional",2017,271.8
+"Caribbean, regional",2018,285.64
+"Caribbean, regional",2019,183.21
+"Eastern Africa, regional",2019,91.75
+"Middle Africa, regional",2019,9.16
+"Central America, regional",2019,6.86
+"Melanesia, regional",2019,3.95
