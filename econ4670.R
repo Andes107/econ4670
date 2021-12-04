@@ -148,9 +148,11 @@ bank=subset(bank,bank$countries!="")
 bank[bank$countries=="Data from database: World Development Indicators",]
 bank=subset(bank,bank$countries!="Data from database: World Development Indicators")
 #filled the '..' with NA instead
+#https://stackoverflow.com/a/3357784
 for(s in 5:9)
   bank[bank[,s]=="..",][,s]=rep(NA,NROW(bank[bank[,s]=="..",][,s]))
 #write world bank data back
 write.csv(bank,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/World_Bank.csv", 
           row.names = FALSE)
+rm(list=ls())
