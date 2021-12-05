@@ -264,6 +264,8 @@ newReligion=newReligion[order(newReligion$dacc),]
 newReligion=subset(newReligion,select=-dac)
 newReligion$cross=newReligion$same*newReligion$aid
 newReligion=subset(newReligion,select=c(dacc,aid))
+#group by then aggregate, sql in R
+#https://stackoverflow.com/a/34523783
 newReligion=aggregate(cross~dacc,newReligion,sum)
 #write down the aid_religion csv
 write.csv(newReligion,
@@ -298,3 +300,5 @@ newCepii=aggregate(.~countries,newCepii,sum)
 write.csv(newCepii,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/Aid_dist_col.csv", 
           row.names = FALSE)
+#compile corruption
+rm(list=ls())
