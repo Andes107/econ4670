@@ -235,3 +235,38 @@ colnames(writeReligion)=c("dac","dacc","same")
 write.csv(writeReligion,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion_same.csv", 
           row.names = FALSE)
+rm(fullReligion,religion,writeReligion)
+bigdac=c("AUS", "CAN", "FRA", "DEU", "ITA", "JPN", "NLD", "ESP", "GBR",
+         "USA")
+#read the aid outflow of big 11 in 1984
+outflow=read.csv("unmerged_unraw_csv/OECD_net_oda.csv",
+                           fileEncoding="UTF-8-BOM")
+outflow=subset(outflow,select=c(LOCATION,Value))
+colnames(outflow)=c("iso3","aid")
+setdiff(bigdac,outflow$iso3)
+outflow=subset(outflow,outflow$iso3!="DAC")
+#now you get the flow, it's time to join the religion table to try
+religion=read.csv("C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion_same.csv")
+#remove KOR from all tables since KOR has no data in oecd dac in 1984
+religion=subset(religion,religion$dac!="KOR")
+write.csv(religion,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion.csv", 
+          row.names = FALSE)
+View(religion)
+#write down outflow as record for 10 dac countries
+write.csv(outflow,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OECD_outflow.csv", 
+          row.names = FALSE)
+colnames(outflow)=c("dac", "aid")
+newReligion=merge(x=religion,y=outflow,by="dac")
+View(newReligion)
+newReligion=newReligion[order(newReligion$dacc),]
+newReligion=subset(newReligion,select=-dac)
+newReligion$cross=newReligion$same*newReligion$aid
+newReligion=subset(newReligion,select=c(dacc,aid))
+newReligion=aggregate(cross~dacc,newReligion,sum)
+#write down the aid_religion csv
+write.csv(newReligion,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/Aid_religion.csv", 
+          row.names = FALSE)
+rm(bigdac,religion,newReligion)
