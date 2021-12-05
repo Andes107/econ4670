@@ -270,3 +270,31 @@ write.csv(newReligion,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/Aid_religion.csv", 
           row.names = FALSE)
 rm(bigdac,religion,newReligion)
+#read the cepii distance and colony data
+cepii=read.csv("C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/CEPII_dist_col.csv")
+View(cepii)
+#remove korean
+cepii=subset(cepii,cepii$dac!="KOR")
+#write it back
+write.csv(cepii,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/CEPII_dist_col.csv", 
+          row.names = FALSE)
+#inner join with outflow
+colnames(outflow); colnames(cepii)
+newCepii=merge(x=cepii,y=outflow,by="dac")
+View(newCepii)
+newCepii=newCepii[order(newCepii$countries),]
+#ditch dac for grouping
+newCepii=subset(newCepii,select=-dac)
+#create 2 columns: aid-dist and aid-col
+newCepii$aid_dist=newCepii$aid/newCepii$dist
+newCepii$aid_col=newCepii$aid*newCepii$colony
+#keep only the cross products and iso
+colnames(newCepii)
+newCepii=subset(newCepii,select=c(countries,aid_dist,aid_col))
+#group by country
+newCepii=aggregate(.~countries,newCepii,sum)
+#write it back
+write.csv(newCepii,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/Aid_dist_col.csv", 
+          row.names = FALSE)
