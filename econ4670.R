@@ -1,5 +1,5 @@
 #code to clean UN-Methodology.csv
-unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv",fileEncoding="UTF-8-BOM")
+unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv")
 sum(unm49$Least.Developed.Countries..LDC.!="")
 #create binary variables for small economies
 unm49$leastDeveloped=(1*(unm49$Least.Developed.Countries..LDC.!=""))
@@ -156,3 +156,42 @@ write.csv(bank,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/World_Bank.csv", 
           row.names = FALSE)
 rm(list=ls())
+#now move on to instrumental variables
+ceppi=read.csv("unmerged_unraw_csv/dist_cepii.csv",fileEncoding="UTF-8-BOM")
+bigdac=c("AUS", "CAN", "FRA", "DEU", "ITA", "JPN", "KOR", "NLD", "ESP", "GBR",
+         "USA")
+#get distance with only the 11 countries
+#prove this table is just a cartesian product
+lefthkg=ceppi[ceppi$iso_o=="HKG",]
+righthkg=ceppi[ceppi$iso_d=="HKG",]
+#colony link should be the same, we need colony link, don't care common
+lefthkg=lefthkg[order(lefthkg$iso_d),]
+righthkg=righthkg[order(righthkg$iso_o),]
+#vector comparison
+#https://stackoverflow.com/a/10374972
+all(lefthkg$colony==righthkg$colony)
+#Verdict: in terms of colonial link, this table is certainly cartesian
+#how about dist?
+all(lefthkg$dist==righthkg$dist)
+for(s in 11:14)
+  print(all(lefthkg[,s]==righthkg[,s]))
+colnames(lefthkg)
+#Verdict: in terms of dist and distcap, this table is certainly cartesian
+#Verdict: in terms of distw and distwces, no, they aren't cartesian
+#Since I need only colony link and dist, it should be fine 
+distance=read.csv("unmerged_unraw_csv/dist_cepii.csv",fileEncoding="UTF-8-BOM")
+#mutliple conditions for subsets
+#https://stackoverflow.com/a/6244267
+distance=subset(distance, (iso_d %in% bigdac))
+#get only columns that matter: dist and colony link
+distance=subset(distance,select=c(iso_o, iso_d, dist, colony))
+#order by 2 columns: first countries then dac countries
+#https://chartio.com/resources/tutorials/how-to-sort-a-data-frame-by-multiple-columns-in-r/
+distance=distance[with(distance, order(iso_o, iso_d)),]
+colnames(distance)=c("countries","dac","dist","colony")
+#write this back
+write.csv(distance,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/CEPII_dist_col.csv", 
+          row.names = FALSE)
+bigdac=c("AUS", "CAN", "FRA", "DEU", "ITA", "JPN", "KOR", "NLD", "ESP", "GBR",
+         "USA")
