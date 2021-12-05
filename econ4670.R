@@ -195,3 +195,24 @@ write.csv(distance,
           row.names = FALSE)
 bigdac=c("AUS", "CAN", "FRA", "DEU", "ITA", "JPN", "KOR", "NLD", "ESP", "GBR",
          "USA")
+#Get religion
+religion=read.csv("unmerged_unraw_csv/main-religion-of-the-country-in.csv",fileEncoding="UTF-8-BOM")
+#first get code and name
+unm49=read.csv("unmerged_unraw_csv/UNSD - Methodology.csv")
+nameCode=subset(unm49,select=c(iso3,countries))
+rm(unm49)
+#then get set difference of religion and not in unm
+colnames(religion)=c("countries","iso3","year","name")
+rightreligion=merge(x=nameCode,y=religion,by="iso3",all.y=TRUE)
+#multiple conditions in subset
+#https://stackoverflow.com/a/4935551
+setdiff=subset(rightreligion,
+               (rightreligion$countries.x!=rightreligion$countries.y) |
+                 is.na(rightreligion$countries.x))
+listToRemove=subset(rightreligion,is.na(rightreligion$countries.x))$countries.y
+religion=subset(religion,!(religion$countries %in% listToRemove))
+#done, now write back and remove
+rm(rightreligion,setdiff,listToRemove)
+write.csv(religion,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion.csv", 
+          row.names = FALSE)
