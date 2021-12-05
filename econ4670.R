@@ -216,3 +216,22 @@ rm(rightreligion,setdiff,listToRemove)
 write.csv(religion,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion.csv", 
           row.names = FALSE)
+#now make sure the 11 dac countries do have religions
+NROW(setdiff(bigdac,religion$iso3))
+#Just run a cartesian product of non dac and dac countries
+religion=subset(religion,select=c(iso3,countries,name))
+dacReligion=subset(religion,religion$iso3 %in% bigdac)
+dacReligionC=subset(religion,!(religion$iso3 %in% bigdac))
+fullReligion=merge(x = dacReligion, y = dacReligionC, by = NULL)
+fullReligion$same=1*(fullReligion$name.x==fullReligion$name.y)
+#need to check whether same is true or not
+distinct=unique(subset(fullReligion,select=c(name.x,name.y,same)))
+#Since the distinct shows the same parity between religion pair and same
+#I now declare the cartesian product is good to go
+rm(dacReligion, dacReligionC, distinct)
+#now write it back, 2 columns only
+writeReligion=subset(fullReligion,select=c(iso3.x,iso3.y,same))
+colnames(writeReligion)=c("dac","dacc","same")
+write.csv(writeReligion,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/isoed/OWID_religion_same.csv", 
+          row.names = FALSE)
