@@ -302,3 +302,126 @@ write.csv(newCepii,
           row.names = FALSE)
 #compile corruption
 rm(list=ls())
+cpi95=read.csv("unmerged_unraw_csv/CPI-Archive-1995.csv",
+              fileEncoding="UTF-8-BOM")
+cpi96=read.csv("unmerged_unraw_csv/CPI-Archive-1996.csv",
+               fileEncoding="UTF-8-BOM")
+colnames(cpi95);colnames(cpi96)
+joined=merge(x=cpi95,y=cpi96,by="CustomerId")
+cpi95=subset(cpi95,select=c(iso,score)); cpi96=subset(cpi96,select=c(iso,score))
+cpi9596=merge(x=cpi95,y=cpi96,
+                      by="iso",all=TRUE)
+colnames(cpi9596)=c("iso", "X1995","X1996")
+View(cpi9596)
+cpi97=read.csv("unmerged_unraw_csv/CPI-Archive-1997.csv",
+               fileEncoding="UTF-8-BOM")
+colnames(cpi9596); colnames(cpi97)
+cpi97=subset(cpi97,select=c(iso,score))
+cpi95_97=merge(x=cpi9596,y=cpi97,by="iso",all=TRUE)
+View(cpi95_97)
+colnames(cpi95_97)=c("iso","X1995","X1996","X1997")
+#done with 95,96,97, now remove irrelevanty stuff
+rm(cpi9596,cpi97)
+#now go to 1998~2015
+cpi98_15=read.csv("unmerged_unraw_csv/CPI_1998_2015.csv",
+                   fileEncoding="UTF-8-BOM")
+View(cpi98_15)
+#attach iso to cpi98_15
+colnames(cpi98_15)
+colnames(nameCode)=c("iso","Jurisdiction")
+colnames(nameCode)
+cpi98_15=merge(x=nameCode,y=cpi98_15,by="Jurisdiction",all.y=TRUE)
+View(subset(cpi98_15,is.na(cpi98_15$iso)))
+#loop through the list of null iso and add them manually
+cpi98_15[is.na(cpi98_15$iso),][2,]$Jurisdiction
+cpi98_15[is.na(cpi98_15$iso),][2,]$iso="COG"
+cpi98_15[cpi98_15$Jurisdiction=="Bosnia & Herzegovina",]
+cpi98_15[cpi98_15$Jurisdiction=="Bosnia and Herzgegovina",]
+rm(list=ls())
+#faulty data source, abort
+#get the list of oda recipients in 2021
+unm49=read.csv("isoed/unm49.csv")
+unm49=unm49[unm49$oda==1,]
+colnames(unm49)
+unm49=subset(unm49,select=iso3)
+#get oecd data and join
+oecd=read.csv("isoed/OECD.csv")
+colnames(oecd)
+oecd=subset(oecd,select=-countries)
+colnames(oecd)
+full=oecd
+sum(is.na(full$total_aid)); sum(is.na(full$loan)); sum(is.na(full$grant))
+NROW(unique(subset(full,is.na(full$loan),select=iso3)))
+rm(oecd)
+#now read imf 
+imf=read.csv("isoed/IMF_tax_gdp.csv")
+colnames(imf)
+imf=subset(imf,select=-countries)
+colnames(imf)
+full=merge(x=full,y=imf,by=c("iso3","year"),all=TRUE)
+#now read world bank
+rm(imf)
+bank=read.csv("isoed/World_Bank.csv")
+colnames(bank)
+bank=subset(bank,select=-countries)
+colnames(bank)
+colnames(bank)=c("iso3", colnames(bank)[-1])
+colnames(bank)
+full=merge(x=full,y=bank,by=c("iso3","year"),all=TRUE)
+rm(bank)
+#inner join with countries in oda 2021 dac list
+colnames(unm49); colnames(full)
+full=merge(x=full,y=unm49,by="iso3")
+#time to omit
+#https://stackoverflow.com/a/4862264
+omit=na.omit(full)
+#divide oecd data by gdp
+colnames(full)
+full$total_aid_gdp=full$total_aid/full$nomina_gdp
+full=subset(full,select=-total_aid)
+colnames(full)
+full$loan_gdp=full$loan/full$nomina_gdp
+sum(is.na(full$loan_gdp))
+full=subset(full,select=-loan)
+colnames(full)
+full$grant_gdp=full$grant/full$nomina_gdp
+sum(is.na(full$grant_gdp))
+full=subset(full,select=-grant)
+#since nominal gdp is in USD instead of million USD
+#multiply each column with 10^6
+full$total_aid_gdp=full$total_aid_gdp*(10^6)
+full$loan_gdp=full$loan_gdp*(10^6)
+full$grant_gdp=full$grant_gdp*(10^6)
+View(full)
+max(subset(full$loan_gdp,!is.na(full$loan_gdp)))
+#turn total_aid, loan, grant into percentage
+full$total_aid_gdp=full$total_aid_gdp*100
+full$loan_gdp=full$loan_gdp*100
+full$grant_gdp=full$grant_gdp*100
+summary(lm(tax_to_gdp~total_aid_gdp+real_gdp_capita,data=full,
+           na.action=na.omit))
+#OLS does not yield good results, so let's try IV
+#read dist_col
+dist_col=read.csv("isoed/Aid_dist_col.csv")
+colnames(dist_col)=c("iso3", "aid_dist", "aid_col")
+religion=read.csv("isoed/Aid_religion.csv")
+colnames(religion)
+colnames(religion)=c("iso3","cross")
+#inner join with full
+full=merge(x=full,y=dist_col,by="iso3")
+full=merge(x=full,y=religion,by="iso3")
+View(full)
+#run ols and try the IV
+summary(lm(total_aid_gdp~aid_dist+aid_col+cross,data=full,
+           na.action=na.omit))
+#try iverg
+install.packages("AER")
+library(AER)
+summary(ivreg(tax_to_gdp~total_aid_gdp+real_gdp_capita|aid_dist+aid_col+cross+real_gdp_capita,
+              data=full))
+write.csv(full,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/generate_tables/full.csv", 
+          row.names = FALSE)
+write.csv(unm49,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/generate_tables/oda2021.csv", 
+          row.names = FALSE)
