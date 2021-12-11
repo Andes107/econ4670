@@ -509,3 +509,60 @@ write.csv(aggre,
           row.names=FALSE)
 #done with all building block, full merge now
 rm(list=ls())
+full=read.csv("building_block/OECD/OECD_grant.csv")
+loan=read.csv("building_block/OECD/OECD_net_loan.csv")
+colnames(full); colnames(loan)
+full=merge(x=full,y=loan,by=c("iso3","year"),all=TRUE)
+colnames(full)
+rm(loan)
+tax=read.csv("building_block/OECD/OECD_tax_to_gdp.csv")
+colnames(full); colnames(tax)
+full=merge(x=full,y=tax,by=c("iso3","year"),all=TRUE)
+rm(tax)
+aid=read.csv("building_block/OECD/OECD_total_aid.csv")
+colnames(full); colnames(aid)
+full=merge(x=full,y=aid,by=c("iso3","year"),all=TRUE)
+rm(aid)
+bank=read.csv("building_block/World_Bank.csv")
+colnames(full); colnames(bank)
+full=merge(x=full,y=bank,by=c("iso3","year"),all=TRUE)
+rm(bank)
+coldist=read.csv("building_block/IV/aid_col_dist.csv")
+colnames(full); colnames(coldist)
+full=merge(x=full,y=coldist,by="iso3")
+rm(coldist)
+religion=read.csv("building_block/IV/aid_religion.csv")
+colnames(religion)
+full=merge(x=full,y=religion,by="iso3")
+colnames(full)
+rm(religion)
+write.csv(full,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/full.csv",
+          row.names=FALSE)
+#all files are merged. so fix the columns
+#world bank nominal gdp are in units, so turn it into million
+full$nomina_gdp=full$nomina_gdp/(10^6)
+#divide aid by nominal gdp
+full$total_aid_gdp=full$total_aid/full$nomina_gdp*100
+full=subset(full,select=-total_aid)
+full$loan_gdp=full$loan/full$nomina_gdp*100
+full=subset(full,select=-loan)
+full$grant_gdp=full$grant/full$nomina_gdp*100
+full=subset(full,select=-grant)
+#create year factor
+full$year.fac=as.factor(full$year)
+#merge with UN regions
+un=read.csv("building_block/UN.csv")
+full=merge(x=full,
+           y=(subset(un,select=c(iso3,region,subregion))),
+           by="iso3")
+full$subregion.fac=as.factor(full$subregion)
+#scale down real gdp per capita by 1000
+full$real_gdp_capita=full$real_gdp_capita/1000
+#last step, inner join with countries on ODA 2021
+full = (merge(x=full,
+          y=(subset(un,un$oda==1,select=iso3)),
+          by="iso3"))
+write.csv(full,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/full.csv",
+          row.names=FALSE)

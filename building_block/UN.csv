@@ -1,0 +1,250 @@
+region,subregioncode,subregion,countries,iso3,leastDeveloped,landLockedDeveloping,smallIsDeveloping,Developing,oda
+Africa,15,Northern Africa,Algeria,DZA,0,0,0,1,1
+Africa,15,Northern Africa,Egypt,EGY,0,0,0,1,1
+Africa,15,Northern Africa,Libya,LBY,0,0,0,1,1
+Africa,15,Northern Africa,Morocco,MAR,0,0,0,1,1
+Africa,15,Northern Africa,Sudan,SDN,1,0,0,1,1
+Africa,15,Northern Africa,Tunisia,TUN,0,0,0,1,1
+Africa,15,Northern Africa,Western Sahara,ESH,0,0,0,1,0
+Africa,202,Sub-Saharan Africa,British Indian Ocean Territory,IOT,0,0,0,1,0
+Africa,202,Sub-Saharan Africa,Burundi,BDI,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Comoros,COM,1,0,1,1,1
+Africa,202,Sub-Saharan Africa,Djibouti,DJI,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Eritrea,ERI,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Ethiopia,ETH,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,French Southern Territories,ATF,0,0,0,1,0
+Africa,202,Sub-Saharan Africa,Kenya,KEN,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Madagascar,MDG,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Malawi,MWI,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Mauritius,MUS,0,0,1,1,1
+Africa,202,Sub-Saharan Africa,Mayotte,MYT,0,0,0,1,0
+Africa,202,Sub-Saharan Africa,Mozambique,MOZ,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,R?nion,REU,0,0,0,1,0
+Africa,202,Sub-Saharan Africa,Rwanda,RWA,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Seychelles,SYC,0,0,1,1,0
+Africa,202,Sub-Saharan Africa,Somalia,SOM,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,South Sudan,SSD,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Uganda,UGA,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,United Republic of Tanzania,TZA,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Zambia,ZMB,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Zimbabwe,ZWE,0,1,0,1,1
+Africa,202,Sub-Saharan Africa,Angola,AGO,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Cameroon,CMR,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Central African Republic,CAF,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Chad,TCD,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Congo,COG,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Democratic Republic of the Congo,COD,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Equatorial Guinea,GNQ,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Gabon,GAB,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Sao Tome and Principe,STP,1,0,1,1,1
+Africa,202,Sub-Saharan Africa,Botswana,BWA,0,1,0,1,1
+Africa,202,Sub-Saharan Africa,Eswatini,SWZ,0,1,0,1,1
+Africa,202,Sub-Saharan Africa,Lesotho,LSO,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Namibia,NAM,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,South Africa,ZAF,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Benin,BEN,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Burkina Faso,BFA,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Cabo Verde,CPV,0,0,1,1,1
+Africa,202,Sub-Saharan Africa,C?e d?voire,CIV,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Gambia,GMB,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Ghana,GHA,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Guinea,GIN,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Guinea-Bissau,GNB,1,0,1,1,1
+Africa,202,Sub-Saharan Africa,Liberia,LBR,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Mali,MLI,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Mauritania,MRT,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Niger,NER,1,1,0,1,1
+Africa,202,Sub-Saharan Africa,Nigeria,NGA,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Saint Helena,SHN,0,0,0,1,1
+Africa,202,Sub-Saharan Africa,Senegal,SEN,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Sierra Leone,SLE,1,0,0,1,1
+Africa,202,Sub-Saharan Africa,Togo,TGO,1,0,0,1,1
+Americas,419,Latin America and the Caribbean,Anguilla,AIA,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Antigua and Barbuda,ATG,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Aruba,ABW,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Bahamas,BHS,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Barbados,BRB,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Bonaire Sint Eustatius and Saba,BES,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,British Virgin Islands,VGB,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Cayman Islands,CYM,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Cuba,CUB,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Cura?o,CUW,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Dominica,DMA,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Dominican Republic,DOM,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Grenada,GRD,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Guadeloupe,GLP,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Haiti,HTI,1,0,1,1,1
+Americas,419,Latin America and the Caribbean,Jamaica,JAM,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Martinique,MTQ,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Montserrat,MSR,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Puerto Rico,PRI,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Saint Barth?emy,BLM,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Saint Kitts and Nevis,KNA,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Saint Lucia,LCA,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Saint Martin (French Part),MAF,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Sint Maarten (Dutch part),SXM,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Trinidad and Tobago,TTO,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Turks and Caicos Islands,TCA,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,United States Virgin Islands,VIR,0,0,1,1,0
+Americas,419,Latin America and the Caribbean,Belize,BLZ,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Costa Rica,CRI,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,El Salvador,SLV,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Guatemala,GTM,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Honduras,HND,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Mexico,MEX,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Nicaragua,NIC,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Panama,PAN,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Argentina,ARG,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Bolivia (Plurinational State of),BOL,0,1,0,1,1
+Americas,419,Latin America and the Caribbean,Bouvet Island,BVT,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Brazil,BRA,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Chile,CHL,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Colombia,COL,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Ecuador,ECU,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,Falkland Islands (Malvinas),FLK,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,French Guiana,GUF,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Guyana,GUY,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Paraguay,PRY,0,1,0,1,1
+Americas,419,Latin America and the Caribbean,Peru,PER,0,0,0,1,1
+Americas,419,Latin America and the Caribbean,South Georgia and the South Sandwich Islands,SGS,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Suriname,SUR,0,0,1,1,1
+Americas,419,Latin America and the Caribbean,Uruguay,URY,0,0,0,1,0
+Americas,419,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),VEN,0,0,0,1,1
+Americas,21,Northern America,Bermuda,BMU,0,0,0,0,0
+Americas,21,Northern America,Canada,CAN,0,0,0,0,0
+Americas,21,Northern America,Greenland,GRL,0,0,0,0,0
+Americas,21,Northern America,Saint Pierre and Miquelon,SPM,0,0,0,0,0
+Americas,21,Northern America,United States of America,USA,0,0,0,0,0
+,NA,,Antarctica,ATA,0,0,0,0,0
+Asia,143,Central Asia,Kazakhstan,KAZ,0,1,0,1,1
+Asia,143,Central Asia,Kyrgyzstan,KGZ,0,1,0,1,1
+Asia,143,Central Asia,Tajikistan,TJK,0,1,0,1,1
+Asia,143,Central Asia,Turkmenistan,TKM,0,1,0,1,1
+Asia,143,Central Asia,Uzbekistan,UZB,0,1,0,1,1
+Asia,30,Eastern Asia,China,CHN,0,0,0,1,1
+Asia,30,Eastern Asia,Hong Kong,HKG,0,0,0,1,0
+Asia,30,Eastern Asia,Macau,MAC,0,0,0,1,0
+Asia,30,Eastern Asia,Democratic People's Republic of Korea,PRK,0,0,0,1,1
+Asia,30,Eastern Asia,Japan,JPN,0,0,0,0,0
+Asia,30,Eastern Asia,Mongolia,MNG,0,1,0,1,1
+Asia,30,Eastern Asia,Republic of Korea,KOR,0,0,0,1,0
+Asia,35,South-eastern Asia,Brunei Darussalam,BRN,0,0,0,1,0
+Asia,35,South-eastern Asia,Cambodia,KHM,1,0,0,1,1
+Asia,35,South-eastern Asia,Indonesia,IDN,0,0,0,1,1
+Asia,35,South-eastern Asia,Lao People's Democratic Republic,LAO,1,1,0,1,1
+Asia,35,South-eastern Asia,Malaysia,MYS,0,0,0,1,1
+Asia,35,South-eastern Asia,Myanmar,MMR,1,0,0,1,1
+Asia,35,South-eastern Asia,Philippines,PHL,0,0,0,1,1
+Asia,35,South-eastern Asia,Singapore,SGP,0,0,1,1,0
+Asia,35,South-eastern Asia,Thailand,THA,0,0,0,1,1
+Asia,35,South-eastern Asia,Timor-Leste,TLS,1,0,1,1,1
+Asia,35,South-eastern Asia,Viet Nam,VNM,0,0,0,1,1
+Asia,34,Southern Asia,Afghanistan,AFG,1,1,0,1,1
+Asia,34,Southern Asia,Bangladesh,BGD,1,0,0,1,1
+Asia,34,Southern Asia,Bhutan,BTN,1,1,0,1,1
+Asia,34,Southern Asia,India,IND,0,0,0,1,1
+Asia,34,Southern Asia,Iran (Islamic Republic of),IRN,0,0,0,1,1
+Asia,34,Southern Asia,Maldives,MDV,0,0,1,1,1
+Asia,34,Southern Asia,Nepal,NPL,1,1,0,1,1
+Asia,34,Southern Asia,Pakistan,PAK,0,0,0,1,1
+Asia,34,Southern Asia,Sri Lanka,LKA,0,0,0,1,1
+Asia,145,Western Asia,Armenia,ARM,0,1,0,1,1
+Asia,145,Western Asia,Azerbaijan,AZE,0,1,0,1,1
+Asia,145,Western Asia,Bahrain,BHR,0,0,0,1,0
+Asia,145,Western Asia,Cyprus,CYP,0,0,0,0,0
+Asia,145,Western Asia,Georgia,GEO,0,0,0,1,1
+Asia,145,Western Asia,Iraq,IRQ,0,0,0,1,1
+Asia,145,Western Asia,Israel,ISR,0,0,0,0,0
+Asia,145,Western Asia,Jordan,JOR,0,0,0,1,1
+Asia,145,Western Asia,Kuwait,KWT,0,0,0,1,0
+Asia,145,Western Asia,Lebanon,LBN,0,0,0,1,1
+Asia,145,Western Asia,Oman,OMN,0,0,0,1,0
+Asia,145,Western Asia,Qatar,QAT,0,0,0,1,0
+Asia,145,Western Asia,Saudi Arabia,SAU,0,0,0,1,0
+Asia,145,Western Asia,State of Palestine,PSE,0,0,0,1,0
+Asia,145,Western Asia,Syrian Arab Republic,SYR,0,0,0,1,1
+Asia,145,Western Asia,Turkey,TUR,0,0,0,1,1
+Asia,145,Western Asia,United Arab Emirates,ARE,0,0,0,1,0
+Asia,145,Western Asia,Yemen,YEM,1,0,0,1,1
+Europe,151,Eastern Europe,Belarus,BLR,0,0,0,0,1
+Europe,151,Eastern Europe,Bulgaria,BGR,0,0,0,0,0
+Europe,151,Eastern Europe,Czechia,CZE,0,0,0,0,0
+Europe,151,Eastern Europe,Hungary,HUN,0,0,0,0,0
+Europe,151,Eastern Europe,Poland,POL,0,0,0,0,0
+Europe,151,Eastern Europe,Republic of Moldova,MDA,0,1,0,0,1
+Europe,151,Eastern Europe,Romania,ROU,0,0,0,0,0
+Europe,151,Eastern Europe,Russian Federation,RUS,0,0,0,0,0
+Europe,151,Eastern Europe,Slovakia,SVK,0,0,0,0,0
+Europe,151,Eastern Europe,Ukraine,UKR,0,0,0,0,1
+Europe,154,Northern Europe,?and Islands,ALA,0,0,0,0,0
+Europe,154,Northern Europe,Guernsey,GGY,0,0,0,0,0
+Europe,154,Northern Europe,Jersey,JEY,0,0,0,0,0
+Europe,154,Northern Europe,Sark,,0,0,0,0,0
+Europe,154,Northern Europe,Denmark,DNK,0,0,0,0,0
+Europe,154,Northern Europe,Estonia,EST,0,0,0,0,0
+Europe,154,Northern Europe,Faroe Islands,FRO,0,0,0,0,0
+Europe,154,Northern Europe,Finland,FIN,0,0,0,0,0
+Europe,154,Northern Europe,Iceland,ISL,0,0,0,0,0
+Europe,154,Northern Europe,Ireland,IRL,0,0,0,0,0
+Europe,154,Northern Europe,Isle of Man,IMN,0,0,0,0,0
+Europe,154,Northern Europe,Latvia,LVA,0,0,0,0,0
+Europe,154,Northern Europe,Lithuania,LTU,0,0,0,0,0
+Europe,154,Northern Europe,Norway,NOR,0,0,0,0,0
+Europe,154,Northern Europe,Svalbard and Jan Mayen Islands,SJM,0,0,0,0,0
+Europe,154,Northern Europe,Sweden,SWE,0,0,0,0,0
+Europe,154,Northern Europe,United Kingdom of Great Britain and Northern Ireland,GBR,0,0,0,0,0
+Europe,39,Southern Europe,Albania,ALB,0,0,0,0,1
+Europe,39,Southern Europe,Andorra,AND,0,0,0,0,0
+Europe,39,Southern Europe,Bosnia and Herzegovina,BIH,0,0,0,0,1
+Europe,39,Southern Europe,Croatia,HRV,0,0,0,0,0
+Europe,39,Southern Europe,Gibraltar,GIB,0,0,0,0,0
+Europe,39,Southern Europe,Greece,GRC,0,0,0,0,0
+Europe,39,Southern Europe,Holy See,VAT,0,0,0,0,0
+Europe,39,Southern Europe,Italy,ITA,0,0,0,0,0
+Europe,39,Southern Europe,Malta,MLT,0,0,0,0,0
+Europe,39,Southern Europe,Montenegro,MNE,0,0,0,0,1
+Europe,39,Southern Europe,North Macedonia,MKD,0,1,0,0,1
+Europe,39,Southern Europe,Portugal,PRT,0,0,0,0,0
+Europe,39,Southern Europe,San Marino,SMR,0,0,0,0,0
+Europe,39,Southern Europe,Serbia,SRB,0,0,0,0,1
+Europe,39,Southern Europe,Slovenia,SVN,0,0,0,0,0
+Europe,39,Southern Europe,Spain,ESP,0,0,0,0,0
+Europe,155,Western Europe,Austria,AUT,0,0,0,0,0
+Europe,155,Western Europe,Belgium,BEL,0,0,0,0,0
+Europe,155,Western Europe,France,FRA,0,0,0,0,0
+Europe,155,Western Europe,Germany,DEU,0,0,0,0,0
+Europe,155,Western Europe,Liechtenstein,LIE,0,0,0,0,0
+Europe,155,Western Europe,Luxembourg,LUX,0,0,0,0,0
+Europe,155,Western Europe,Monaco,MCO,0,0,0,0,0
+Europe,155,Western Europe,Netherlands,NLD,0,0,0,0,0
+Europe,155,Western Europe,Switzerland,CHE,0,0,0,0,0
+Oceania,53,Australia and New Zealand,Australia,AUS,0,0,0,0,0
+Oceania,53,Australia and New Zealand,Christmas Island,CXR,0,0,0,0,0
+Oceania,53,Australia and New Zealand,Cocos (Keeling) Islands,CCK,0,0,0,0,0
+Oceania,53,Australia and New Zealand,Heard Island and McDonald Islands,HMD,0,0,0,0,0
+Oceania,53,Australia and New Zealand,New Zealand,NZL,0,0,0,0,0
+Oceania,53,Australia and New Zealand,Norfolk Island,NFK,0,0,0,0,0
+Oceania,54,Melanesia,Fiji,FJI,0,0,1,1,1
+Oceania,54,Melanesia,New Caledonia,NCL,0,0,1,1,0
+Oceania,54,Melanesia,Papua New Guinea,PNG,0,0,1,1,1
+Oceania,54,Melanesia,Solomon Islands,SLB,1,0,1,1,1
+Oceania,54,Melanesia,Vanuatu,VUT,0,0,1,1,1
+Oceania,57,Micronesia,Guam,GUM,0,0,1,1,0
+Oceania,57,Micronesia,Kiribati,KIR,1,0,1,1,1
+Oceania,57,Micronesia,Marshall Islands,MHL,0,0,1,1,1
+Oceania,57,Micronesia,Micronesia (Federated States of),FSM,0,0,1,1,1
+Oceania,57,Micronesia,Nauru,NRU,0,0,1,1,1
+Oceania,57,Micronesia,Northern Mariana Islands,MNP,0,0,1,1,0
+Oceania,57,Micronesia,Palau,PLW,0,0,1,1,1
+Oceania,57,Micronesia,United States Minor Outlying Islands,UMI,0,0,0,1,0
+Oceania,61,Polynesia,American Samoa,ASM,0,0,1,1,0
+Oceania,61,Polynesia,Cook Islands,COK,0,0,1,1,0
+Oceania,61,Polynesia,French Polynesia,PYF,0,0,1,1,0
+Oceania,61,Polynesia,Niue,NIU,0,0,1,1,1
+Oceania,61,Polynesia,Pitcairn,PCN,0,0,0,1,0
+Oceania,61,Polynesia,Samoa,WSM,0,0,1,1,1
+Oceania,61,Polynesia,Tokelau,TKL,0,0,0,1,1
+Oceania,61,Polynesia,Tonga,TON,0,0,1,1,1
+Oceania,61,Polynesia,Tuvalu,TUV,1,0,1,1,1
+Oceania,61,Polynesia,Wallis and Futuna Islands,WLF,0,0,0,1,1
