@@ -339,6 +339,7 @@ cpi98_15[cpi98_15$Jurisdiction=="Bosnia & Herzegovina",]
 cpi98_15[cpi98_15$Jurisdiction=="Bosnia and Herzgegovina",]
 rm(list=ls())
 #faulty data source, abort
+
 #get the list of oda recipients in 2021
 unm49=read.csv("isoed/unm49.csv")
 unm49=unm49[unm49$oda==1,]
@@ -355,6 +356,9 @@ NROW(unique(subset(full,is.na(full$loan),select=iso3)))
 rm(oecd)
 #now read imf 
 imf=read.csv("isoed/IMF_tax_gdp.csv")
+
+NROW(unique(imf$iso3))
+
 colnames(imf)
 imf=subset(imf,select=-countries)
 colnames(imf)
@@ -411,17 +415,20 @@ colnames(religion)=c("iso3","cross")
 full=merge(x=full,y=dist_col,by="iso3")
 full=merge(x=full,y=religion,by="iso3")
 View(full)
-#run ols and try the IV
-summary(lm(total_aid_gdp~aid_dist+aid_col+cross,data=full,
-           na.action=na.omit))
-#try iverg
-install.packages("AER")
-library(AER)
-summary(ivreg(tax_to_gdp~total_aid_gdp+real_gdp_capita|aid_dist+aid_col+cross+real_gdp_capita,
-              data=full))
-write.csv(full,
-          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/generate_tables/full.csv", 
-          row.names = FALSE)
-write.csv(unm49,
-          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/generate_tables/oda2021.csv", 
-          row.names = FALSE)
+
+#recompile all data and secure a good buildling block
+#In order to ensure security and continuing stability,
+#the Republic will be reorganized into the first Galactic Empire, 
+#for a safe and secure society
+#drop countries column
+grant=read.csv("isoed/OECD/OECD_grant.csv")
+grant=subset(grant,select=-countries)
+write.csv(grant,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/OECD/OECD_grant.csv",
+          row.names=FALSE)
+#done with grant, now with loan
+loan=read.csv("isoed/OECD/OECD_net_loan.csv")
+loan=subset(loan,select=-countries)
+write.csv(loan,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/OECD/OECD_net_loan.csv",
+          row.names=FALSE)
