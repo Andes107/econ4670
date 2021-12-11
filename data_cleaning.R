@@ -566,3 +566,7 @@ full = (merge(x=full,
 write.csv(full,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/full.csv",
           row.names=FALSE)
+full$year.fac
+full$subregion.fac
+full=subset(full,select=-year.fac)
+full=subset(full,select=-subregion.fac)
