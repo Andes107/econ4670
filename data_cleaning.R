@@ -432,3 +432,80 @@ loan=subset(loan,select=-countries)
 write.csv(loan,
           "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/OECD/OECD_net_loan.csv",
           row.names=FALSE)
+#done with loan, now with total aid
+aid=read.csv("isoed/OECD/OECD_total_aid.csv")
+aid=subset(aid,select=-countries)
+write.csv(aid,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/OECD/OECD_total_aid.csv",
+          row.names=FALSE)
+#done with total aid, now with tax to gdp
+tax=read.csv("unmerged_unraw_csv/OECD/OECD_tax_to_gdp.csv",
+             fileEncoding="UTF-8-BOM")
+tax=subset(tax,select=-countries)
+write.csv(tax,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/OECD/OECD_tax_to_gdp.csv",
+          row.names=FALSE)
+#done with oecd, now with world bank
+worldbank=read.csv("isoed/World_Bank/World_Bank.csv")
+worldbank=subset(worldbank,select=-countries)
+colnames(worldbank)[1]="iso3"
+write.csv(worldbank,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/World_Bank.csv",
+          row.names=FALSE)
+#done with world bank, now go to religionreligion=subset(religion,select=-dac)
+table(aggregate(.~dacc,religion,sum)$same)
+#really that similar?
+rm(religion)
+religion=read.csv("unmerged_unraw_csv/IV/main-religion-of-the-country-in.csv")
+nameList=oda$dac
+nameList=as.data.frame(nameList)
+colnames(nameList)[1]="Code"
+rightJoin=merge(x=religion,y=nameList,by="Code")
+rightJoin=subset(rightJoin,select=c(Code,Main.religion))
+religion=subset(religion,select=c(Code,Main.religion))
+fullReligion=merge(x=religion,y=rightJoin,by=NULL)
+fullReligion=(fullReligion[order(fullReligion$Code.x),])
+fullReligion=subset(fullReligion,!fullReligion$Code.x=="")
+fullReligion=subset(fullReligion,select=-Code.y)
+fullReligion$same = 1*(fullReligion$Main.religion.x==fullReligion$Main.religion.y)
+aggre=subset(fullReligion,select=c(Code.x,same))
+aggre=aggregate(.~Code.x,aggre,sum)
+table(aggre$same)
+#yes
+rm(list=ls())
+religion=read.csv("IV/OWID_religion.csv")
+oda=read.csv("IV/OECD_outflow.csv")
+colnames(oda)[1]="dac"
+colnames(oda)
+religion=merge(x=religion,y=oda,by="dac")
+religion=religion[order(religion$dacc),]
+religion$religion.aid=religion$same*religion$aid
+sum(religion$same==0)==sum(religion$religion.aid==0)
+religion=subset(religion,select=c(dacc,religion.aid))
+religion=aggregate(.~dacc,religion,sum)
+write.csv(religion,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/IV/aid_religion.csv",
+          row.names=FALSE)
+#done with religion, now with colony and distance
+rm(religion)
+coldist=read.csv("isoed/IV/CEPII_dist_col.csv")
+colnames(coldist)[1]="iso3"
+colnames(coldist)
+coldist=merge(x=coldist,y=oda,by="dac")
+#test aggregate
+aggre=subset(coldist,select=c(iso3,colony))
+aggre=aggregate(.~iso3,aggre,sum)
+table(aggre$colony)
+#continue the join
+coldist=(coldist[order(coldist$iso3),])
+coldist$col.aid=coldist$colony*coldist$aid
+coldist$dist.aid=coldist$aid/coldist$dist
+#aggregate iso3, col.aid, dist.aid
+aggre=subset(coldist,select=c(iso3,col.aid,dist.aid))
+aggre=aggregate(.~iso3,aggre,sum)
+table(aggre$col.aid)
+write.csv(aggre,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/IV/aid_col_dist.csv",
+          row.names=FALSE)
+#done with all building block, full merge now
+rm(list=ls())
