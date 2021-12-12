@@ -377,3 +377,230 @@ cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
              Z=~dist.aid+col.aid+religion.aid,# Instruments
              data = na.omit(col7))
 summary(iv7,diagnostics = TRUE)
+#table 6
+smallEconomies=subset(full,full$population>=(10^6))
+smallEconomies$year.fac=as.factor(smallEconomies$year)
+smallEconomies$subregion.fac=as.factor(smallEconomies$subregion)
+transEcon=subset(full,full$leastDeveloped==0)
+transEcon$year.fac=as.factor(transEcon$year)
+transEcon$subregion.fac=as.factor(transEcon$subregion)
+subsaharan=subset(full,full$subregion!="Sub-Saharan Africa")
+subsaharan$year.fac=as.factor(subsaharan$year)
+subsaharan$subregion.fac=as.factor(subsaharan$subregion)
+northAfrica=subset(full,full$subregion!="Northern Africa")
+northAfrica$year.fac=as.factor(northAfrica$year)
+northAfrica$subregion.fac=as.factor(northAfrica$subregion)
+latin=subset(full,full$subregion!="Latin America and the Caribbean")
+latin$year.fac=as.factor(latin$year)
+latin$subregion.fac=as.factor(latin$subregion)
+asia=subset(full,full$region!="Asia")
+asia$year.fac=as.factor(asia$year)
+asia$subregion.fac=as.factor(asia$subregion)
+stargazer(ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+          industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+          subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+          trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+          year.fac+subregion.fac, 
+          data=smallEconomies),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=smallEconomies),
+          ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=transEcon),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=transEcon),
+          ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=subsaharan),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=subsaharan),
+          ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=northAfrica),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=northAfrica),
+          ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=latin),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=latin),
+          ivreg(tax_to_gdp~grant_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=asia),
+          ivreg(tax_to_gdp~loan_gdp+real_gdp_capita+trade_open+
+                  industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+                  subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+                  trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+                  year.fac+subregion.fac, 
+                data=asia),
+          type="html",out="tables/table6_IV.html",
+          omit.stat=c("adj.rsq","f","ser"))
+stargazer(lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(smallEconomies)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(smallEconomies)),
+          lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(transEcon)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(transEcon)),
+          lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(subsaharan)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(subsaharan)),
+          lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(northAfrica)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(northAfrica)),
+          lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(latin)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(latin)),
+          lm(grant_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(asia)),
+          lm(loan_gdp~dist.aid+col.aid+religion.aid,
+             data=na.omit(asia)),
+          type="html",out="tables/table6_OLS.html",
+          omit.stat=c("adj.rsq","f","ser"))
+colnames(smallEconomies)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(smallEconomies))
+colnames(transEcon)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(transEcon))
+colnames(subsaharan)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(subsaharan))
+colnames(northAfrica)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(northAfrica))
+colnames(latin)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(latin))
+colnames(asia)[3]="Y"
+cragg_donald(X=~real_gdp_capita+trade_open+industry_value_gdp+
+               natural_rent_gdp+real_gdp_growth, # Control Variables
+             D=~loan_gdp, # Treatments
+             Z=~dist.aid+col.aid+religion.aid,# Instruments
+             data = na.omit(asia))
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=smallEconomies),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=smallEconomies),diagnostic=TRUE)
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=transEcon),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=transEcon),diagnostic=TRUE)
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=subsaharan),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=subsaharan),diagnostic=TRUE)
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=northAfrica),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=northAfrica),diagnostic=TRUE)
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=latin),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=latin),diagnostic=TRUE)
+summary(ivreg(Y~grant_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=asia),diagnostic=TRUE)
+summary(ivreg(Y~loan_gdp+real_gdp_capita+trade_open+
+        industry_value_gdp+natural_rent_gdp+real_gdp_growth+year.fac+
+        subregion.fac|dist.aid+col.aid+religion.aid+real_gdp_capita+
+        trade_open+industry_value_gdp+natural_rent_gdp+real_gdp_growth+
+        year.fac+subregion.fac, 
+      data=asia),diagnostic=TRUE)
