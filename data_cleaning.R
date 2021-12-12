@@ -570,3 +570,25 @@ full$year.fac
 full$subregion.fac
 full=subset(full,select=-year.fac)
 full=subset(full,select=-subregion.fac)
+#join least developing countries and population
+rm(list=ls())
+full=read.csv("building_block/full.csv")
+population=read.csv("unmerged_unraw_csv/World_Bank/World_Bank_population.csv",
+                    fileEncoding="UTF-8-BOM")
+colnames(population)
+population=subset(population,select=-countries)
+write.csv(population,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/World_Bank/World_Bank_population.csv",
+          )
+full=merge(x=full,y=population,by=c("iso3","year"),
+                    all.x = TRUE)
+#joined population, now least developing countries
+rm(population)
+un=read.csv("building_block/UN.csv")
+colnames(un)
+un=(subset(un,select=c("iso3","leastDeveloped")))
+full=merge(x=full,y=un,by="iso3",all.x=TRUE)
+rm(un)
+write.csv(full,
+          "C:/Users/andes/Documents/HKUST/Academic/2021 Fall/ECON4274/ECON4670/building_block/full.csv",
+)
